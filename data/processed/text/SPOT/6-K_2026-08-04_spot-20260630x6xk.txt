@@ -1,0 +1,1453 @@
+6-K
+
+1
+
+spot-20260630x6xk.htm
+
+6-K
+
+Document
+
+[TABLE]
+
+[/TABLE]
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+[TABLE]
+
+[/TABLE]
+
+FORM 6-K
+
+[TABLE]
+
+[/TABLE]
+
+REPORT OF FOREIGN PRIVATE ISSUER
+PURSUANT TO RULE 13a-16 OR 15d-16
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+For the month of August, 2026
+Commission File Number: 001-38438
+Spotify Technology S.A.
+(Translation of registrant’s name into English)
+
+[TABLE]
+33 Boulevard Prince Henri
+L-1724 Luxembourg
+Grand Duchy of Luxembourg
+(Address of principal executive office)
+[/TABLE]
+
+[TABLE]
+
+[/TABLE]
+
+Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.
+Form 20-F 
+☒
+ Form 40-F 
+☐
+
+[TABLE]
+
+[/TABLE]
+
+Spotify Technology S.A.
+Interim condensed consolidated financial statements
+For the three and six months ended June 30, 2026
+Table of contents
+
+[TABLE]
+Page
+PART I - FINANCIAL INFORMATION
+Item 1. Financial Statements | 1
+Interim condensed consolidated statement of operations | 1
+Interim condensed consolidated statement of comprehensive income | 2
+Interim condensed consolidated statement of financial position | 3
+Interim condensed consolidated statement of changes in equity | 4
+Interim condensed consolidated statement of cash flows | 6
+Notes to the interim condensed consolidated financial statements | 7
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations | 26
+Item 3. Quantitative and Qualitative Disclosures About Market Risk | 39
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings | 42
+Item 1A. Risk Factors | 42
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds | 42
+Item 3. Defaults Upon Senior Securities | 42
+Item 5. Other Information | 42
+Signatures | 43
+[/TABLE]
+
+Table of Contents 
+PART I - FINANCIAL INFORMATION
+Item 1. Financial Statements
+Interim condensed consolidated statement of operations
+(Unaudited)
+(in € millions, except share and per share data)
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+Note | 2026 | 2025 | 2026 | 2025
+Revenue | 20 | 4,777 | 4,193 | 9,310 | 8,383
+Cost of revenue | 3,181 | 2,873 | 6,219 | 5,737
+Gross profit | 1,596 | 1,320 | 3,091 | 2,646
+Research and development | 403 | 415 | 734 | 794
+Sales and marketing | 390 | 364 | 732 | 678
+General and administrative | 148 | 135 | 255 | 259
+941 | 914 | 1,721 | 1,731
+Operating income | 655 | 406 | 1,370 | 915
+Finance income | 4 | 86 | 89 | 334 | 160
+Finance costs | 4 | (21) | (447) | (47) | (699)
+Finance income/(costs) - net | 65 | (358) | 287 | (539)
+Income before tax | 720 | 48 | 1,657 | 376
+Income tax expense | 5 | 175 | 134 | 391 | 237
+Net income/(loss) attributable to owners of the parent | 545 | (86) | 1,266 | 139
+Earnings/(loss) per share attributable to owners of the parent
+Basic | 6 | 2.65 | (0.42) | 6.15 | 0.68
+Diluted | 6 | 2.61 | (0.42) | 6.06 | 0.66
+Weighted-average ordinary shares outstanding
+Basic | 6 | 205,788,241 | 205,426,999 | 205,752,745 | 204,950,112
+Diluted | 6 | 208,858,469 | 205,426,999 | 209,078,186 | 210,475,453
+[/TABLE]
+
+ The accompanying notes are an integral part of the interim condensed consolidated financial statements.
+-1-
+Table of Contents 
+Interim condensed consolidated statement of comprehensive income
+(Unaudited)
+(in € millions)
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+Note | 2026 | 2025 | 2026 | 2025
+Net income/(loss) attributable to owners of the parent | 545 | (86) | 1,266 | 139
+Other comprehensive (loss)/income
+Items that may be subsequently reclassified to interim condensed consolidated statement of operations (net of tax):
+Net (losses)/gains on short term investments | 13, 19 | — | (1) | (1) | 7
+Net (losses)/gains on cash flow hedging instruments | 13, 19 | (1) | 9 | (5) | 16
+Change in foreign currency translation adjustment | 28 | (136) | 63 | (214)
+Items not to be subsequently reclassified to interim condensed consolidated statement of operations (net of tax):
+Net (losses)/gains in the fair value of long term investments held at period-end | 13, 19 | (61) | 368 | (847) | 628
+Other comprehensive (loss)/income for the period (net of tax) | (34) | 240 | (790) | 437
+Total comprehensive income for the period attributable to owners of the parent | 511 | 154 | 476 | 576
+[/TABLE]
+
+ The accompanying notes are an integral part of the interim condensed consolidated financial statements.
+- 2 -
+Table of Contents 
+Interim condensed consolidated statement of financial position
+(in € millions)
+
+[TABLE]
+Note | June 30, 2026 | December 31, 2025
+(Unaudited)
+Assets
+Non-current assets
+Lease right-of-use assets | 7 | 225 | 234
+Property and equipment | 8 | 193 | 188
+Goodwill | 9 | 1,110 | 1,083
+Intangible assets | 9 | 36 | 41
+Long term investments | 19 | 1,118 | 2,181
+Restricted cash and other non-current assets | 10 | 56 | 61
+Finance lease receivables | 7 | 71 | 69
+Deferred tax assets | 5 | 563 | 662
+3,372 | 4,519
+Current assets
+Trade and other receivables | 11 | 780 | 802
+Income tax receivable | 92 | 116
+Short term investments | 19 | 3,450 | 4,209
+Cash and cash equivalents | 5,938 | 5,258
+Other current assets | 12 | 116 | 111
+10,376 | 10,496
+Total assets | 13,748 | 15,015
+Equity and liabilities
+Equity
+Share capital | — | —
+Other paid in capital | 6,624 | 6,496
+Treasury shares | 13 | (1,248) | (701)
+Other reserves | 13 | 2,588 | 3,366
+Retained earnings/(accumulated deficit) | 421 | (832)
+Equity attributable to owners of the parent | 8,385 | 8,329
+Non-current liabilities
+Lease liabilities | 7 | 404 | 433
+Accrued expenses and other liabilities | 17 | 2 | 2
+Provisions | 18 | 13 | 3
+Deferred tax liabilities | 5 | 30 | 163
+449 | 601
+Current liabilities
+Trade and other payables | 16 | 1,325 | 1,194
+Income tax payable | 171 | 72
+Deferred revenue | 778 | 711
+Accrued expenses and other liabilities | 17 | 2,573 | 2,589
+Exchangeable Notes | 15, 19 | — | 1,458
+Provisions | 18 | 45 | 51
+Derivative liabilities | 19 | 22 | 10
+4,914 | 6,085
+Total liabilities | 5,363 | 6,686
+Total equity and liabilities | 13,748 | 15,015
+[/TABLE]
+
+The accompanying notes are an integral part of the interim condensed consolidated financial statements.
+- 3 -
+Table of Contents 
+Interim condensed consolidated statement of changes in equity
+(Unaudited)
+(in € millions)
+
+[TABLE]
+Note | Share capital | Other paid in capital | Treasury Shares | Other reserves | (Accumulated deficit)/retained earnings | Equity attributable to owners of the parent
+Balance at January 1, 2026 | — | 6,496 | (701) | 3,366 | (832) | 8,329
+Income for the period | — | — | — | — | 721 | 721
+Other comprehensive loss | — | — | — | (756) | — | (756)
+Reclassification of net losses attributable to changes in the Group’s credit risk upon derecognition of the Exchangeable Notes, net of tax | 13 | — | — | — | 13 | (13) | —
+Repurchases of ordinary shares | — | — | (306) | — | — | (306)
+Issuance of shares upon exercise of stock options, restricted stock units, and contingently issuable shares | 13 | — | 64 | — | — | — | 64
+Restricted stock units withheld for employee taxes | — | — | — | (46) | — | (46)
+Share-based compensation | 14 | — | — | — | 56 | — | 56
+Income tax impact associated with share-based compensation | — | — | — | (52) | — | (52)
+Balance at March 31, 2026 | — | 6,560 | (1,007) | 2,581 | (124) | 8,010
+Income for the period | — | — | — | — | 545 | 545
+Other comprehensive loss | — | — | — | (34) | — | (34)
+Repurchases of ordinary shares | — | — | (241) | — | — | (241)
+Issuance of shares upon exercise of stock options and restricted stock units | 13 | — | 64 | — | — | — | 64
+Restricted stock units withheld for employee taxes | — | — | — | (33) | — | (33)
+Share-based compensation | 14 | — | — | — | 86 | — | 86
+Income tax impact associated with share-based compensation | — | — | — | (12) | — | (12)
+Balance at June 30, 2026 | — | 6,624 | (1,248) | 2,588 | 421 | 8,385
+[/TABLE]
+
+- 4 -
+Table of Contents 
+
+[TABLE]
+Note | Share capital | Other paid in capital | Treasury Shares | Other reserves | Accumulated deficit | Equity attributable to owners of the parent
+Balance at January 1, 2025 | — | 6,124 | (262) | 2,707 | (3,044) | 5,525
+Income for the period | — | — | — | — | 225 | 225
+Other comprehensive income | — | — | — | 197 | — | 197
+Issuance of shares upon exercise of stock options, restricted stock units, and contingently issuable shares | 13 | — | 204 | — | — | — | 204
+Restricted stock units withheld for employee taxes | — | — | — | (60) | — | (60)
+Share-based compensation | 14 | — | — | — | 42 | — | 42
+Income tax impact associated with share-based compensation | — | — | — | 114 | — | 114
+Balance at March 31, 2025 | — | 6,328 | (262) | 3,000 | (2,819) | 6,247
+Loss for the period | — | — | — | — | (86) | (86)
+Other comprehensive income | — | — | — | 240 | — | 240
+Issuance of shares upon exercise of stock options and restricted stock units | 13 | — | 92 | — | — | — | 92
+Restricted stock units withheld for employee taxes | — | — | — | (57) | — | (57)
+Share-based compensation | 14 | — | — | — | 73 | — | 73
+Income tax impact associated with share-based compensation | — | — | — | 118 | — | 118
+Balance at June 30, 2025 | — | 6,420 | (262) | 3,374 | (2,905) | 6,627
+[/TABLE]
+
+The accompanying notes are an integral part of the interim condensed consolidated financial statements.
+- 5 -
+Table of Contents 
+Interim condensed consolidated statement of cash flows
+(Unaudited)
+(in € millions)
+
+[TABLE]
+Six months ended June 30,
+Note | 2026 | 2025
+Operating activities
+Net income | 1,266 | 139
+Adjustments to reconcile net income to net cash flows
+Depreciation of property and equipment and lease right-of-use assets | 7, 8 | 44 | 40
+Amortization of intangible assets | 9 | 11 | 13
+Impairment charge on real estate assets | 7, 8 | 4 | 3
+Share-based compensation expense | 14 | 142 | 115
+Finance income | 4 | (334) | (160)
+Finance costs | 4 | 47 | 699
+Income tax expense | 5 | 391 | 237
+Other | (1) | 8
+Changes in working capital:
+Decrease/(increase) in trade receivables and other assets | 11 | (23)
+Increase in trade and other liabilities | 56 | 111
+Increase in deferred revenue | 60 | 15
+(Decrease)/increase in provisions | 18 | (9) | 20
+Interest paid | 7 | (15) | (19)
+Interest received | 100 | 127
+Income tax paid | (121) | (77)
+Net cash flows from operating activities | 1,652 | 1,248
+Investing activities
+Payment of deferred consideration pertaining to business combinations | — | (9)
+Purchases of property and equipment | 8 | (25) | (16)
+Purchases of short term investments | 19 | (14,041) | (8,572)
+Sales and maturities of short term investments | 19 | 14,835 | 7,858
+Change in restricted cash | 10 | 3 | 2
+Dividends received | 4 | 29 | 22
+Other | (7) | (3)
+Net cash flows from/(used in) investing activities | 794 | (718)
+Financing activities
+Proceeds from exercise of stock options | 14 | 128 | 296
+Repurchases of ordinary shares | 13 | (538) | —
+Payments of lease liabilities | 7 | (36) | (44)
+Repayment of Exchangeable Notes | 15 | (1,304) | —
+Payments for employee taxes withheld from restricted stock unit releases | 14 | (79) | (115)
+Net cash flows (used in)/from financing activities | (1,829) | 137
+Net increase in cash and cash equivalents | 617 | 667
+Cash and cash equivalents at beginning of the period | 5,258 | 4,781
+Net foreign exchange gains/(losses) on cash and cash equivalents | 63 | (287)
+Cash and cash equivalents at June 30 | 5,938 | 5,161
+Supplemental disclosure of cash flow information
+Non-cash investing and financing activities
+Recognition of lease right-of-use asset in exchange for lease liabilities | 7 | 9 | 81
+Recognition of lease right-of-use assets due to increases in asset retirement obligations | 7, 18 | 10 | —
+Real estate assets disposed of in exchange for finance lease receivables | 7, 8 | 3 | 6
+Change in repurchases of ordinary shares in trade and other liabilities | 13 | 9 | —
+[/TABLE]
+
+The accompanying notes are an integral part of the interim condensed consolidated financial statements.
+- 6 -
+Table of Contents 
+Notes to the interim condensed consolidated financial statements
+(Unaudited)
+1.
+Corporate information
+Spotify Technology S.A. (the “Company” or “parent”) is a public limited company incorporated and domiciled in Luxembourg. The Company’s registered office is 33 Boulevard Prince Henri, L-1724 Luxembourg, Grand Duchy of Luxembourg.
+The principal activity of the Company and its subsidiaries (collectively, the “Group,” “we,” “us,” or “our”) is audio streaming. The Group’s premium service (“Premium Service”) provides users with unlimited online and offline high-quality streaming access to its catalog of music and podcasts, including video in certain markets. The Premium Service offers a music listening experience without commercial breaks. In select markets, the Premium Service provides eligible users with limited online and offline streaming access to a catalog of audiobooks, with optional add-ons for additional audiobook listening hours. In select markets, Premium users can watch eligible video podcasts without interruptions from dynamically inserted advertisements. The Group’s ad-supported service (“Ad-Supported Service,” and together with the Premium Service and other subscription offerings, the “Service”) has no subscription fees and provides users with limited on-demand online access to the catalog of music and unlimited online and offline access to the catalog of podcasts. The Group depends on securing content licenses from a number of major and minor content owners and other rights holders in order to provide its service.
+2.
+Basis of preparation and summary of material accounting policies
+The interim condensed consolidated financial statements of Spotify Technology S.A. for the three and six months ended June 30, 2026 and 2025 have been prepared in accordance with IAS 34 Interim Financial Reporting as issued by the International Accounting Standards Board (“IASB”). The interim financial information is unaudited. The interim financial information reflects all normal recurring adjustments that are, in the opinion of management, necessary to fairly present the information set forth herein. The interim condensed consolidated financial statements should be read in conjunction with the Group’s consolidated financial statements for the year ended December 31, 2025, as they do not include all the information and disclosures required in the annual consolidated financial statements. Interim results are not necessarily indicative of the results for a full year. The interim condensed consolidated financial statements are presented in millions of Euros.
+New and amended standards and interpretations adopted by the Group
+Classification and Measurement of Financial Instruments - Amendments to IFRS 9 and IFRS 7
+On January 1, 2026, the Group adopted the IASB issued amendments to IFRS 9 and IFRS 7, Amendments to the Classification and Measurement of Financial Instruments. The amendments clarify that a financial liability is derecognized on the “settlement date,” which is when the related obligation is discharged, canceled, expired or the liability otherwise qualifies for derecognition. The amendments also clarify how to assess the contractual cash flow characteristics of financial assets that include environmental, social and governance (“ESG”)-linked features and other similar contingent features, and the treatment of non-recourse assets and contractually linked instruments. In addition, the amendments require additional disclosures in IFRS 7 for financial assets and liabilities with contractual terms that reference a contingent event (including those that are ESG-linked), and equity instruments classified at fair value through other comprehensive (loss)/income. Adoption of these amendments did not have a material impact to the interim condensed consolidated financial statements.
+There are no other International Financial Reporting Standards (“IFRS”) or IFRS Interpretation Committee (“IFRIC”) interpretations effective during the six months ended June 30, 2026 that have a material impact to the interim condensed consolidated financial statements.
+New standards and interpretations issued not yet effective
+Presentation and Disclosure in Financial Statements - IFRS 18 
+In April 2024, the IASB issued IFRS 18 Presentation and Disclosure in Financial Statements (“IFRS 18”), which replaces IAS 1 Presentation of Financial Statements. IFRS 18 requires an entity to classify all income and expenses within its statement of profit or loss into one of five categories: operating; investing; financing; income taxes; and discontinued operations. The first three categories are new. These categories are complemented by the requirement to present subtotals and totals for “operating profit or loss,” “profit or loss before financing income and taxes,” and “profit or loss.” IFRS 18, and the amendments to the other standards, is effective for reporting periods beginning on or after January 1, 2027, and must be applied retrospectively. Early application is permitted. 
+- 7 -
+Table of Contents 
+The Group is currently evaluating the impact of this new standard. Upon adoption, the Group expects changes to the presentation of its consolidated statement of operations, including the reclassification into the operating category of certain foreign exchange differences, which are currently presented within finance income/(costs). This reclassification will impact reported operating income, but adoption will not impact the Group’s total revenue or net income. Adoption will also affect the presentation of the consolidated statement of cash flows, due primarily to the reclassification of interest paid and interest received to financing and investing, respectively. The Group also expects to introduce additional note disclosures to address other requirements of the standard.
+There are no other IFRS or IFRIC interpretations that are not yet effective and that are expected to have a material impact to the interim condensed consolidated financial statements.
+3.
+Critical accounting estimates and judgments
+In preparing these interim condensed consolidated financial statements, the significant judgments made by management in applying the Group’s accounting policies and the key sources of estimation and uncertainty were the same as those applied to the consolidated financial statements for the year ended December 31, 2025, except that the fair value estimation of the 0% Exchangeable Senior Notes due 2026 (the “Exchangeable Notes”) is no longer applicable, as the Exchangeable Notes matured and were derecognized on March 15, 2026.
+Estimates and judgments are continually evaluated and are based on historical experience and other factors, including expectations of future events.
+4.
+Finance income and costs
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+(in € millions)
+Finance income
+Fair value movements on Exchangeable Notes (Note 19) | — | — | 184 | —
+Interest income | 46 | 59 | 98 | 124
+Interest income on finance lease receivables (Note 7) | 2 | 2 | 4 | 4
+Dividend income from investments held at period-end | 29 | 22 | 29 | 22
+Other finance income | 9 | 6 | 19 | 10
+Total | 86 | 89 | 334 | 160
+Finance costs
+Fair value movements on Exchangeable Notes (Note 19) | — | (421) | — | (601)
+Interest expense on lease liabilities | (8) | (8) | (15) | (16)
+Other finance costs | — | (3) | (1) | (9)
+Foreign exchange losses | (13) | (15) | (31) | (73)
+Total | (21) | (447) | (47) | (699)
+[/TABLE]
+
+5.
+Income tax
+The effective tax rates for the three months ended June 30, 2026 and 2025 were 24.3% and 278.7%, respectively. The effective tax rates for the six months ended June 30, 2026 and 2025 were 23.6% and 63.1%, respectively. The Group operates in a global environment with significant operations in various jurisdictions outside Luxembourg. Accordingly, the consolidated effective tax rate is a composite rate reflecting the Group’s earnings and the applicable tax rates in the various jurisdictions where the Group operates.
+The effective tax rate for the three months ended June 30, 2026 was higher than the Luxembourg statutory rate of 23.87%. The higher effective rate is driven by €12 million of deferred tax expense, due primarily to share price revaluation of equity compensation deferred tax assets. In addition, there were a number of other smaller expenses. These expenses were largely offset by a €13 million tax benefit for the generation of tax credits and a €12 million benefit related to the mix of income earned in jurisdictions with lower tax rates.
+- 8 -
+Table of Contents 
+The effective tax rate for the three months ended June 30, 2025 was higher than the Luxembourg statutory rate of 23.87%, primarily driven by non-deductible losses associated with the Exchangeable Notes resulting in tax expense of €106 million, a €10 million deferred tax expense related to foreign exchange revaluation of non-functional currency deferred tax assets, and an accrual for uncertain tax positions of €7 million.
+The effective tax rate for the six months ended June 30, 2026 was lower than the Luxembourg statutory rate of 23.87%, primarily driven by a tax benefit of €47 million related to the decrease in non-deductible losses associated with the Exchangeable Notes, a €25 million tax benefit for the generation of tax credits and a €19 million benefit related to the mix of income earned in jurisdictions with lower tax rates. This was partially offset by €33 million of expense related to an increase in provisions for uncertain tax positions, €22 million of deferred tax expense, due primarily to share price revaluation of equity compensation deferred tax assets, and €13 million expense related to the change in approach to the treatment of capitalized research and development costs from a prior period given newly released guidance.
+The effective tax rate for the six months ended June 30, 2025 was higher than the Luxembourg statutory rate of 23.87%, primarily driven by non-deductible losses associated with the Exchangeable Notes resulting in tax expense of €153 million.
+Transactions recorded through other comprehensive (loss)/income have been shown net of their tax impact, as applicable.
+The Group is in scope of the OECD Pillar Two Model Rules (“P2 Rules”). The impact of exposure to Pillar Two income taxes is not material based on the most recently available financial information of the Group.
+We are subject to ongoing tax audits in several jurisdictions, some of which involve tax matters related to transfer pricing, direct taxes, or withholding taxes. Tax authorities in certain jurisdictions have challenged our tax positions. We regularly assess the likely outcomes of these audits, taking into account any new information available, in order to determine the appropriateness of the tax reserves. If management concludes that it is not probable that a tax position will be accepted, the effect of that uncertainty is reflected at either the most likely amount or the expected value, taking into account a range of possible outcomes.
+Tax provisions related to uncertain tax positions in the interim condensed consolidated statement of financial position, which management has concluded are not probable to be accepted, were €100 million as of June 30, 2026 and €62 million as of December 31, 2025. €5 million of the provisions related to uncertain tax positions are reasonably expected to be resolved within the next 12 months. Interest and penalties included in income tax expense were not material in any of the periods presented. Due to the uncertainty associated with our tax positions, any future agreement with the tax authorities could have a significant impact on our results of operations, financial condition and cash flows.
+Net deferred tax assets of €533 million and €499 million have been recorded in the interim condensed consolidated statement of financial position as of June 30, 2026 and December 31, 2025, respectively. In evaluating the probability of realizing the deferred tax assets, the Group considered all available positive and negative evidence of future taxable profit. As of June 30, 2026 and December 31, 2025, deferred tax assets of €51 million and €41 million have not been recognized. Changes in profitability in the jurisdictions where these balances originated, among other factors, could have an impact on management’s assessment of deferred tax recognition.
+- 9 -
+Table of Contents 
+6.
+Earnings/(loss) per share
+Basic earnings/(loss) per share is computed using the weighted-average number of outstanding ordinary shares during the period. Diluted earnings/(loss) per share is computed using the weighted-average number of outstanding ordinary shares and potential outstanding ordinary shares during the period. Potential ordinary shares, which are based on the weighted-average ordinary shares underlying outstanding stock options, restricted stock units, other contingently issuable shares, and Exchangeable Notes, and computed using the treasury stock method or the if-converted method, as applicable, are included when calculating diluted earnings/(loss) per share when their effect is dilutive. The computation of earnings/(loss) per share for the respective periods is as follows:
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+(in € millions, except share and per share data)
+Basic earnings/(loss) per share
+Net income/(loss) attributable to owners of the parent | 545 | (86) | 1,266 | 139
+Shares used in computation:
+Weighted-average ordinary shares outstanding | 205,788,241 | 205,426,999 | 205,752,745 | 204,950,112
+Basic earnings/(loss) per share attributable to owners of the parent | 2.65 | (0.42) | 6.15 | 0.68
+Diluted earnings/(loss) per share
+Net income/(loss) attributable to owners of the parent | 545 | (86) | 1,266 | 139
+Net earnings/(loss) used in the computation of diluted earnings/(loss) per share | 545 | (86) | 1,266 | 139
+Shares used in computation:
+Weighted-average ordinary shares outstanding | 205,788,241 | 205,426,999 | 205,752,745 | 204,950,112
+Stock options | 2,396,155 | — | 2,581,101 | 4,008,347
+Restricted stock units | 674,073 | — | 742,413 | 1,505,614
+Other contingently issuable shares | — | — | 1,927 | 11,380
+Diluted weighted-average ordinary shares | 208,858,469 | 205,426,999 | 209,078,186 | 210,475,453
+Diluted earnings/(loss) per share attributable to owners of the parent | 2.61 | (0.42) | 6.06 | 0.66
+[/TABLE]
+
+Potential dilutive securities that were not included in the diluted earnings/(loss) per share calculations because they would be anti-dilutive for the periods presented, but could potentially dilute earnings per share in the future, were as follows:
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+Stock options | 1,124,863 | 5,233,987 | 1,124,863 | 334,602
+Restricted stock units | 19,218 | 1,821,820 | 13,893 | 19,703
+Other contingently issuable shares | — | 7,706 | — | —
+Exchangeable Notes | — | 2,911,500 | — | 2,911,500
+[/TABLE]
+
+- 10 -
+Table of Contents 
+7.
+Leases
+The Group leases certain properties under non-cancelable lease agreements that primarily relate to office space. The expected lease terms are up to 11 years.
+Below is the roll-forward of lease right-of-use assets:
+
+[TABLE]
+Right-of-use assets
+(in € millions)
+Cost
+At January 1, 2026 | 579
+Increases | 19
+Decreases | (22)
+Exchange differences | 9
+At June 30, 2026 | 585
+Accumulated depreciation and impairment loss
+At January 1, 2026 | (345)
+Depreciation charge | (25)
+Impairment charge | (3)
+Decreases | 18
+Exchange differences | (5)
+At June 30, 2026 | (360)
+Cost, net accumulated depreciation and impairment loss
+At January 1, 2026 | 234
+At June 30, 2026 | 225
+[/TABLE]
+
+Below is the roll-forward of lease liabilities:
+
+[TABLE]
+Lease liabilities | 2026 | 2025
+(in € millions)
+At January 1 | 498 | 537
+Increases | 9 | 85
+Payments (1) | (51) | (58)
+Interest expense | 15 | 16
+Decreases | (12) | (9)
+Exchange differences | 7 | (50)
+At June 30 | 466 | 521
+[/TABLE]
+
+(1)
+€15 million and €14 million of interest paid on lease liabilities are included in operating activities within the interim condensed consolidated statement of cash flows for the six months ended June 30, 2026 and 2025, respectively, and €36 million and €44 million of payments of lease liabilities are included in financing activities within the interim condensed consolidated statement of cash flows for the six months ended June 30, 2026 and 2025, respectively.
+- 11 -
+Table of Contents 
+Below is the maturity analysis of lease liabilities:
+
+[TABLE]
+Lease liabilities | June 30, 2026
+Maturity Analysis | (in € millions)
+Less than one year | 90
+One to five years | 285
+More than five years | 204
+Total lease commitments | 579
+Impact of discounting remaining lease payments | (113)
+Total lease liabilities | 466
+Lease liabilities included in the interim condensed consolidated statement of financial position
+Current | 62
+Non-current | 404
+Total | 466
+[/TABLE]
+
+The Group has entered into certain lease agreements with approximately €51 million of commitments, which had not commenced as of June 30, 2026, and, as such, have not been recognized in the interim condensed consolidated statement of financial position.
+The weighted-average incremental borrowing rate applied to lease liabilities recognized in the interim condensed consolidated statement of financial position as of June 30, 2026 was 5.8%.
+The Group has entered into agreements to sublease a portion of its leased offices under finance leases. Below is the roll-forward of finance lease receivables:
+
+[TABLE]
+Finance lease receivables | 2026 | 2025
+(in € millions)
+At January 1 | 81 | 76
+Additions | 3 | 7
+Interest income | 4 | 4
+Payments received | (7) | (1)
+Exchange differences | 1 | (9)
+At June 30 | 82 | 77
+[/TABLE]
+
+Below is the maturity analysis of finance lease receivables:
+
+[TABLE]
+Finance lease receivables | June 30, 2026
+Maturity Analysis | (in € millions)
+Less than one year | 18
+One to five years | 59
+More than five years | 36
+Total lease payments receivable | 113
+Unearned finance income | (31)
+Total finance lease receivables | 82
+Finance lease receivables included in the interim condensed consolidated statement of financial position
+Current | 11
+Non-current | 71
+Total | 82
+[/TABLE]
+
+- 12 -
+Table of Contents 
+8.
+Property and equipment
+
+[TABLE]
+Property and equipment | Leasehold improvements | Total
+(in € millions)
+Cost
+At January 1, 2026 | 136 | 348 | 484
+Additions | 18 | 5 | 23
+Disposals | (37) | (15) | (52)
+Exchange differences | 2 | 7 | 9
+At June 30, 2026 | 119 | 345 | 464
+Accumulated depreciation and impairment loss
+At January 1, 2026 | (83) | (213) | (296)
+Depreciation charge | (4) | (15) | (19)
+Impairment charge | — | (1) | (1)
+Disposals | 37 | 13 | 50
+Exchange differences | (1) | (4) | (5)
+At June 30, 2026 | (51) | (220) | (271)
+Cost, net accumulated depreciation and impairment loss
+At January 1, 2026 | 53 | 135 | 188
+At June 30, 2026 | 68 | 125 | 193
+[/TABLE]
+
+The Group had €7 million and €39 million of property and equipment and leasehold improvements that were not placed into service as of June 30, 2026 and December 31, 2025, respectively. 
+- 13 -
+Table of Contents 
+9.
+Goodwill and intangible assets
+
+[TABLE]
+Internal development costs and patents | Acquired intangible assets | Total | Goodwill | Total
+(in € millions)
+Cost
+At January 1, 2026 | 37 | 133 | 170 | 1,083 | 1,253
+Additions | 2 | 3 | 5 | — | 5
+Derecognition of fully amortized intangibles | (1) | (11) | (12) | — | (12)
+Exchange differences | — | 3 | 3 | 27 | 30
+At June 30, 2026 | 38 | 128 | 166 | 1,110 | 1,276
+Accumulated amortization
+At January 1, 2026 | (25) | (104) | (129) | — | (129)
+Amortization charge | (3) | (8) | (11) | — | (11)
+Derecognition of fully amortized intangibles | 1 | 11 | 12 | — | 12
+Exchange differences | — | (2) | (2) | — | (2)
+At June 30, 2026 | (27) | (103) | (130) | — | (130)
+Cost, net accumulated amortization
+At January 1, 2026 | 12 | 29 | 41 | 1,083 | 1,124
+At June 30, 2026 | 11 | 25 | 36 | 1,110 | 1,146
+[/TABLE]
+
+Amortization charges related to intangible assets of €4 million and €6 million are included in research and development in the interim condensed consolidated statement of operations during the three months ended June 30, 2026 and 2025, respectively. Amortization charges related to intangible assets of €9 million and €11 million are included in research and development in the interim condensed consolidated statement of operations during the six months ended June 30, 2026 and 2025, respectively. There were no impairment charges for goodwill or intangible assets for both the three and six months ended June 30, 2026 and 2025.
+10.
+Restricted cash and other non-current assets
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Restricted cash
+Lease deposits and guarantees | 42 | 42
+Other | — | 1
+Other non-current assets | 14 | 18
+Total | 56 | 61
+[/TABLE]
+
+11.
+Trade and other receivables
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Trade receivables | 547 | 541
+Less: allowance for expected credit losses | (4) | (5)
+Trade receivables - net | 543 | 536
+Other receivables | 237 | 266
+Total | 780 | 802
+[/TABLE]
+
+- 14 -
+Table of Contents 
+12.
+Other current assets
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Content assets | 20 | 28
+Prepaid expenses and other | 83 | 75
+Derivative assets | 13 | 8
+Total | 116 | 111
+[/TABLE]
+
+Content asset amortization of €22 million and €32 million is included in cost of revenue in the interim condensed consolidated statement of operations for the three months ended June 30, 2026 and 2025, respectively. Content asset amortization of €52 million and €66 million is included in cost of revenue in the interim condensed consolidated statement of operations for the six months ended June 30, 2026 and 2025, respectively.
+13.
+Equity and other reserves
+As of June 30, 2026 and December 31, 2025, the Company had 210,241,268 and 209,485,215 ordinary shares issued and fully paid, respectively, with 4,657,063 and 3,652,688 ordinary shares held as treasury shares, respectively.
+On August 20, 2021, the Company announced that the board of directors had approved a program to repurchase up to US$1.0 billion of the Company’s ordinary shares. On July 29, 2025, the Company announced that the board of directors had approved an increase in the Company’s share repurchase program by an additional US$1.0 billion. Repurchases of up to 10,000,000 of the Company’s ordinary shares were authorized at the Company’s general meeting of shareholders on April 21, 2021. During our 2026 annual general meeting held on April 15, 2026, shareholders and holders of beneficiary certificates renewed the authorization to repurchase 10,000,000 ordinary shares issued by the Company during a period of five years, for a price that will be determined by the board of directors within the following limits: at least the par value and at most the fair market value. As of June 30, 2026, the Company repurchased 2,586,713 shares for €1,076 million (US$1,253 million) under this program. The Company repurchased 575,866 shares for €241 million (US$277 million) during the three months ended June 30, 2026 and 1,349,216 shares for €547 million (US$638 million) during the six months ended June 30, 2026. As of June 30, 2026, the maximum value of shares that may yet be purchased under the share repurchase program is approximately US$747 million. Additionally, subsequent to the end of the reporting period and through close of business on August 3, 2026, the Company repurchased an additional 50,000 shares for €21 million (US$24 million) under this program.
+For the three and six months ended June 30, 2026, the Company issued and repurchased 500,000 and 750,000 of its own ordinary shares, respectively, from its Netherlands subsidiary at par value. For the three and six months ended June 30, 2026, the Company reissued 540,010 and 1,094,841 treasury shares, respectively, upon the exercise of stock options and release of restricted stock units. 
+For the three and six months ended June 30, 2025, the Company issued and repurchased 500,000 and 1,000,000 of its own ordinary shares, respectively, from its Netherlands subsidiary at par value. For the three and six months ended June 30, 2025, the Company reissued 721,428 and 1,923,270 treasury shares, respectively, upon the exercise of stock options and release of restricted stock units.
+As of June 30, 2026 and December 31, 2025, the Group’s founders held 309,932,980 beneficiary certificates.
+- 15 -
+Table of Contents 
+Other reserves
+
+[TABLE]
+2026 | 2025
+(in € millions)
+Currency translation
+At January 1 | (69) | 150
+Currency translation | 63 | (214)
+At June 30 | (6) | (64)
+Short term investments
+At January 1 | 1 | (7)
+Gains on fair value that may be subsequently reclassified to interim condensed consolidated statement of operations | — | 10
+Gains reclassified to interim condensed consolidated statement of operations | (2) | (1)
+Deferred tax | 1 | (2)
+At June 30 | — | —
+Long term investments
+At January 1 | 996 | 553
+Net (losses)/gains on fair value of investments held at period-end not to be subsequently reclassified to interim condensed consolidated statement of operations | (1,066) | 792
+Deferred tax | 219 | (164)
+At June 30 | 149 | 1,181
+Exchangeable Notes
+At January 1 | (13) | (13)
+Net losses attributable to changes in the Group’s credit risk reclassified to retained earnings upon derecognition | 17 | —
+Tax effect of net losses attributable to changes in the Group’s credit risk reclassified to retained earnings upon derecognition | (4) | —
+At June 30 | — | (13)
+Cash flow hedges
+At January 1 | (2) | (5)
+(Losses)/gains on fair value that may be subsequently reclassified to interim condensed consolidated statement of operations | (18) | 15
+Losses reclassified to revenue | 30 | —
+(Gains)/losses reclassified to cost of revenue | (18) | 5
+Deferred tax | 1 | (4)
+At June 30 | (7) | 11
+Share-based compensation
+At January 1 | 2,453 | 2,029
+Share-based compensation | 142 | 115
+Income tax impact associated with share-based compensation | (64) | 232
+Restricted stock units withheld for employee taxes | (79) | (117)
+At June 30 | 2,452 | 2,259
+Other reserves at June 30 | 2,588 | 3,374
+[/TABLE]
+
+- 16 -
+Table of Contents 
+14.
+Share-based compensation
+The expense recognized in the interim condensed consolidated statement of operations for share-based compensation is as follows:
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+(in € millions)
+Cost of revenue | 1 | 1 | 2 | 2
+Research and development | 45 | 41 | 70 | 64
+Sales and marketing | 15 | 19 | 25 | 30
+General and administrative | 25 | 12 | 45 | 19
+Total | 86 | 73 | 142 | 115
+[/TABLE]
+
+Activity in the Group’s RSUs and other contingently issuable shares outstanding and related information is as follows:
+
+[TABLE]
+RSUs | Other
+Number of RSUs | Weighted average grant date fair value | Number of Awards | Weighted average grant date fair value
+US$ | US$
+Outstanding at January 1, 2026 | 1,317,262 | 307.65 | 7,706 | 162.21
+Granted | 644,852 | 451.59 | — | —
+Forfeited | (81,828) | 296.31 | — | —
+Released | (424,270) | 212.23 | (7,706) | 162.21
+Outstanding at June 30, 2026 | 1,456,016 | 399.84 | — | —
+[/TABLE]
+
+In the table above, the number of RSUs and other contingently issuable shares released include ordinary shares that the Group has withheld for settlement of employees’ tax obligations due upon the vesting of RSUs and other contingently issuable shares. For most of our employees, when RSUs vest, the Group withholds the number of shares that are equal to the monetary value of the employee’s tax obligation from the total number of shares that otherwise would have been issued. The Group then remits cash to tax authorities on the employees’ behalf. If all the RSUs outstanding at June 30, 2026 subsequently vest, the Group estimates that it would be required to remit approximately €228 million to tax authorities over the vesting period for the years 2026 through 2030. In determining this estimate, the Group used the Company’s ordinary share price as at June 30, 2026. The actual amount remitted to tax authorities is dependent on the Company’s ordinary share price on each of the vesting dates as well as the number of awards that ultimately vest.
+Activity in the Group’s stock options outstanding and related information is as follows:
+
+[TABLE]
+Options
+Number of options | Weighted average exercise price
+US$
+Outstanding at January 1, 2026 | 4,665,081 | 198.32
+Granted | 766,306 | 523.46
+Forfeited | (68,588) | 271.00
+Exercised | (852,995) | 175.25
+Expired | (12,990) | 392.44
+Outstanding at June 30, 2026 | 4,496,814 | 256.44
+Exercisable at January 1, 2026 | 2,708,669 | 170.61
+Exercisable at June 30, 2026 | 2,789,877 | 171.61
+[/TABLE]
+
+The weighted-average contractual life for the stock options outstanding at June 30, 2026 was 2.1 years. The weighted-average share price at exercise for options exercised during the six months ended June 30, 2026 was US$498.33. The weighted-average fair value of options granted during the six months ended June 30, 2026 was US$175.84 per option.
+- 17 -
+Table of Contents 
+The following table lists the inputs to the Black-Scholes option-pricing models used for stock options for the three and six months ended June 30, 2026 and 2025:
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+Expected volatility (%) | 41.0 - 47.8 | 43.5 - 51.9 | 39.5 - 47.9 | 43.5 - 54.0
+Risk-free interest rate (%) | 3.8 - 4.2 | 3.7 - 4.0 | 3.4 - 4.2 | 3.7 - 4.4
+Expected life of stock options (years) | 2.6 - 4.8 | 2.6 - 4.8 | 2.6 - 4.8 | 2.6 - 4.8
+Weighted-average share price (US$) | 445.29 | 605.54 | 493.05 | 603.42
+[/TABLE]
+
+15.
+Exchangeable Notes
+On March 2, 2021, the Company’s wholly owned subsidiary, Spotify USA Inc. (the “Issuer”), issued US$1,500 million aggregate principal amount of Exchangeable Notes, which included the initial purchasers’ exercise in full of their option to purchase an additional US$200 million principal amount of the Exchangeable Notes.
+The net proceeds from the issuance of the Exchangeable Notes were €1,223 million after deducting transaction costs of €18 million. The transaction costs were immediately expensed and included in finance costs in the interim condensed consolidated statement of operations for the three months ended March 31, 2021.
+The Group accounted for the Exchangeable Notes at fair value through profit and loss using the fair value option in accordance with IFRS 9, Financial Instruments. The circumstances required to allow the noteholders to exchange their Exchangeable Notes, as outlined in the indenture governing the Exchangeable Notes (“Indenture”), were met since June 30, 2025. The Exchangeable Notes were exchangeable through close of business on March 12, 2026. The Group elected to settle all exchanges on or after December 15, 2025 in cash.
+During the three months ended March 31, 2026, prior to maturity, noteholders of a portion of the Group’s Exchangeable Notes exchanged US$1,223 thousand in principal of Exchangeable Notes. The Exchangeable Notes that were exchanged were settled in cash at the Group’s election.
+The Exchangeable Notes matured on March 15, 2026 and the outstanding Exchangeable Notes, along with exchanges during the three months ended March 31, 2026, were derecognized and settled in cash for €1,304 million (US$1,499 million) in accordance with the Indenture.
+16.
+Trade and other payables
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Trade payables | 888 | 783
+Value added tax and sales taxes payable | 401 | 380
+Other current liabilities | 36 | 31
+Total | 1,325 | 1,194
+[/TABLE]
+
+- 18 -
+Table of Contents 
+17.
+Accrued expenses and other liabilities
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Non-current
+Other accrued liabilities | 2 | 2
+Total | 2 | 2
+Current
+Accrued fees to rights holders | 1,971 | 1,950
+Accrued salaries, vacation, severance, and related taxes | 120 | 100
+Accrued social costs for options and RSUs | 142 | 217
+Other accrued expenses | 278 | 257
+Lease liabilities | 62 | 65
+Total | 2,573 | 2,589
+[/TABLE]
+
+18.
+Provisions
+
+[TABLE]
+Legal contingencies | Other | Total
+(in € millions)
+Carrying amount at January 1, 2026 | 18 | 36 | 54
+Additional provisions | — | 14 | 14
+Reversal of unutilized amounts | (3) | (1) | (4)
+Exchange differences | — | 1 | 1
+Utilized | (5) | (2) | (7)
+Carrying amount at June 30, 2026 | 10 | 48 | 58
+As at January 1, 2026
+Current portion | 18 | 33 | 51
+Non-current portion | — | 3 | 3
+As at June 30, 2026
+Current portion | 10 | 35 | 45
+Non-current portion | — | 13 | 13
+[/TABLE]
+
+Legal contingencies
+Various legal and regulatory actions, proceedings, claims, and inquiries are pending or may be instituted or asserted against the Group. The results of such proceedings are difficult to predict and the extent of the Group’s financial exposure is difficult to estimate. The Group records a provision for contingent losses when it is both probable that a liability has been incurred, and the amount of the loss can be reasonably estimated.
+Other
+The Group has provisions that relate primarily to potential tax obligations other than income tax in various jurisdictions. The Group recognizes provisions for claims on taxes other than income tax when it determines that an unfavorable outcome is probable and the amount of loss can be reasonably estimated.
+- 19 -
+Table of Contents 
+19.
+Financial instruments
+Foreign exchange forward contracts
+Cash flow hedges
+The Group’s currency pairs used for cash flow hedges are Euro / U.S. dollar, Euro / Australian dollar, Euro / British pound, Euro / Swedish krona, Euro / Canadian dollar, and Euro / Norwegian krone. The notional principal of foreign exchange contracts hedging the revenue and cost of revenue line items in the interim condensed consolidated statement of operations was €1,816 million and €1,093 million, respectively, as of June 30, 2026, and €1,743 million and €1,050 million, respectively, as of December 31, 2025.
+Fair values
+The carrying amounts of certain financial instruments, including cash and cash equivalents, trade and other receivables, restricted cash, trade and other payables, and accrued expenses and other liabilities approximate fair value due to their relatively short maturities. Refer to the consolidated financial statements for the year ended December 31, 2025 for information regarding the Group’s measurement of its finance lease receivables. The carrying amount of our finance lease receivables is considered to approximate their fair value at June 30, 2026. Refer to the consolidated financial statements for the year ended December 31, 2025 for information regarding the Group’s measurement of its lease liabilities. All other financial assets and liabilities are accounted for at fair value.
+The following tables summarize, by major security type, the Group’s financial assets and liabilities that are measured at fair value on a recurring basis, and the category using the fair value hierarchy:
+
+[TABLE]
+Quoted Prices in Active Markets for Identical Assets (Level 1) | Significant Other Observable Inputs (Level 2) | Significant Unobservable Inputs (Level 3) | June 30, 2026
+(in € millions)
+Financial assets at fair value
+Cash equivalents:
+Money market funds | 3,721 | — | — | 3,721
+Short term investments:
+Money market funds | 367 | — | — | 367
+Collateralized reverse purchase agreements | — | 2,403 | — | 2,403
+Fixed income funds | 680 | — | — | 680
+Derivatives (designated for hedging):
+Foreign exchange forwards | — | 13 | — | 13
+Long term investments | 1,034 | — | 84 | 1,118
+Total financial assets at fair value by level | 5,802 | 2,416 | 84 | 8,302
+Financial liabilities at fair value
+Derivatives (designated for hedging):
+Foreign exchange forwards | — | 22 | — | 22
+Total financial liabilities at fair value by level | — | 22 | — | 22
+[/TABLE]
+
+- 20 -
+Table of Contents 
+
+[TABLE]
+Quoted Prices in Active Markets for Identical Assets (Level 1) | Significant Other Observable Inputs (Level 2) | Significant Unobservable Inputs (Level 3) | December 31, 2025
+(in € millions)
+Financial assets at fair value
+Cash equivalents:
+Money market funds | 3,525 | — | — | 3,525
+Short term investments:
+Money market funds | 826 | — | — | 826
+Government securities | 370 | — | — | 370
+Agency securities | — | 2 | — | 2
+Corporate notes | — | 525 | — | 525
+Collateralized reverse purchase agreements | — | 1,751 | — | 1,751
+Fixed income funds | 735 | — | — | 735
+Derivatives (designated for hedging):
+Foreign exchange forwards | — | 8 | — | 8
+Long term investments | 2,111 | — | 70 | 2,181
+Total financial assets at fair value by level | 7,567 | 2,286 | 70 | 9,923
+Financial liabilities at fair value
+Exchangeable Notes | — | — | 1,458 | 1,458
+Derivatives (designated for hedging):
+Foreign exchange forwards | — | 10 | — | 10
+Total financial liabilities at fair value by level | — | 10 | 1,458 | 1,468
+[/TABLE]
+
+The Group’s policy is to recognize transfers into and transfers out of fair value hierarchy levels at the end of each reporting period. During the six months ended June 30, 2026, there were no transfers between levels in the fair value hierarchy.
+Recurring fair value measurements
+Long term investment - Tencent Music Entertainment Group
+The Group’s approximate 9% investment in Tencent Music Entertainment Group (“TME”) is carried at fair value through other comprehensive (loss)/income. The fair value of ordinary shares of TME is based on the ending New York Stock Exchange American depository share price. The fair value of the investment in TME may vary over time and is subject to a variety of risks including company performance, macro-economic, regulatory, industry, USD to Euro exchange rate, and systemic risks of the equity markets overall.
+The table below presents the changes in the investment in TME:
+
+[TABLE]
+2026 | 2025
+(in € millions)
+At January 1 | 2,111 | 1,550
+Changes in fair value recorded in other comprehensive (loss)/income | (1,077) | 789
+At June 30 | 1,034 | 2,339
+[/TABLE]
+
+A 10% decrease or increase in TME’s share price would have resulted in a fair value of the Group’s long term investment in TME ranging from €931 million to €1,137 million at June 30, 2026.
+The following sections describe the valuation methodologies the Group uses to measure its Level 3 financial instruments at fair value on a recurring basis.
+- 21 -
+Table of Contents 
+Long term investments - other
+The Group has interests in certain long term investments, the most significant of which is our equity investment in DK Holdco, LLC (“DistroKid”), an independent digital music distribution service. These long term investments primarily represent unlisted equity securities carried at fair value through other comprehensive (loss)/income. The fair values of these equity investments are generally determined using business enterprise values based on market transactions or by applying market multiples to the projected financial performance. The key assumptions used to estimate the fair value of these equity investments include market multiples of revenue or earnings before interest, income taxes, depreciation and amortization for benchmark companies used to estimate business enterprise value. 
+The fair value of the long term investments may vary over time and is subject to a variety of risks including: company performance, macroeconomic, regulatory, industry, USD to Euro exchange rate, and systemic risks of the overall equity markets.
+The table below presents the changes in the other long term investments:
+
+[TABLE]
+2026 | 2025
+(in € millions)
+At January 1 | 70 | 85
+Initial recognition of long term investment | 1 | —
+Changes in fair value recorded in other comprehensive (loss)/income held at period-end | 11 | 3
+Changes in fair value recognized in interim condensed consolidated statement of operations | — | (1)
+Effect of changes in foreign exchange rates | 2 | (9)
+At June 30 | 84 | 78
+[/TABLE]
+
+Exchangeable Notes
+The table below presents the changes in the Exchangeable Notes:
+
+[TABLE]
+2026 | 2025
+(in € millions)
+At January 1 | 1,458 | 1,539
+Changes in fair value recognized in interim condensed consolidated statement of operations | (184) | 601
+Derecognition and settlement in cash | (1,304) | —
+Effect of changes in foreign exchange rates | 30 | (211)
+At June 30 | — | 1,929
+[/TABLE]
+
+The changes in fair value were recognized within finance income/costs in the interim condensed consolidated statement of operations, excluding changes in fair value due to changes in the Group’s own credit risk, which are recognized in other comprehensive (loss)/income and were reclassified directly to retained earnings upon derecognition of the Exchangeable Notes.
+The Exchangeable Notes matured on March 15, 2026 and the outstanding Exchangeable Notes, along with exchanges during the three months ended March 31, 2026, were derecognized and settled in cash for €1,304 million (US$1,499 million) in accordance with the Indenture.
+20.
+Segment information
+The Group has two reportable segments: Premium and Ad-Supported. Revenue for the Premium segment is generated primarily through subscription fees. Revenue for the Ad-Supported segment is generated primarily through the sale of advertising across the Group’s music and podcast content. Royalty costs are primarily recorded in each segment based on specific rates for each segment agreed to with rights holders. Beginning in 2025, podcast content costs attributable to the enhanced video podcast experience for subscribers to our Premium Service, launched as part of the Spotify Partner Program initiative, are recorded in the Premium segment. Other podcast content costs are recorded in the Ad-Supported segment. The costs of providing audiobook content as part of a subscription are recorded in the Premium segment. The remaining costs that are not specifically associated with either of the segments are allocated based on user activity or the revenue recognized in each segment. No operating segments have been aggregated to form the reportable segments.
+- 22 -
+Table of Contents 
+Key financial performance measures of the segments including revenue, cost of revenue, and gross profit, are as follows:
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+(in € millions)
+Premium
+Revenue | 4,331 | 3,753 | 8,479 | 7,536
+Cost of revenue | 2,820 | 2,509 | 5,523 | 5,023
+Gross profit | 1,511 | 1,244 | 2,956 | 2,513
+Ad-Supported
+Revenue | 446 | 440 | 831 | 847
+Cost of revenue | 361 | 364 | 696 | 714
+Gross profit | 85 | 76 | 135 | 133
+Consolidated
+Revenue | 4,777 | 4,193 | 9,310 | 8,383
+Cost of revenue | 3,181 | 2,873 | 6,219 | 5,737
+Gross profit | 1,596 | 1,320 | 3,091 | 2,646
+[/TABLE]
+
+Effective January 1, 2026, certain revenue-generating activities previously reported within the Ad-Supported segment were transferred to the Premium segment to reflect changes in the financial information presented to the Group’s new Co-Chief Executive Officers, who serve as the joint chief operating decision makers. Prior period amounts have been reclassified to conform to current period presentation.
+Reconciliation of segment gross profit
+Operating expenses, finance income, and finance costs are not allocated to individual segments as these are managed on an overall Group basis. The reconciliation between reportable segment gross profit to the Group’s income before tax is as follows:
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+(in € millions)
+Segment gross profit | 1,596 | 1,320 | 3,091 | 2,646
+Research and development | (403) | (415) | (734) | (794)
+Sales and marketing | (390) | (364) | (732) | (678)
+General and administrative | (148) | (135) | (255) | (259)
+Finance income | 86 | 89 | 334 | 160
+Finance costs | (21) | (447) | (47) | (699)
+Income before tax | 720 | 48 | 1,657 | 376
+[/TABLE]
+
+- 23 -
+Table of Contents 
+Revenue by country 
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | 2026 | 2025
+(in € millions)
+United States | 1,734 | 1,592 | 3,326 | 3,242
+Luxembourg | 4 | 3 | 7 | 6
+Other countries | 3,039 | 2,598 | 5,977 | 5,135
+Total | 4,777 | 4,193 | 9,310 | 8,383
+[/TABLE]
+
+Premium revenue is attributed to a country based on where the subscription originates. Ad-Supported revenue is attributed to a country based on where the advertising campaign is delivered. There are no countries that individually make up 10% or more of total revenue included in “Other countries.”
+21.
+Commitments and contingencies
+Commitments
+The Group is subject to the following minimum guarantees relating to the content on its Service, the majority of which relate to minimum royalty payments associated with its license agreements for the use of licensed content:
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Not later than one year | 979 | 1,123
+Later than one year but not more than five years | 1,311 | 1,490
+2,290 | 2,613
+[/TABLE]
+
+In addition, the Group is subject to various non-cancelable purchase obligations and service agreements with minimum spend commitments, including a service agreement with Google for the use of Google Cloud Platform and certain content and marketing commitments:
+
+[TABLE]
+June 30, 2026 | December 31, 2025
+(in € millions)
+Not later than one year | 665 | 626
+Later than one year but not more than five years | 960 | 896
+More than five years | 49 | 53
+1,674 | 1,575
+[/TABLE]
+
+Contingencies
+Various legal and regulatory actions, proceedings, claims, and inquiries are pending or may be instituted or asserted against the Group. These include, but are not limited to, matters relating to intellectual property, data protection, consumer protection, employment, and contractual rights. 
+As a general matter, the music and other content made available on the Group’s Service are licensed to the Group by various third parties. Many of these licenses allow rights holders or other authorized parties to audit the Group’s royalty payments, and any such audit could result in disputes over whether the Group has paid the proper royalties. If such a dispute were to occur, the Group could be required to pay additional royalties, and the amounts involved could be material. The Group expenses legal fees as incurred.
+The Group is subject to ongoing audits for tax obligations other than income tax in several jurisdictions. Tax authorities in certain jurisdictions have challenged our positions including by making assessments for the period from Q4 2019 through the end of 2020, totaling €62 million inclusive of associated penalties and interest, which we are contesting. The Group has not received assessments related to this matter for subsequent periods through June 30, 2026. For periods subsequent to the assessments it is not practical to estimate the potential amount of any future assessments but it could be material. We do not agree with these assessments and believe that we have robust defenses. As such we have not booked any provision in relation to this matter.
+- 24 -
+Table of Contents 
+The Group records a provision for contingent losses when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated. An unfavorable outcome to any legal or tax matter, if material, could have an adverse effect on the Group’s operations or its financial position, liquidity, or results of operations.
+On May 16, 2024, the Mechanical Licensing Collective (“MLC”), an entity designated to administer a blanket compulsory license available under U.S. law, filed a lawsuit against Spotify USA Inc. in the U.S. District Court for the Southern District of New York (
+Mechanical Licensing Collective v. Spotify USA Inc.
+, No. 1:24-cv-03809), alleging that beginning with its March 2024 reporting, Spotify USA Inc. improperly reported and underpaid royalties for its Premium Service as a bundle that includes a monthly allocation of audiobook access. On January 29, 2025, the MLC’s lawsuit was dismissed with prejudice, with the court holding that the Premium Service is a bundle. On October 1, 2025, the MLC filed an amended complaint alleging that Spotify USA Inc. improperly valued the components of the Premium Service bundle and improperly reported royalties for the Audiobook Access Tier product. The MLC has also sought permission from the district court to seek interlocutory appeal of the court’s prior ruling that the Premium Service is a bundle under the applicable regulations. If the MLC were to ultimately be entirely successful in its claim alleging that Spotify’s Premium Service is not a bundle, then the liability in relation to the period March 1, 2024 to June 30, 2026 would be approximately €473 million, plus potential penalties and interest, which we cannot reasonably estimate. Any liability would be partially offset by direct deals with publishers.
+- 25 -
+Table of Contents 
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Special Note Regarding Forward-Looking Statements
+This discussion and analysis reflects our historical results of operations and financial position and contains estimates and forward-looking statements. All statements other than statements of historical fact are forward-looking statements. The words “may,” “might,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “seek,” “believe,” “estimate,” “predict,” “potential,” “continue,” “contemplate,” “possible,” and similar words are intended to identify estimates and forward-looking statements.
+Our estimates and forward-looking statements are mainly based on our current expectations and estimates of future events and trends, which affect or may affect our businesses and operations. Although we believe that these estimates and forward-looking statements are based upon reasonable assumptions, they are subject to numerous risks and uncertainties and are made in light of information currently available to us. Many important factors may adversely affect our results as indicated in forward-looking statements. These factors include, but are not limited to:
+•
+our ability to attract prospective users, retain existing users, and monetize our products and services;
+•
+competition for users, their time, and advertisers;
+•
+risks associated with our international operations and our ability to manage our growth and the scope and complexity of our business;
+•
+risks associated with our new products or services and our emphasis on long-term user engagement over short-term results; 
+•
+our ability to provide personalized content that our users enjoy;
+•
+our ability to sustain our revenue growth rate;
+•
+our ability to convince advertisers of the benefits of our advertising offerings;
+•
+our ability to forecast, optimize, or sell advertising inventory amid evolving industry trends in digital advertising;
+•
+our ability to successfully monetize and generate revenues from podcasts, audiobooks, and other non-music content;
+•
+potential disputes or liabilities associated with content made available on our Service (as defined above);
+•
+risks relating to acquisitions, investments, and divestitures;
+•
+our dependence upon third-party licenses for most of the content we stream;
+•
+our lack of control over third-party content providers who are concentrated and can unilaterally affect our access to content;
+•
+our ability to comply with complex license agreements;
+•
+our ability to accurately estimate royalty payments under our license agreements and relevant statutes;
+•
+the limitations on our operating flexibility due to financial commitments required under certain of our license agreements;
+•
+our ability to identify the compositions embodied in sound recordings and audiovisual works and ownership thereof in order to obtain licenses or comply with existing license agreements;
+•
+assertions by third parties of infringement or other violations by us of their intellectual property rights;
+•
+our ability to protect our intellectual property;
+•
+the dependence of streaming on operating systems, online platforms, hardware, networks, regulations, and standards that we do not control;
+•
+our ability to maintain the integrity of our technology infrastructure and systems or the security of confidential information;
+•
+undetected errors, misconfigurations, bugs, or vulnerabilities in our products and services; 
+•
+interruptions, delays, or discontinuations in service arising from our systems or systems of third parties;
+•
+changes in laws or regulations affecting us;
+•
+risks relating to privacy and data security, content moderation, use of artificial intelligence, and third parties’ intentional misuse of our products and services;
+•
+our ability to maintain, protect, and enhance our brand;
+•
+our ability to meet evolving stakeholder expectations relating to environmental, social, and governance matters;
+•
+payment acceptance-related risks;
+•
+our dependence on key personnel and ability to attract, retain, and motivate highly skilled employees;
+•
+our ability to access additional capital to support strategic objectives; 
+•
+risks relating to currency exchange rate fluctuations and foreign exchange controls; 
+- 26 -
+Table of Contents 
+•
+the impact of economic, social, or political conditions, including slower growth or recession, inflation, changes in interest rates, changes in trade and tax policies, geopolitical conflicts, and related market uncertainty;
+•
+our ability to accurately estimate user metrics and other estimates;
+•
+our ability to manage and remediate attempts to manipulate streams and attempts to gain or provide unauthorized access to certain features of our Service;
+•
+risks related to our indebtedness;
+•
+fluctuation of our operating results and fair market value of ordinary shares;
+•
+tax-related risks;
+•
+the concentration of voting power among our founders, which limits shareholders’ ability to influence our governance and business; and
+•
+risks related to our status as a foreign private issuer and a Luxembourg company.
+We operate in an evolving environment. New risk factors and uncertainties emerge from time to time, and it is not possible for our management to predict all risk factors and uncertainties, nor are we able to assess the impact of all of these risk factors on our business or the extent to which any risk factor, or combination of risk factors, may cause actual results to differ materially from those contained in any forward-looking statements.
+We qualify all of our forward-looking statements by these cautionary statements. For additional information, refer to the risk factors discussed under Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F for the year ended December 31, 2025 (“Annual Report on Form 20-F”) and in our other filings with the U.S. Securities and Exchange Commission (“SEC”).
+You should read this discussion and analysis completely and with the understanding that our actual future results may be materially different from our expectations.
+Investors and others should note that we announce material financial information to our investors using our Investors website (investors.spotify.com), SEC filings, press releases, public conference calls, and webcasts. We use these channels, as well as social media, to communicate with our users and the public about our company, our Service, and other issues. It is possible that the information we post on these channels could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our Company to review the information we post on the channels listed on our Investors website.
+Overview
+We are the world’s most popular audio streaming subscription service. With a presence in 184 countries and territories, our platform includes 777 million monthly active users (“MAUs”) and 300 million Premium Subscribers (as defined below) as of June 30, 2026.
+We currently monetize our Service primarily through both subscriptions and advertising. Our Premium Subscribers have grown 9% year-over-year, as of June 30, 2026, to 300 million. Our 777 million MAUs have grown 12% year-over-year, as of June 30, 2026.
+Our results reflect the effects of our trial programs, both discounted and free trials, in addition to seasonal trends in user behavior and, with respect to our Ad-Supported segment, advertising behavior. Historically, Premium Subscriber growth benefits when we run such trial programs. 
+For our Ad-Supported segment, typically we experience higher advertising revenue in the fourth quarter of each calendar year due to greater advertising demand during the holiday season. However, in the first quarter of each calendar year, we typically experience a seasonal decline in advertising revenue due to reduced advertiser demand.
+We are focused on delivering best-in-class value to consumers relative to the price they pay for Spotify and we periodically update pricing to reflect the value of our evolving offerings.
+We continue to enhance the user experience by improving discovery and personalization through innovative new features, including the use of artificial intelligence (“AI”). During the quarter, we introduced or expanded several features available to subscribers on the Premium Service in select markets, including Reserved, DJ in four additional languages, and Narrated Articles.
+- 27 -
+Table of Contents 
+Current macroeconomic environment
+The global macroeconomic environment continues to be uncertain, reflecting the impacts of slower growth, inflation, changes in interest rates, changes in trade and tax policies, geopolitical conflicts, and related market uncertainty. We will continue to actively monitor and respond accordingly to the macroeconomic environment.
+For additional information, refer to Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F.
+Key Performance Indicators
+We use certain key performance indicators to monitor and manage our business. We use these indicators to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions. We believe these indicators provide useful information to investors in understanding and evaluating our operating results in the same manner we do.
+MAUs
+We track MAUs as an indicator of the size of the audience engaged with our Service. We define MAUs as the total count of Ad-Supported Users and Premium Subscribers that have consumed content for greater than zero milliseconds in the last thirty days from the period-end indicated. Reported MAUs may overstate the number of unique individuals who actively use our Service within a thirty-day period, as one individual may register for, and use, multiple accounts. Additionally, although we strive to detect and minimize non-bona fide accounts that may typically be created in an attempt to artificially stream content, they may contribute, from time to time, to an overstatement in our reported MAUs. Our MAUs in the tables below are inclusive of Ad-Supported Users who may have employed methods to limit or otherwise avoid being served advertisements. For additional information, refer to the risk factors discussed under Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F, and in our other filings with the SEC.
+The table below sets forth our MAUs as of June 30, 2026 and 2025.
+
+[TABLE]
+As of June 30,
+2026 | 2025 | Change
+(in millions, except percentages)
+MAUs | 777 | 696 | 81 | 12
+[/TABLE]
+
+MAUs were 777 million as of June 30, 2026 and 696 million as of June 30, 2025, which represented an increase of 12%. MAUs benefited from our continued investment in driving the growth of our Service through successful consumer marketing campaigns, enhanced content offerings, and product enhancements, resulting in continued user engagement and customer satisfaction.
+Premium Subscribers
+We define Premium Subscribers as users that have completed registration with Spotify and have activated a payment method for Premium Service and other subscription offerings (collectively, “Subscription Offerings”). Our Premium Subscribers include all registered accounts in our Family Plan and Duo Plan. Our Family Plan consists of one primary subscriber and up to five additional sub-accounts, allowing up to six Premium Subscribers per Family Plan Subscription, depending on the market. Our Duo Plan consists of one primary subscriber and up to one additional sub-account, allowing up to two Premium Subscribers per Duo Plan Subscription. Premium Subscribers include subscribers in a grace period of up to 30 days after failing to pay their subscription fee.
+The table below sets forth our Premium Subscribers as of June 30, 2026 and 2025.
+
+[TABLE]
+As of June 30,
+2026 | 2025 | Change
+(in millions, except percentages)
+Premium Subscribers | 300 | 276 | 24 | 9
+[/TABLE]
+
+Premium Subscribers were 300 million as of June 30, 2026 and 276 million as of June 30, 2025, which represented an increase of 9%. Our free trial offers and global campaigns were meaningful contributors of total gross additions in Premium Subscribers, while our Family Plan and Duo Plan also accounted for a significant portion of gross additions in Premium Subscribers.
+- 28 -
+Table of Contents 
+Ad-Supported MAUs
+We define Ad-Supported MAUs as the total count of Ad-Supported Users that have consumed content for greater than zero milliseconds in the last thirty days from the period-end indicated.
+The table below sets forth our Ad-Supported MAUs as of June 30, 2026 and 2025.
+
+[TABLE]
+As of June 30,
+2026 | 2025 | Change
+(in millions, except percentages)
+Ad-Supported MAUs | 494 | 433 | 61 | 14
+[/TABLE]
+
+Ad-Supported MAUs were 494 million as of June 30, 2026 and 433 million as of June 30, 2025, which represented an increase of 14%. Ad-Supported MAUs benefited from our continued investment in driving the growth of our Ad-Supported Service through successful consumer marketing campaigns, enhanced content offerings, and product enhancements, resulting in continued Ad-Supported User engagement and customer satisfaction.
+Premium ARPU
+Premium average revenue per user (“ARPU”) is a monthly measure defined as revenue recognized from Premium Subscribers in the quarter indicated divided by the average daily Premium Subscribers in such quarter, which is then divided by three months.
+The table below sets forth our average Premium ARPU for the three and six months ended June 30, 2026 and 2025.
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+Premium ARPU | € | 4.89 | € | 4.57 | € | 0.32 | 7 | € | 4.82 | € | 4.65 | € | 0.17 | 4
+[/TABLE]
+
+For the three months ended June 30, 2026 and 2025, Premium ARPU was €4.89 and €4.57, respectively, which represented an increase of 7%. This increase of €0.32 is primarily attributable to price increases, resulting in a €0.49 increase in Premium ARPU. This increase was partially offset by changes in product and market mix, decreasing Premium ARPU by €0.14, and unfavorable movements in foreign exchange rates, decreasing Premium ARPU by €0.02.
+For the six months ended June 30, 2026 and 2025, Premium ARPU was €4.82 and €4.65, respectively, which represented an increase of 4%. This increase of €0.17 is primarily attributable to price increases, resulting in a €0.45 increase in Premium ARPU. This increase was partially offset by changes in product and market mix, decreasing Premium ARPU by €0.15, and unfavorable movements in foreign exchange rates, decreasing Premium ARPU by €0.13.
+How We Generate Revenue
+We operate and manage our business in two reportable segments - Premium and Ad-Supported. We identify our reportable segments based on the organizational units used by the joint chief operating decision makers to monitor performance and make operating decisions. See Note 20 to our interim condensed consolidated financial statements for additional information regarding our reportable segments.
+Premium
+We generate revenue for our Premium segment primarily through the sale of subscriptions to the Subscription Offerings. The Subscription Offerings are primarily sold directly to end users. The Premium Service is also sold through partners who are generally telecommunications companies that bundle the subscription with their own services or collect payment for the stand-alone subscriptions from their end customers. Premium partner subscription revenue is based on a per-subscriber rate in a negotiated partner agreement. We also bundle our services with other services.
+- 29 -
+Table of Contents 
+Ad-Supported
+We generate revenue for our Ad-Supported segment primarily from the sale of display, audio, and video advertising delivered through advertising impressions across the Service. We enter into arrangements with advertising agencies that purchase advertising on behalf of their clients and we also enter into arrangements directly with some large advertisers. These direct advertising arrangements are typically sold on a cost-per-thousand impressions (“CPM”) basis and are evidenced by an insertion order that specifies the terms of the arrangement such as the type of advertising product, pricing, insertion dates, and number of impressions in a stated period. Additionally, we generate revenue through automated sales channels, including both internal and external advertising automated exchanges, our self-serve platform, and advertising marketplace programs to distribute advertising inventory for purchase on a biddable auction or fixed CPM basis. These arrangements are evidenced through submission of order placements through the platform and online acceptance of terms and conditions. These order placements typically specify the type of advertising product, pricing, insertion dates, and number of impressions in a stated period.
+In addition, certain offerings within our two-sided marketplace result in advertising revenues.
+Components of our Operating Results
+Cost of revenue.
+ Cost of revenue consists predominantly of royalty and distribution costs related to content streaming. We incur royalty costs, which we pay to certain record labels, music publishers, audiobook publishers, and other rights holders, for the right to stream content to our users. Music royalties are typically calculated monthly based on the combination of a number of different variables. Generally, Subscription Offering music royalties are based on the greater of a percentage of relevant revenue and a per user amount. Music royalties for the Ad-Supported Service are typically a percentage of relevant revenue, although certain agreements are based on the greater of a percentage of relevant revenue and an amount for each time a track is streamed. We have negotiated lower per user amounts for our lower priced subscription plans such as our Family Plan, Duo Plan, and Student Plan. In our agreements with certain record labels, the percentage of revenue used in the calculation of royalties is generally dependent upon certain targets being met. The targets can include such measures as the number of applicable Premium Subscribers, the ratio of Ad-Supported Users to applicable Premium Subscribers, and/or the rates of applicable Premium Subscriber churn. In addition, royalty rates vary by country. Some of our royalty agreements require that royalty costs be paid in advance or are subject to minimum guaranteed amounts. For the majority of royalty agreements, incremental costs incurred due to unrecouped advances and minimum guarantees have not been significant to date. We also have certain so-called most favored nation royalty agreements, which require us to record additional costs if certain material contract terms are not as favorable as the terms we have agreed to with similar licensors. Cost of revenue also reflects discounts provided by certain rights holders in return for promotional activities in connection with marketplace programs. Additionally, it includes the costs of discounted trials. Royalties payable in relation to audiobook licenses are generally consumption-based. Royalties payable in relation to lyrics are generally based on a percentage of relevant revenue or lyric impressions.
+Cost of revenue also includes the cost of podcast content assets (both produced and licensed). Amortization of podcast content assets is recorded over the shorter of the estimated useful economic life or the license period (if relevant) and begins at the release of each episode. Certain fixed fees to access content are recorded on a straight-line basis over the applicable license period. We make payments to podcast publishers, whose content we monetize through advertising sales in the Spotify Audience Network (“SPAN”), which are also included in cost of revenue. Additionally, cost of revenue includes payments for certain video content. Amounts are recognized based on a number of factors including qualifying consumption time attributable to eligible video episodes and financial participations in excess of minimum guarantees.
+Cost of revenue also includes credit card and payment processing fees for subscription revenue, advertising serving, advertising measurement, customer service, certain employee compensation and benefits, facility and equipment costs, and streaming delivery costs including cloud, AI, and IT related costs.
+Research and development.
+ We invest heavily in research and development in order to drive user engagement and customer satisfaction on our platform, which we believe helps drive organic growth in MAUs, which, in turn, drives additional growth in, and better retention of, Premium Subscribers, as well as increased advertising opportunities to our users. We aim to design products and features that create and enhance user experiences, and new technologies are at the core of many of these opportunities. Expenses primarily comprise costs incurred for the development of products related to our platform and Service, as well as new and existing advertising products and improvements to our mobile application and desktop application and streaming services. The costs incurred include cloud, AI, and IT related costs, facility costs, consulting costs, and employee compensation and benefits costs. We expect engineers to represent a significant portion of our employees over the foreseeable future.
+- 30 -
+Table of Contents 
+Many of our new products and improvements to our platform require large investments and involve substantial time and risks to develop and launch. Some of these products may not be well received or may take a long time for users to adopt. As a result, the benefits of our research and development investments are difficult to forecast.
+Sales and marketing.
+ Sales and marketing expenses primarily comprise employee compensation and benefits, public relations, branding, consulting expenses, customer acquisition costs, advertising, marketing events and trade shows, the cost of working with content creators and rights holders to promote the availability of new releases on our platform, and the costs of providing free trials. The cost of providing free trials is typically per user royalty fees, determined in accordance with the rights holder agreements.
+General and administrative.
+ General and administrative expenses primarily comprise employee compensation and benefits for functions such as finance, accounting, analytics, legal, human resources, and other costs including consulting fees, facility and equipment costs, directors’ and officers’ liability insurance, and director fees.
+Results of Operations
+Effective January 1, 2026, certain revenue-generating activities previously reported within the Ad-Supported segment were transferred to the Premium segment to reflect changes in the financial information presented to the Group’s new Co-Chief Executive Officers, who serve as the joint chief operating decision makers. Prior period amounts have been reclassified to conform to current period presentation.
+Revenue
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Premium | 4,331 | 3,753 | 578 | 15 | 8,479 | 7,536 | 943 | 13
+Ad-Supported | 446 | 440 | 6 | 1 | 831 | 847 | (16) | (2)
+Total | 4,777 | 4,193 | 584 | 14 | 9,310 | 8,383 | 927 | 11
+[/TABLE]
+
+Premium revenue
+For the three months ended June 30, 2026 and 2025, Premium revenue comprised 91% and 90% of our total revenue, respectively. For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, Premium revenue increased €578 million, or 15%. The increase was due to an increase in the number of Premium Subscribers and an increase in Premium ARPU, as described above.
+For the six months ended June 30, 2026 and 2025, Premium revenue comprised 91% and 90% of our total revenue, respectively. For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, Premium revenue increased €943 million, or 13%. The increase was due to an increase in the number of Premium Subscribers and an increase in Premium ARPU, as described above.
+Ad-Supported revenue
+For the three months ended June 30, 2026 and 2025, Ad-Supported revenue comprised 9% and 10% of our total revenue, respectively. For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, Ad-Supported revenue increased €6 million, or 1%. This increase was due primarily to an increase in music impressions sold on our biddable offerings, which increased revenue in our automated sales channels by €75 million. This was partially offset by a decrease of €66 million in our direct channel, due primarily to a decrease in music impressions sold through the channel.
+For the six months ended June 30, 2026 and 2025, Ad-Supported revenue comprised 9% and 10% of our total revenue, respectively. For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, Ad-Supported revenue decreased €16 million, or 2%. This decrease was due primarily to the impact of foreign exchange as discussed below. On a reported basis, including the impact of foreign exchange, our direct music channel decreased by €124 million, due primarily to a decrease in impressions sold through the channel. This decrease was partially offset by an increase in our automated sales channels of €120 million due primarily to an increase in music impressions sold on our biddable offerings.
+- 31 -
+Table of Contents 
+Foreign exchange impact on revenue
+The changes in revenue described above include the impact of foreign exchange rate movements during the respective periods. For Premium revenue, the general movement of the Euro relative to certain foreign currencies, primarily the U.S. dollar, for the three and six months ended June 30, 2026, as compared to the same periods in 2025, had a net unfavorable impact on our revenue. We estimate that Premium revenue for the three and six months ended June 30, 2026 would have been approximately €22 million and €236 million higher, respectively, if foreign exchange rates had remained consistent with foreign exchange rates for the comparable periods in 2025. For Ad-Supported revenue, the general movement of the Euro relative to certain foreign currencies, primarily the U.S. dollar, for the three and six months ended June 30, 2026, as compared to the same periods in 2025, had a net unfavorable impact on our revenue. We estimate that Ad-Supported revenue for the three and six months ended June 30, 2026 would have been approximately €8 million and €44 million higher, respectively, if foreign exchange rates had remained consistent with foreign exchange rates for the comparable periods in 2025.
+Cost of revenue
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Premium | 2,820 | 2,509 | 311 | 12 | 5,523 | 5,023 | 500 | 10
+Ad-Supported | 361 | 364 | (3) | (1) | 696 | 714 | (18) | (3)
+Total | 3,181 | 2,873 | 308 | 11 | 6,219 | 5,737 | 482 | 8
+[/TABLE]
+
+Premium cost of revenue
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, Premium cost of revenue increased €311 million, or 12%, and Premium cost of revenue as a percentage of Premium revenue decreased to 65% from 67%. The increase in Premium cost of revenue was due primarily to increases in Premium revenue driving increases in music royalties, as well as increases in audiobook licensing costs and costs associated with the Spotify Partner Program, partially offset by benefits from certain marketplace programs. These collectively resulted in higher content costs of €289 million. Additionally, there was a €12 million increase in payment processing fees and a €20 million increase in streaming delivery costs during the three months ended June 30, 2026, as compared to the three months ended June 30, 2025.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, Premium cost of revenue increased €500 million, or 10%, and Premium cost of revenue as a percentage of Premium revenue decreased to 65% from 67%. The increase in Premium cost of revenue was due primarily to increases in Premium revenue driving increases in music royalties, as well as increases in audiobook licensing costs and costs associated with the Spotify Partner Program, partially offset by benefits from certain marketplace programs. These collectively resulted in higher content costs of €474 million. Additionally, there was a €16 million increase in payment processing fees and a €24 million increase in streaming delivery costs during the six months ended June 30, 2026, as compared to the six months ended June 30, 2025.
+Ad-Supported cost of revenue
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, Ad-Supported cost of revenue decreased €3 million, or 1%, and Ad-Supported cost of revenue as a percentage of Ad-Supported revenue decreased to 81% from 83%. The decrease in Ad-Supported cost of revenue was due primarily to the impact of foreign exchange as discussed below. On a reported basis, including the impact of foreign exchange, the most significant movements in Ad-Supported cost of revenue for the three months ended June 30, 2026, as compared to the three months ended June 30, 2025, were benefits from the repeal of a foreign digital services tax of €6 million, offset by an increase in streaming delivery costs of €7 million.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, Ad-Supported cost of revenue decreased €18 million, or 3%, and Ad-Supported cost of revenue as a percentage of Ad-Supported revenue remained flat at 84%. The decrease in Ad-Supported cost of revenue was due primarily to the impact of foreign exchange as discussed below. On a reported basis, including the impact of foreign exchange, Ad-Supported cost of revenue decreased due to a reduction in music royalty costs net of certain marketplace programs of €8 million and benefits from the repeal of a foreign digital services tax of €6 million. These decreases were partially offset by an increase in streaming delivery costs of €9 million.
+- 32 -
+Table of Contents 
+Foreign exchange impact on total cost of revenue
+The changes in cost of revenue described above include the impact of foreign exchange rate movements during the respective periods. For Premium cost of revenue, the general movement of the Euro relative to certain foreign currencies, primarily the U.S. dollar, for the three and six months ended June 30, 2026, as compared to the same periods in 2025, had a net favorable impact on our cost of revenue. We estimate that Premium cost of revenue for the three and six months ended June 30, 2026 would have been approximately €16 million and €162 million higher, respectively, if foreign exchange rates had remained consistent with foreign exchange rates for the comparable periods in 2025. For Ad-Supported cost of revenue, the general movement of the Euro relative to certain foreign currencies, primarily the U.S. dollar, for the three and six months ended June 30, 2026, as compared to the same periods in 2025, had a net favorable impact on our cost of revenue. We estimate that Ad-Supported cost of revenue for the three and six months ended June 30, 2026 would have been approximately €8 million and €38 million higher, respectively, if foreign exchange rates had remained consistent with foreign exchange rates for the comparable periods in 2025.
+Gross profit and gross margin
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Gross profit
+Premium | 1,511 | 1,244 | 267 | 21 | 2,956 | 2,513 | 443 | 18
+Ad-Supported | 85 | 76 | 9 | 12 | 135 | 133 | 2 | 2
+Consolidated | 1,596 | 1,320 | 276 | 21 | 3,091 | 2,646 | 445 | 17
+Gross margin
+Premium | 35 | 33 | 35 | 33
+Ad-Supported | 19 | 17 | 16 | 16
+Consolidated | 33 | 31 | 33 | 32
+[/TABLE]
+
+Premium gross profit and gross margin
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, Premium gross profit increased by €267 million, and Premium gross margin increased to 35% from 33%. Premium gross margin increased due primarily to revenue growth outpacing music royalty costs net of certain marketplace programs, audiobook licensing costs, and costs associated with the Spotify Partner Program during the three months ended June 30, 2026.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, Premium gross profit increased by €443 million, and Premium gross margin increased to 35% from 33%. Premium gross margin increased due primarily to revenue growth outpacing music royalty costs net of certain marketplace programs, audiobook licensing costs, and costs associated with the Spotify Partner Program during the six months ended June 30, 2026.
+Ad-Supported gross profit and gross margin
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, Ad-Supported gross profit increased by €9 million, and gross margin increased to 19% from 17%. The increase in Ad-Supported gross margin was due primarily to favorability in podcast cost structure and benefits from the repeal of a foreign digital services tax. This increase was partially offset by music royalty costs net of certain marketplace programs outpacing revenue increases driven by an increase in music streams, as well as streaming delivery costs outpacing revenue increases during the three months ended June 30, 2026.
+For the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, Ad-Supported gross profit increased by €2 million, and gross margin remained flat at 16%. Ad-Supported gross margin benefited from a decline in content costs outpacing the decline in revenue due to favorability in podcast cost structure, as well as benefits from the repeal of a foreign digital services tax. These benefits were offset by an increase in streaming delivery costs during the six months ended June 30, 2026.
+- 33 -
+Table of Contents 
+Consolidated Operating Expenses
+From January 1, 2026, all personnel expenses related to our Co-Chief Executive Officers are included in general and administrative expense.
+Research and development
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Research and development | 403 | 415 | (12) | (3) | 734 | 794 | (60) | (8)
+As a percentage of revenue | 8 | 10 | 8 | 9
+[/TABLE]
+
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, research and development costs decreased by €12 million, or 3%. The decrease in research and development expenses was due primarily to a decrease of €76 million in social costs on share-based compensation awards due primarily to changes in share price movements. This decrease was partially offset by an increase of €49 million in information technology costs, due primarily to an increase in cloud and AI costs.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, research and development costs decreased €60 million, or 8%. The decrease in research and development expenses was due primarily to a decrease of €144 million in social costs on share-based compensation awards due primarily to changes in share price movements. This decrease was partially offset by an increase of €76 million in information technology costs, due primarily to an increase in cloud and AI costs.
+Sales and marketing
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Sales and marketing | 390 | 364 | 26 | 7 | 732 | 678 | 54 | 8
+As a percentage of revenue | 8 | 9 | 8 | 8
+[/TABLE]
+
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, sales and marketing expense increased by €26 million, or 7%. The increase in sales and marketing expenses was due primarily to an increase in costs of €34 million for marketing campaigns and an increase in costs of €12 million for providing free trials. This increase was partially offset by a decrease of €23 million in social costs on share-based compensation awards due primarily to changes in share price movements.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, sales and marketing expense increased by €54 million, or 8%. The increase in sales and marketing expenses was due primarily to an increase in costs of €68 million for marketing campaigns and an increase in costs of €33 million for providing free trials. This increase was partially offset by a decrease of €41 million in social costs on share-based compensation awards due primarily to changes in share price movements.
+- 34 -
+Table of Contents 
+General and administrative
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+General and administrative | 148 | 135 | 13 | 10 | 255 | 259 | (4) | (2)
+As a percentage of revenue | 3 | 3 | 3 | 3
+[/TABLE]
+
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, general and administrative expense increased by €13 million, or 10%. The increase in general and administrative expenses was due primarily to an increase of €13 million in share-based compensation, due primarily to amounts related to our Co-Chief Executive Officers being included in general and administrative expense beginning January 1, 2026. There was also an increase of €8 million in legal fees for the three months ended June 30, 2026, as compared to the three months ended June 30, 2025. These increases were partially offset by a decrease of €14 million in social costs on share-based compensation awards driven by the impact of changes in share price movements for the three months ended June 30, 2026, as compared to the three months ended June 30, 2025, and changes in the current period social costs related to our Co-Chief Executive Officers.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, general and administrative expense decreased by €4 million, or 2%. The decrease in general and administrative expenses was due primarily to a decrease of €42 million in social costs on share-based compensation awards driven by the impact of changes in share price movements for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, and changes in the current period social costs related to our Co-Chief Executive Officers. This decrease was partially offset by an increase of €26 million in share-based compensation, due primarily to amounts related to our Co-Chief Executive Officers being included in general and administrative expense beginning January 1, 2026. There was also an increase of €12 million in legal fees for the six months ended June 30, 2026 as compared to the six months ended June 30, 2025.
+Foreign exchange impact on total operating expenses
+The changes in operating expenses described above include the impact of foreign exchange rate movements during the respective periods. A significant portion of our operating expenses are denominated in the U.S. dollar. The general movement of the Euro relative to certain foreign currencies, primarily the U.S. dollar, for the three and six months ended June 30, 2026, as compared to the three and six months ended June 30, 2025, had a net favorable impact on our operating expenses. We estimate that total operating expenses for the three and six months ended June 30, 2026 would have been approximately €14 million and €58 million higher if foreign exchange rates had remained consistent with foreign exchange rates for the comparable periods in 2025.
+Finance income
+Finance income consists of fair value adjustment gains on certain financial instruments, interest income earned on our cash and cash equivalents and short term investments, interest income on our finance lease receivables, dividends received on our long term investments, and foreign currency gains.
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Finance income | 86 | 89 | (3) | (3) | 334 | 160 | 174 | 109
+As a percentage of revenue | 2 | 2 | 4 | 2
+[/TABLE]
+
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, finance income decreased by €3 million. The decrease was due primarily to a decrease in interest income earned on cash and cash equivalents and short term investments of €13 million, partially offset by an increase in dividend income of €7 million, during the three months ended June 30, 2026, as compared to the three months ended June 30, 2025.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, finance income increased by €174 million. The increase was due primarily to €184 million of fair value movements on the Exchangeable Notes during the six months ended June 30, 2026, with no such activity recognized within finance income during the six months ended June 30, 2025. The increase was partially offset by a decrease in interest income earned on cash and cash equivalents and short term investments of €26 million during the six months ended June 30, 2026, as compared to the six months ended June 30, 2025.
+- 35 -
+Table of Contents 
+Finance costs
+Finance costs consist of fair value adjustment losses on certain financial instruments, interest expense, and foreign currency losses.
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Finance costs | (21) | (447) | 426 | (95) | (47) | (699) | 652 | (93)
+As a percentage of revenue | — | (11) | (1) | (8)
+[/TABLE]
+
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, finance costs decreased by €426 million. The decrease was due primarily to €421 million of fair value movements on the Exchangeable Notes recognized within finance costs during the three months ended June 30, 2025, with no such activity recognized within finance costs during the three months ended June 30, 2026.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, finance costs decreased by €652 million. The decrease was due primarily to €601 million in fair value movements on the Exchangeable Notes recognized within finance costs during the six months ended June 30, 2025, with no such activity recognized within finance costs during the six months ended June 30, 2026. Finance costs for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, also included a decrease in foreign exchange losses on the remeasurement of monetary assets and liabilities in a transaction currency other than the functional currency of €42 million.
+Income tax expense
+
+[TABLE]
+Three months ended June 30, | Six months ended June 30,
+2026 | 2025 | Change | 2026 | 2025 | Change
+(in € millions, except percentages)
+Income tax expense | 175 | 134 | 41 | 31 | 391 | 237 | 154 | 65
+As a percentage of revenue | 4 | 3 | 4 | 3
+[/TABLE]
+
+For the three months ended June 30, 2026 as compared to the three months ended June 30, 2025, income tax expense increased by €41 million. The change was driven by increased profitability within the Group, which increased the tax expense by €160 million. This was partially offset by a €106 million decrease in non-deductible losses associated with the Exchangeable Notes.
+For the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, income tax expense increased by €154 million. The change was driven by increased profitability within the Group, which increased the tax expense by €306 million. This was partially offset by a €200 million decrease in non-deductible losses associated with the Exchangeable Notes.
+Non-IFRS financial measure
+We have reported our interim financial results in accordance with IAS 34 as issued by the IASB. In addition, we have discussed our results using the non-IFRS measure of Free Cash Flow as discussed below.
+We define “Free Cash Flow” as net cash flows from operating activities less capital expenditures and change in restricted cash. We believe Free Cash Flow is a useful supplemental financial measure for us and investors in assessing our ability to pursue business opportunities and investments and to service our debt. Free Cash Flow is not a measure of our liquidity under IFRS and should not be considered as an alternative to net cash flows from operating activities.
+Free Cash Flow is a non-IFRS measure and is not a substitute for IFRS measures in assessing our overall financial performance. Because Free Cash Flow is not a measurement determined in accordance with IFRS, and is susceptible to varying calculations, it may not be comparable to other similarly titled measures presented by other companies. You should not consider Free Cash Flow in isolation, or as a substitute for an analysis of our results as reported on our interim condensed consolidated financial statements appearing elsewhere in this document.
+- 36 -
+Table of Contents 
+Set forth below is a reconciliation of Free Cash Flow to net cash flows from operating activities for the periods presented.
+
+[TABLE]
+Six months ended June 30,
+2026 | 2025
+(in € millions)
+Net cash flows from operating activities | 1,652 | 1,248
+Capital expenditures | (34) | (16)
+Change in restricted cash | 3 | 2
+Free Cash Flow | 1,621 | 1,234
+[/TABLE]
+
+Liquidity and Capital Resources
+Our principal sources of liquidity are our cash and cash equivalents, short term investments, and cash generated from operating activities. In addition, we generate cash inflows from the exercise of stock options, which can be significant depending on activity in the period. Cash and cash equivalents and short term investments consist mostly of cash on deposit with banks, time deposits, investments in money market funds, and investments in government securities, agency securities, corporate notes, fixed income funds, and collateralized reverse purchase agreements. Cash and cash equivalents and short term investments decreased by €79 million from €9,467 million as of December 31, 2025 to €9,388 million as of June 30, 2026.
+We believe our existing cash and cash equivalents, short term investments, and the cash flow we generate from our operations will be sufficient for at least the next 12 months to meet our working capital and capital expenditure needs and other liquidity requirements. However, our future capital requirements may be materially different than those currently planned in our budgeting and forecasting activities and depend on many factors, including our rate of revenue growth, the timing of new product introductions, market acceptance of our products, the acquisition of other companies, competitive factors, and global economic conditions. To the extent that current and anticipated future sources of liquidity are insufficient to fund our future business activities and requirements, we may be required to seek additional equity or debt financing. The sale of additional equity would result in additional dilution to our shareholders, while the incurrence of debt financing would result in debt service obligations. Such debt instruments also could introduce covenants that might restrict our operations. We cannot assure you that we could obtain additional financing on favorable terms, or at all. For additional information, refer to Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F.
+Share repurchase program
+On August 20, 2021, the Company announced that the board of directors had approved a program to repurchase up to US$1.0 billion of the Company’s ordinary shares. On July 29, 2025, the Company announced that the board of directors had approved an increase in the Company’s share repurchase program by an additional US$1.0 billion. Repurchases of up to 10,000,000 of the Company’s ordinary shares were authorized at the Company’s general meeting of shareholders on April 21, 2021. During our 2026 annual general meeting held on April 15, 2026, shareholders and holders of beneficiary certificates renewed the authorization to repurchase 10,000,000 ordinary shares issued by the Company during a period of five years, for a price that will be determined by the board of directors within the following limits: at least the par value and at most the fair market value. As of June 30, 2026, the Company repurchased 2,586,713 shares for €1,076 million (US$1,253 million) under this program. The Company repurchased 575,866 shares for €241 million (US$277 million) during the three months ended June 30, 2026 and 1,349,216 shares for €547 million (US$638 million) during the six months ended June 30, 2026. As of June 30, 2026, the maximum value of shares that may yet be purchased under the share repurchase program is approximately US$747 million. Additionally, subsequent to the end of the reporting period and through close of business on August 3, 2026, the Company repurchased an additional 50,000 shares for €21 million (US$24 million) under this program.
+The timing and actual number of shares repurchased depends on a variety of factors, including price, general business and market conditions, and alternative investment opportunities. The repurchase program is executed consistent with the Company’s approach to capital allocation of prioritizing profitable growth while maintaining a balance sheet that can support our long term strategy. The repurchase program does not obligate the Company to acquire any particular amount of ordinary shares, and the repurchase program may be suspended or discontinued at any time at the Company’s discretion. The Company uses current cash and cash equivalents and the cash flow it generates from operations to fund the share repurchase program.
+- 37 -
+Table of Contents 
+Exchangeable Notes
+On March 2, 2021, Spotify USA Inc. issued US$1,500 million in aggregate principal amount of the Exchangeable Notes. Net proceeds from the issuance of the Exchangeable Notes were €1,223 million after deducting the transaction costs. The Exchangeable Notes matured on March 15, 2026 and the outstanding Exchangeable Notes, along with exchanges during the three months ended March 31, 2026, were derecognized and settled in cash for €1,304 million (US$1,499 million) in accordance with the Indenture. See Note 15 to our interim condensed consolidated financial statements for further information regarding our Exchangeable Notes.
+Cash flow
+
+[TABLE]
+Six months ended June 30,
+2026 | 2025
+(in € millions)
+Net cash flows from operating activities | 1,652 | 1,248
+Net cash flows from/(used in) investing activities | 794 | (718)
+Net cash flows (used in)/from financing activities | (1,829) | 137
+Free Cash Flow (1) | 1,621 | 1,234
+[/TABLE]
+
+(1)
+For a discussion of the limitations associated with using Free Cash Flow rather than IFRS measures, and a reconciliation of Free Cash Flow to net cash flows from operating activities, see “Non-IFRS Financial Measure” above.
+Operating activities
+Net cash flows from operating activities increased by €404 million to €1,652 million for the six months ended June 30, 2026 as compared to the six months ended June 30, 2025. The increase was due primarily to an increase in operating income adjusted for non-cash items including depreciation, amortization, impairment charge on real estate assets, and share-based compensation expense, resulting in an increase in cash flows from operating activities of €476 million. Additionally, there were unfavorable changes in working capital movements of €5 million, principally driven by unfavorable changes in trade and other liabilities and provisions, largely offset by favorable changes in deferred revenue and trade receivables and other assets. There was also a decrease in interest received on cash and cash equivalents and short term investments of €27 million and an increase in income tax paid of €44 million. 
+Investing activities
+Net cash flows from/(used in) investing activities changed by €1,512 million for the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, from net cash flows used in investing activities of €718 million to net cash flows from investing activities of €794 million. The change was due primarily to an increase in net cash inflows from purchases and sales and maturities of short term investments of €1,508 million. 
+Financing activities
+Net cash flows (used in)/from financing activities changed by €1,966 million for the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, from net cash flows from financing activities of €137 million to net cash flows used in financing activities of €1,829 million. The change was due primarily to the repayment of the Exchangeable Notes of €1,304 million. There was also an increase in repurchases of ordinary shares of €538 million and a decrease in cash proceeds from the exercise of stock options of €168 million, partially offset by a decrease in payments for employee taxes withheld from restricted stock unit releases of €36 million.
+Free Cash Flow
+Free Cash Flow increased by €387 million to €1,621 million for the six months ended June 30, 2026 as compared to the six months ended June 30, 2025, due primarily to an increase in net cash flows from operating activities of €404 million, as described above.
+- 38 -
+Table of Contents 
+Restrictions on subsidiaries to transfer funds
+The payment of dividends and the making, or repayment, of loans and advances to the Company by the Company’s direct subsidiaries and by its indirect subsidiaries to their respective parent entities are subject to various restrictions. Future indebtedness of these subsidiaries may prohibit the payment of dividends or the making, or repayment, of loans or advances to the Company. In addition, the ability of any of the Company’s direct or indirect subsidiaries to make certain distributions may be limited by the laws of the relevant jurisdiction in which the subsidiaries are organized or located. Since the Company is expected to rely primarily on dividends from its direct and indirect subsidiaries to fund its financial and other obligations, restrictions on its ability to receive such funds may adversely impact the Company’s ability to fund its financial and other obligations.
+Indebtedness
+As of June 30, 2026, we have no outstanding indebtedness, other than lease liabilities, following maturity of our Exchangeable Notes on March 15, 2026 and subsequent settlement. We may from time to time seek to incur additional indebtedness. Such indebtedness, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions, and other factors.
+Off-balance sheet arrangements
+As of June 30, 2026, we do not have transactions with unconsolidated entities, such as entities often referred to as structured finance or special purpose entities, whereby we have financial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk, or credit risk support to us.
+Contractual obligations
+The following table sets forth our contractual obligations and commercial commitments as of June 30, 2026:
+
+[TABLE]
+Payments due by period
+Total | Less than 1 year | 1-3 years | 3-5 years | More than 5 years
+(in € millions)
+Minimum guarantees (1) | 2,290 | 979 | 1,311 | — | —
+Lease obligations (2) | 634 | 94 | 169 | 143 | 228
+Purchase obligations (3) | 1,674 | 665 | 745 | 215 | 49
+Total | 4,598 | 1,738 | 2,225 | 358 | 277
+[/TABLE]
+
+(1)
+We are subject to minimum royalty payments associated with our license agreements for the use of licensed content. See Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F.
+(2)
+Included in the lease obligations are short term leases and certain lease agreements that we have entered into, but had not yet commenced as of June 30, 2026. Lease obligations primarily relate to our office space and our subleased properties. The expected lease terms are up to 11 years. See Note 7 to the interim condensed consolidated financial statements for further details regarding leases.
+(3)
+We are subject to various non-cancelable purchase obligations and service agreements with minimum spend commitments, including a service agreement with Google for the use of Google Cloud Platform and certain content and marketing commitments.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Our activities expose us to a variety of market risks. Our primary market risk exposures relate to currency, interest rate, share price, investment, and inflation risks. To manage these risks and our exposure to the unpredictability of financial markets, we seek to minimize potential adverse effects on our financial performance and capital.
+Volatile market conditions caused by significant events with macroeconomic impacts, including, but not limited to, slower growth or recession, inflation, changes in interest rates, changes in trade and tax policies, geopolitical conflicts, and related market uncertainty, may result in significant changes in foreign exchange rates, interest rates, and share prices, both our own and those of third parties we use to value certain of our long term investments. Refer to Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F for further discussion on the impact of worldwide economic conditions on our business, operating results, and financial condition.
+- 39 -
+Table of Contents 
+Currency risk
+Currency risk manifests itself in transaction exposure, which relates to business transactions denominated in foreign currency required by operations (purchasing and selling) and/or financing (interest and amortization). The volatility in foreign exchange rates, in particular a weakening of foreign currencies relative to the Euro, may negatively affect our revenue. Our general policy is to hedge transaction exposure on a case-by-case basis. Translation exposure relates to net investments in foreign operations. We do not conduct translation risk hedging.
+Transaction exposure sensitivity
+In most cases, our customers are billed in their respective local currency. Major payments, such as salaries, consultancy fees, and rental fees are settled in local currencies. Royalty payments are primarily settled in Euros and U.S. dollars. Hence, the operational need to net purchase foreign currency is due primarily to a deficit from such settlements.
+The table below shows the immediate impact on income before tax of a 10% strengthening of foreign currencies relative to the Euro in the closing exchange rate of significant currencies to which we have transaction exposure, at June 30, 2026. The impact on income before tax is due primarily to monetary assets and liabilities in a transactional currency other than the functional currency of a subsidiary within the Group. The sensitivity associated with a 10% weakening of a particular currency would be equal and opposite. This assumes that each currency moves in isolation.
+
+[TABLE]
+Swedish krona (SEK) | British pound (GBP) | U.S. dollar (USD)
+(in € millions)
+Decrease in income before tax | (5) | (28) | (40)
+[/TABLE]
+
+Translation exposure sensitivity
+The impact on our equity would be approximately €275 million if the Euro weakened by 10% against all translation exposure currencies, based on the exposure at June 30, 2026.
+Interest rate risk
+Interest rate risk is the risk that changes in interest rates will have a negative impact on earnings and cash flows. Our exposure to interest rate risk is related to our interest-bearing assets, including our cash and cash equivalents and our short term investments. Fluctuations in interest rates impact the yield of the investment. The sensitivity analysis considered the historical volatility of short term interest rates and we determined that it was reasonably possible that a change of 100 basis points could be experienced in the near term. A hypothetical 100 basis point decrease or increase in interest rates would have resulted in a change in interest income earned on our cash and cash equivalents and short term investments of €23 million and €46 million for the three and six months ended June 30, 2026, respectively.
+Share price risk
+Share price risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate due to changes in the fair value of the Company’s ordinary share price. Our exposure to this risk historically related primarily to the Exchangeable Notes, which were derecognized upon maturity on March 15, 2026. See Note 15 to our interim condensed consolidated financial statements for further information regarding our Exchangeable Notes.
+Other share price risk
+Social costs are payroll taxes associated with employee salaries and benefits, including share-based compensation that the Group is subject to in various countries in which the Group operates. Social costs are accrued at each reporting period based on the number of vested stock options and awards outstanding, the exercise price, and the Company’s share price. Changes in the accrual are recognized in operating expenses. An increase in share price will increase the accrued expense for social costs, and when the share price decreases, there will be a reduction in social costs expense, all other things being equal, including the number of vested stock options and exercise price remaining constant.
+A 10% decrease or increase in the Company’s ordinary share price would have resulted in a decrease or increase in the accrual for social costs on outstanding share-based compensation awards of €20 million or €21 million at June 30, 2026, respectively.
+- 40 -
+Table of Contents 
+Investment risk
+We are exposed to investment risk as it relates to changes in the market value of our long term investments, due primarily to volatility in the share price used to measure the investment and exchange rates. The majority of our long term investments relate to TME. A 10% decrease or increase in TME’s share price would have resulted in a fair value of the Group’s long term investment in TME ranging from €931 million to €1,137 million at June 30, 2026. 
+Inflation risk
+Inflationary factors, such as increases in costs, may adversely affect our results of operations. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases for our Subscription Offerings or sale of advertisements. Our inability or failure to do so could harm our business, operating results, and financial condition.
+Critical accounting policies and estimates
+We prepare our interim condensed consolidated financial statements in accordance with IFRS as issued by the IASB. Preparing these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, equity, revenue, expenses, and related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Our actual results may differ from these estimates.
+We believe that the assumptions and estimates associated with revenue recognition, share-based compensation, deferred taxes, uncertain tax positions, goodwill impairment, content, provisions, and impairment of real estate assets have the greatest potential impact on our interim condensed consolidated financial statements. Therefore, we consider these to be our critical accounting policies and estimates.
+There have been no material changes or additions to our critical accounting policies and estimates as compared to the critical accounting policies and estimates described in our Annual Report on Form 20-F, except that the fair value estimation of the Exchangeable Notes is no longer applicable, as the Exchangeable Notes matured and were derecognized on March 15, 2026.
+Recent accounting pronouncements
+On January 1, 2026, the Group adopted the IASB issued amendments to IFRS 9 and IFRS 7, Amendments to the Classification and Measurement of Financial Instruments. The amendments clarify that a financial liability is derecognized on the “settlement date,” which is when the related obligation is discharged, canceled, expired or the liability otherwise qualifies for derecognition. The amendments also clarify how to assess the contractual cash flow characteristics of financial assets that include environmental, social and governance (“ESG”)-linked features and other similar contingent features, and the treatment of non-recourse assets and contractually linked instruments. In addition, the amendments require additional disclosures in IFRS 7 for financial assets and liabilities with contractual terms that reference a contingent event (including those that are ESG-linked), and equity instruments classified at fair value through other comprehensive (loss)/income. Adoption of these amendments did not have a material impact to the interim condensed consolidated financial statements.
+There are no other IFRS or IFRIC interpretations effective for the six months ended June 30, 2026 that have a material impact to the interim condensed consolidated financial statements. See Note 2 to our interim condensed consolidated financial statements included in this report.
+- 41 -
+Table of Contents 
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings
+ We are, from time to time, subject to various legal and regulatory actions, proceedings, claims, and inquiries. Some of these actions, proceedings, claims, and inquiries involve highly complex issues, and often these issues are subject to substantial uncertainties. Accordingly, our potential liability with respect to a large portion of such actions, proceedings, claims, and inquiries cannot be estimated with certainty. Management, with the assistance of legal counsel, periodically reviews the status of each significant matter and assesses potential financial exposure. We recognize provisions for claims or pending litigation when management determines that an unfavorable outcome is probable and the amount of loss can be reasonably estimated. Due to the inherent uncertain nature of litigation, the ultimate outcome or actual cost of settlement may materially vary from estimates. If management’s estimates prove incorrect, current reserves could be inadequate and we could incur a charge to earnings which could have a material adverse effect on our results of operations, financial condition, and cash flows.
+ For a discussion of legal proceedings in which we are involved, see Note 18 and Note 21 to our interim condensed consolidated financial statements included in this report.
+Item 1A. Risk Factors
+ There have been no material changes from the risk factors and information disclosed in Part I, Item 3.D. “Risk Factors” in our Annual Report on Form 20-F and Part II, Item 1A. “Risk Factors” in our quarterly report for the three months ended March 31, 2026.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity
+Share repurchase activity during the three months ended June 30, 2026 was as follows:
+
+[TABLE]
+Period | Total Number of Shares Purchased | Average Price Paid per Share (1) | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) | Maximum Value of Shares that May Yet Be Purchased Under the Plans or Programs (3)
+April 1, 2026 - April 30, 2026 | 500,000 | ' (4) | € | — | — | € | 896,462,543
+May 1, 2026 - May 31, 2026 | — | € | — | — | € | 896,462,543
+June 1, 2026 - June 30, 2026 | 575,866 | € | 417.77 | 575,866 | € | 653,925,775
+Total | 1,075,866 | € | 417.77 | 575,866 | € | 653,925,775
+[/TABLE]
+
+(1)
+Represents the average price paid per share for open market repurchases. Repurchases of shares from the Company’s Netherlands subsidiary at par value are not included in this calculation.
+(2)
+On August 20, 2021, the Company announced that the board of directors had approved a program to repurchase up to US$1.0 billion of the Company’s ordinary shares. On July 29, 2025, the Company announced that the board of directors had approved an increase in the Company’s share repurchase program by an additional US$1.0 billion. Repurchases of up to 10,000,000 of the Company’s ordinary shares were authorized at the Company’s general meeting of shareholders on April 21, 2021. During our 2026 annual general meeting held on April 15, 2026, shareholders and holders of beneficiary certificates renewed the authorization to repurchase 10,000,000 ordinary shares issued by the Company during a period of five years, for a price that will be determined by the board of directors within the following limits: at least the par value and at most the fair market value. As of June 30, 2026, the Company repurchased 2,586,713 shares for €1,076 million (US$1,253 million) under this program.
+(3)
+The maximum value of shares that may yet be purchased under the share repurchase program announced on August 20, 2021 is translated into Euro from U.S. dollars at the exchange rate as published by Reuters on June 30, 2026.
+(4)
+On April 29, 2026, the Company issued 500,000 ordinary shares to its Netherlands subsidiary at par value and subsequently repurchased those ordinary shares on the same date at the same price. These shares are held in treasury in order to facilitate the fulfillment of option exercises and restricted stock unit releases under the Company’s stock option and restricted stock unit plans. See Note 13 to our interim condensed consolidated financial statements included in this report for additional details.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 5. Other Information
+
+None.
+- 42 -
+Table of Contents 
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+[TABLE]
+Spotify Technology S.A.
+Date: August 4, 2026 | By: | /s/ Christian Luiga
+Name: | Christian Luiga
+Title: | Chief Financial Officer
+[/TABLE]
+
+- 43 -

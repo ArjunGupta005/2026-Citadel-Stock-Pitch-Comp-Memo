@@ -1,0 +1,261 @@
+EX-99.1
+
+2
+
+cprt04302016ex99-1.htm
+
+EXHIBIT 99.1
+
+Exhibit
+
+Exhibit 99.1
+Copart, Inc.
+For Immediate Release
+Copart Reports 
+Third
+ Quarter Fiscal 2016 Financial Results
+Dallas, Texas. (
+May 25, 2016
+) — Copart, Inc. (NASDAQ: CPRT) today reported financial results for the quarter ended 
+April 30, 2016
+. 
+For the 
+three months ended April 30, 2016
+, revenue, gross margin, and net income were 
+$347.2 million
+, 
+$157.6 million
+, and 
+$74.0 million
+, respectively. These represent 
+an increase
+ in revenue of 
+$50.1 million
+, or 
+16.9%
+; 
+an increase
+ in gross margin of 
+$30.2 million
+, or 
+23.7%
+; and 
+an increase
+ in net income of 
+$16.5 million
+, or 
+28.6%
+, respectively, from the same quarter last year. Fully diluted earnings per share for the three months were 
+$0.64
+ compared to 
+$0.44
+ last year, 
+an increase
+ of 
+45.5%
+.
+For the 
+nine months ended April 30, 2016
+, revenue, gross margin, and net income were 
+$935.8 million
+, 
+$403.1 million
+ and 
+$185.4 million
+, respectively. These represent 
+an increase
+ in revenue of 
+$72.0 million
+, or 
+8.3%
+; 
+an increase
+ in gross margin of 
+$38.5 million
+, or 
+10.6%
+; and 
+an increase
+ in net income of 
+$23.0 million
+, or 
+14.2%
+, respectively, from the same period last year. Fully diluted earnings per share for the 
+nine
+ months were $
+1.51
+ compared to $
+1.23
+ last year, 
+an increase
+ of 
+22.8%
+.
+On Thursday, May 26, 2016, at 11 a.m. Eastern time, Copart will conduct a conference call to discuss the results for the quarter. The call will be webcast live at http://stream.conferenceamerica.com/copart05262016. A replay of the call will be available through July 25, 2016 by calling 
+(877) 919-4059
+. Use confirmation code # 73323554.
+About Copart
+Copart, founded in 1982, provides vehicle sellers with a full range of remarketing services to process and sell salvage and clean title vehicles to dealers, dismantlers, rebuilders, exporters and, in some locations, to end users. Copart remarkets the vehicles through Internet sales utilizing its VB3 technology. Copart sells vehicles on behalf of insurance companies, banks, financial institutions, charities, car dealerships, fleet operators, vehicle rental companies, as well as cars sourced from the general public. The company currently operates in the United States and Canada (www.copart.com), the United Kingdom (www.copart.co.uk), Brazil (www.copart.com.br), Germany (www.copart.de), the United Arab Emirates, Oman and Bahrain (www.copartmea.com), Spain (www.autoresiduos.com), Ireland (www.copart.ie), and India (www.copart.in). Copart links sellers to more than 750,000 members in over 150 countries worldwide through its multi-channel platform. Copart was recently ranked at the top of Deloitte’s “Exceptional 100” list of companies, which reviewed U.S. publicly traded companies based upon a multidimensional approach to measuring financial performance. For more information, or to become a member, visit www.copart.com.
+- 
+1
+ -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Cautionary Note About Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of federal securities laws, and these forward-looking statements are subject to substantial risks and uncertainties. These forward-looking statements are subject to certain risks, trends and uncertainties that could cause actual results to differ materially from those projected or implied by our statements and comments. For a more complete discussion of the risks that could affect our business, please review the “Management's Discussion and Analysis” and the other risks identified in Copart’s latest Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as filed with the Securities and Exchange Commission. We encourage investors to review these disclosures carefully. We do not undertake to update any forward-looking statement that may be made from time to time on our behalf.
+
+[TABLE]
+Contact: | Christopher M. Smith, Senior Analyst, Office of the Chief Financial Officer
+972-391-5021 or christopher.smith3@copart.com
+[/TABLE]
+
+- 
+2
+ -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Condensed Consolidated Statements of Income
+(In thousands, except per share data)
+(Unaudited)
+
+[TABLE]
+Three Months Ended April 30, | Nine Months Ended April 30,
+2016 | 2015 | 2016 | 2015
+Service revenues and vehicle sales:
+Service revenues | 303,507 | 256,564 | 814,891 | 741,692
+Vehicle sales | 43,739 | 40,578 | 120,899 | 122,094
+Total service revenues and vehicle sales | 347,246 | 297,142 | 935,790 | 863,786
+Operating expenses:
+Yard operations | 142,802 | 125,348 | 401,721 | 367,124
+Cost of vehicle sales | 37,744 | 34,503 | 103,939 | 103,694
+Yard depreciation and amortization | 8,339 | 9,248 | 24,932 | 26,655
+Yard stock-based payment compensation | 714 | 626 | 2,076 | 1,721
+Gross margin | 157,647 | 127,417 | 403,122 | 364,592
+General and administrative | 27,360 | 25,940 | 78,447 | 86,741
+General and administrative depreciation and amortization | 4,019 | 2,916 | 10,638 | 8,646
+General and administrative stock-based payment compensation | 4,320 | 3,794 | 13,758 | 11,569
+Total operating expenses | 225,298 | 202,375 | 635,511 | 606,150
+Operating income | 121,948 | 94,767 | 300,279 | 257,636
+Other (expense) income:
+Interest expense, net | (5,419 | (5,656 | (15,900 | (11,932
+Other income, net | 39 | (815 | 5,501 | 4,919
+Total other expenses | (5,380 | (6,471 | (10,399 | (7,013
+Income before income taxes | 116,568 | 88,296 | 289,880 | 250,623
+Income taxes | 42,552 | 30,733 | 104,488 | 88,252
+Net income | 74,016 | 57,563 | 185,392 | 162,371
+Basic net income per common share | 0.67 | 0.46 | 1.58 | 1.29
+Weighted average common shares outstanding | 110,543 | 126,415 | 117,071 | 126,309
+Diluted net income per common share | 0.64 | 0.44 | 1.51 | 1.23
+Diluted weighted average common shares outstanding | 116,388 | 132,124 | 122,692 | 131,837
+[/TABLE]
+
+- 
+3
+ -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Condensed Consolidated Balance Sheets
+(In thousands)
+(Unaudited)
+
+[TABLE]
+April 30, 2016 | July 31, 2015
+ASSETS
+Current assets:
+Cash and cash equivalents | 137,653 | 456,012
+Accounts receivable, net | 263,292 | 215,696
+Vehicle pooling costs and inventories | 41,210 | 33,562
+Income taxes receivable | 2,772 | 6,092
+Deferred income taxes | 668 | 3,396
+Prepaid expenses and other assets | 18,910 | 19,824
+Total current assets | 464,505 | 734,582
+Property and equipment, net | 806,973 | 700,402
+Intangibles, net | 13,390 | 17,857
+Goodwill | 267,367 | 271,850
+Deferred income taxes | 31,245 | 28,840
+Other assets | 40,655 | 46,421
+Total assets | 1,624,135 | 1,799,952
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable and accrued liabilities | 150,298 | 147,452
+Deferred revenue | 5,745 | 3,724
+Income taxes payable | 17,169 | 8,279
+Current portion of long-term debt, revolving credit facility, and capital lease obligations | 30,369 | 53,671
+Total current liabilities | 203,581 | 213,126
+Deferred income taxes | 5,001 | 5,322
+Income taxes payable | 25,675 | 21,157
+Long-term debt and capital lease obligations, net of discount | 670,507 | 592,135
+Other liabilities | 2,844 | 3,748
+Total liabilities | 907,608 | 835,488
+Commitments and contingencies
+Stockholders' equity:
+Preferred stock | — | —
+Common stock | 11 | 12
+Additional paid-in capital | 393,351 | 407,808
+Accumulated other comprehensive loss | (83,791 | (68,793
+Retained earnings | 406,956 | 625,437
+Total stockholders' equity | 716,527 | 964,464
+Total liabilities and stockholders' equity | 1,624,135 | 1,799,952
+[/TABLE]
+
+- 
+4
+ -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)
+
+[TABLE]
+Nine Months Ended April 30,
+2016 | 2015
+Cash flows from operating activities:
+Net income | 185,392 | 162,371
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization | 35,900 | 37,579
+Allowance for doubtful accounts | 1,227 | (453
+Equity in losses of unconsolidated affiliates | 768 | —
+Stock-based payment compensation | 15,834 | 13,290
+Excess tax benefits from stock-based payment compensation | (848 | (1,279
+Gain on sale of property and equipment | (188 | (735
+Deferred income taxes | (325 | 3,641
+Changes in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable | (49,594 | (21,763
+Vehicle pooling costs and inventories | (8,121 | (1,874
+Prepaid expenses and other current assets | 293 | 1,480
+Other assets | 3,206 | 7,584
+Accounts payable and accrued liabilities | 5,024 | 2,042
+Deferred revenue | 2,038 | 445
+Income taxes receivable | 4,172 | 985
+Income taxes payable | 13,858 | 1,313
+Other liabilities | (1,138 | (1,257
+Net cash provided by operating activities | 207,498 | 203,369
+Cash flows from investing activities:
+Purchases of property and equipment | (143,833 | (49,079
+Proceeds from sale of property and equipment | 485 | 1,087
+Purchases of marketable securities | (21,119 | —
+Proceeds from sale of marketable securities | 21,498 | —
+Net cash used in investing activities | (142,969 | (47,992
+Cash flows from financing activities:
+Proceeds from the exercise of stock options | 4,989 | 3,372
+Excess tax benefit from stock-based payment compensation | 848 | 1,279
+Proceeds from the issuance of Employee Stock Purchase Plan shares | 1,640 | 1,495
+Repurchases of common stock | (442,855 | (1,737
+Proceeds from the issuance of long-term debt, net of discount | 93,468 | 698,939
+Debt offering costs | (165 | (955
+Principal payments on long-term debt | (37,500 | (331,250
+Net cash (used in) provided by financing activities | (379,575 | 371,143
+Effect of foreign currency translation | (3,313 | (6,446
+Net (decrease) increase in cash and cash equivalents | (318,359 | 520,074
+Cash and cash equivalents at beginning of period | 456,012 | 158,668
+Cash and cash equivalents at end of period | 137,653 | 678,742
+Supplemental disclosure of cash flow information:
+Interest paid | 16,996 | 9,705
+Income taxes paid, net of refunds | 86,243 | 81,995
+[/TABLE]
+
+- 
+5
+ -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000

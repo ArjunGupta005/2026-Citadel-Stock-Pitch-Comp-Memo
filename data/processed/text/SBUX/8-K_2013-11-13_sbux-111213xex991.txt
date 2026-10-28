@@ -1,0 +1,85 @@
+EX-99.1
+
+2
+
+sbux-111213xex991.htm
+
+EXHIBIT 99.1
+
+SBUX - 11.12.13 - EX99.1
+
+Exhibit 99.1
+STARBUCKS CORPORATION 
+CONSOLIDATED STATEMENTS OF EARNINGS/(LOSS)
+(unaudited, in millions, except per share data)
+
+[TABLE]
+Quarter Ended | Quarter Ended
+Sep 29, 2013 | Sep 30, 2012 | % Change | Sep 29, 2013 | Sep 30, 2012
+As a % of total net revenues
+Net revenues:
+Company-operated stores | 3,009.6 | 2,665.9 | 12.9 | 79.3 | 79.2
+Licensed stores | 346.3 | 305.3 | 13.4 | 9.1 | 9.1
+CPG, foodservice and other | 439.1 | 393.0 | 11.7 | 11.6 | 11.7
+Total net revenues | 3,795.0 | 3,364.2 | 12.8 | 100.0 | 100.0
+Cost of sales including occupancy costs | 1,633.7 | 1,459.2 | 12.0 | 43.0 | 43.4
+Store operating expenses | 1,073.9 | 989.9 | 8.5 | 28.3 | 29.4
+Other operating expenses | 107.3 | 111.9 | (4.1 | 2.8 | 3.3
+Depreciation and amortization expenses | 166.1 | 141.7 | 17.2 | 4.4 | 4.2
+General and administrative expenses | 226.1 | 203.8 | 10.9 | 6.0 | 6.1
+Litigation charge | 2,784.1 | — | nm | 73.4 | —
+Total operating expenses | 5,991.2 | 2,906.5 | 106.1 | 157.9 | 86.4
+Income from equity investees | 81.0 | 61.9 | 30.9 | 2.1 | 1.8
+Operating income/(loss) | (2,115.2 | 519.6 | nm | (55.7 | 15.4
+Interest income and other, net | 72.1 | 26.3 | 174.1 | 1.9 | 0.8
+Interest expense | (9.1 | (6.4 | 42.2 | (0.2 | (0.2
+Earnings/(loss) before income taxes | (2,052.2 | 539.5 | nm | (54.1 | 16.0
+Income taxes | (820.1 | 180.2 | nm | (21.6 | 5.4
+Net earnings/(loss) including noncontrolling interest | (1,232.1 | 359.3 | nm | (32.5 | 10.7
+Net earnings attributable to noncontrolling interest | (0.1 | 0.3 | nm | — | —
+Net earnings/(loss) attributable to Starbucks | (1,232.0 | 359.0 | nm | (32.5 | )% | 10.7
+Net earnings/(loss) per common share - diluted | (1.64 | 0.46 | nm
+Weighted avg. shares outstanding - diluted | 752.2 | 773.5
+Cash dividends declared per share | 0.26 | 0.21
+Supplemental Ratios:
+Store operating expenses as a percentage of company-operated stores revenue | 35.7 | 37.1
+Effective tax rate including noncontrolling interest | 40.0 | 33.4
+[/TABLE]
+
+STARBUCKS CORPORATION 
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+(unaudited, in millions, except per share data)
+
+[TABLE]
+Year Ended | Year Ended
+Sep 29, 2013 | Sep 30, 2012 | % Change | Sep 29, 2013 | Sep 30, 2012
+As a % of total net revenues
+Net revenues:
+Company-operated stores | 11,793.2 | 10,534.5 | 11.9 | 79.2 | 79.2
+Licensed stores | 1,360.5 | 1,210.3 | 12.4 | 9.1 | 9.1
+CPG, foodservice and other | 1,738.5 | 1,554.7 | 11.8 | 11.7 | 11.7
+Total net revenues | 14,892.2 | 13,299.5 | 12.0 | 100.0 | 100.0
+Cost of sales including occupancy costs | 6,382.3 | 5,813.3 | 9.8 | 42.9 | 43.7
+Store operating expenses | 4,286.1 | 3,918.1 | 9.4 | 28.8 | 29.5
+Other operating expenses | 457.2 | 429.9 | 6.4 | 3.1 | 3.2
+Depreciation and amortization expenses | 621.4 | 550.3 | 12.9 | 4.2 | 4.1
+General and administrative expenses | 937.9 | 801.2 | 17.1 | 6.3 | 6.0
+Litigation charge | 2,784.1 | — | nm | 18.7 | —
+Total operating expenses | 15,469.0 | 11,512.8 | 34.4 | 103.9 | 86.6
+Income from equity investees | 251.4 | 210.7 | 19.3 | 1.7 | 1.6
+Operating income/(loss) | (325.4 | 1,997.4 | nm | (2.2 | 15.0
+Interest income and other, net | 123.6 | 94.4 | 30.9 | 0.8 | 0.7
+Interest expense | (28.1 | (32.7 | (14.1 | (0.2 | (0.2
+Earnings/(loss) before income taxes | (229.9 | 2,059.1 | nm | (1.5 | 15.5
+Income taxes | (238.7 | 674.4 | nm | (1.6 | 5.1
+Net earnings including noncontrolling interest | 8.8 | 1,384.7 | (99.4 | 0.1 | 10.4
+Net earnings attributable to noncontrolling interest | 0.5 | 0.9 | (44.4 | — | —
+Net earnings attributable to Starbucks | 8.3 | 1,383.8 | (99.4 | )% | 0.1 | 10.4
+Net earnings per common share - diluted | 0.01 | 1.79 | (99.4 | )%
+Weighted avg. shares outstanding - diluted | 762.3 | 773.0
+Cash dividends declared per share | 0.89 | 0.72
+Supplemental Ratios:
+Store operating expenses as a percentage of company-operated stores revenue | 36.3 | 37.2
+Effective tax rate including noncontrolling interest | 103.8 | 32.8
+[/TABLE]

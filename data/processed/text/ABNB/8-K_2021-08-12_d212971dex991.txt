@@ -1,0 +1,1021 @@
+EX-99.1
+
+2
+
+d212971dex991.htm
+
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1 
+
+[TABLE]
+Q2 2021
+Nights and Experiences Booked Airbnbs business has continued to be highly resilient with Q2 2021 Nights and Experiences Booked nearly recovering to the same period pre-COVID levels (Q2 2019). | 83.1M
+197% Y/Y (1)% Y/2Y
+Gross Booking Value (GBV) Airbnb had over $13B of bookings in Q2 2021, up dramatically (320%) from a year ago during the depths of the COVID crisis, and up substantially (37%) from the same
+period pre-COVID levels (Q2 2019). | $13.4B
+320% Y/Y 301% Y/Y (ex-FX) 37% Y/2Y
+Revenue Q2 2021 revenue was up nearly 300% year-over-year and surpassed Q2 2019 levels by 10% as the travel recovery accelerated, with ongoing strength in North America,
+improvements in EMEA and higher ADR. | $1.3B
+299% Y/Y 284% Y/Y (ex-FX) 10% Y/2Y
+Net Loss Q2 2021 net loss was significantly improved from the same prior year period primarily due to the significant revenue recovery. | $(68)M
+Adjusted EBITDA* Adjusted EBITDA was substantially improved from a year ago due to higher revenue combined with improved variable costs and management of fixed costs. | $217M
+[/TABLE]
+
+* A reconciliation of 
+non-GAAP
+ financial measures to the most comparable GAAP measures is provided at the end of this letter.
+
+2 
+
+Q2 2021 Shareholder Letter 
+
+The travel rebound is upon us and Airbnb is leading the way. For the past year, weve benefited from the adaptability of our business model, and weve focused
+on driving product innovations to meet the changing needs of our guests. The strength of our Q2 results indicate two things: people are ready to travel, and Airbnb is ready to host them. 
+
+Since early in the crisis, our model has proven to be inherently adaptable. With millions of Hosts offering nearly all types of homes and experiences around the world,
+weve been able to adapt to the new use cases guests wantfrom working remotely in another home, to taking longer trips with family and friends. Even with ongoing uncertainty around the pandemic, weve shown that as the world changes,
+our model is able to adapt. 
+
+Weve also led through our continued product innovation. In the first half of 2021, we improved nearly every aspect of the Airbnb
+service, from our website and app to our community support and policies. We unveiled new product features that allow us to meet the changing needs of guests and make it easier for anyone to become a Host. 
+
+Our Q2 results reflect the success of our efforts to prepare for the travel rebound, as well as our continued operating discipline. Q2 Nights and Experiences Booked
+nearly matched 
+pre-COVID
+ levels; GBV and revenue exceeded 
+pre-COVID
+ levels; net loss improved; Adjusted EBITDA was positive and demonstrated significant margin
+expansion; and active listings reached their highest level yet.
+1
+ In fact, in the last few weeks, we had our biggest night ever in the U.S. and our biggest night globally since the pandemic began,
+with more than 4 million guests staying at an Airbnb listing. 
+
+Q2 2021 financial results 
+
+When travel came to a standstill last year, our business was significantly impacted. Given the unprecedented impact on our operating results in Q2 2020, weve
+included comparisons to Q2 2019 in this letter to provide a more useful picture of our recovery in Q2 2021. With more people vaccinated and certain travel restrictions lifted, global demand and supply increased in Q2, driving up revenue even
+higher than comparable 2019 levels. Here is a snapshot of our Q2 2021 results: 
+
+[TABLE]
+ | Q2 2021 revenue increased nearly 300% year-over-year and exceeded Q2 2019 by 10%. Revenue of $1.3 billion in
+Q2 2021 significantly exceeded Q2 2020 revenue of $335 million (when the business was impacted by the initial spread of COVID). More significantly, year-over- two-year revenue growth accelerated from 5%
+in Q1 2021 to 10% in Q2 2021. The sequential improvement reflects continued strength in North America, improvement in EMEA and higher Average Daily Rates (ADR).
+[/TABLE]
+
+[TABLE]
+ | Net loss was significantly lower year-over-year and compared to Q2 2019. Net loss in Q2 2021 was $68 million,
+an improvement of $507 million compared to Q2 2020 and $229 million compared to Q2 2019.
+[/TABLE]
+
+1
+ A
+reconciliation of 
+non-GAAP
+ financial measures to the most comparable GAAP measures is provided at the end of this letter. 
+
+3 
+
+[TABLE]
+ | Profitable on an Adjusted EBITDA Basis in Q2 2021. Adjusted EBITDA in Q2 2021 was $217 million, which had
+substantially improved from $(397) million in Q2 2020 and $(43) million in Q2 2019. Adjusted EBITDA margin was 16%, an increase of 20% (or 2000 bps) compared to Q2 2019. This substantial improvement in Adjusted EBITDA demonstrates the strength of
+our revenue recovery, as well as a significantly improved cost structure. 2
+[/TABLE]
+
+Business
+highlights 
+
+[TABLE]
+ | The travel rebound is upon us. As vaccinations rise and restrictions ease, more people are traveling. We saw strong
+demand for bookings in Q2, achieving the highest gross nights booked (defined as nights booked prior to cancellations and alterations) of any quarter in our history. Guests from countries with high vaccination rates, including the U.S. and parts
+of Europe, are driving the travel recovery.
+[/TABLE]
+
+[TABLE]
+ | Travelers are once again crossing borders and visiting cities. Were beginning to see a rebound in the types
+of travel that were most impacted by the pandemic. For example, gross nights booked for cross-border travel within Europe were higher in June 2021 than in June 2019. And travel is returning to some major cities, with gross nights booked to cities
+such as Istanbul, Las Vegas and Sao Paulo recovering to pre-pandemic levels by the end of June.
+[/TABLE]
+
+[TABLE]
+ | The way people travel and live continues to change. Even as pre-pandemic types of travel rebound, we believe many new booking trends are here to stay, including stays outside of top destinations and long-term stays. Both types of bookings grew significantly faster than total gross nights booked in Q2 2021. Our top 10
+cities represented 7% of revenue before adjustments for incentives and refunds in Q2 2021, down from 14% in Q2 2019. And long-term stays (defined as stays of at least 28 nights) remained our fastest-growing category by trip length. Airbnb survey
+data indicates that people plan to continue to travel and live this way, with 81% of our long-term stay guests in Q2 2021 saying they plan to book another long-term stay in the coming year. 3
+[/TABLE]
+
+[TABLE]
+ | Our product innovation supports the new ways people travel. Many people now have greater freedom around where and
+when they travel, and weve improved our product to better meet their needs. In February, we launched a Flexible Dates feature to support guests who have more flexibility around when they travel. Weve already seen more than
+500 million searches with dates that are flexible. In Q2, we announced our Flexible Matching and Flexible Destinations tools to inspire guests to explore more diverse listings and new destinations. Were seeing strong demand for these
+tools, with over 40% of searchers showing flexibility in either their dates or locations in June.
+[/TABLE]
+
+[TABLE]
+ | We have more listings than ever. After remaining stable throughout the pandemic, the number of active listings grew
+in Q2. Were seeing the strongest supply increases in the areas with the greatest guest demand. Active listings in non-urban destinations in Europe and North America increased 8% from Q1 2021 to Q2 2021.
+We helped drive this growth through a
+[/TABLE]
+
+2
+ A reconciliation of non-GAAP financial measures to the most comparable GAAP measures is provided at the end of
+this letter. 
+
+3
+ Data collected July 1214, 2021 from 542 English-speaking guests staying 
+1-6
+ months on Airbnb during Q2 2021 and weighted to represent the broader population. 
+
+4 
+
+[TABLE]
+simplified sign-up process for new Hosts and a marketing campaign to highlight the benefits of hosting. While its still early, the supply growth
+were seeing shows these initiatives are having a positive impact.
+[/TABLE]
+
+Progress on our 2021 Plan 
+
+Our single priority for 2021 has been to prepare for the travel rebound. To do this, weve been perfecting our existing product. Weve made significant
+improvements to the 
+end-to-end
+ experience of our core service for both Hosts and guests, and we continue to focus on the following areas: 
+
+[TABLE]
+ | Educating the world about what makes Airbnb differenthosting
+[/TABLE]
+
+[TABLE]
+ | Recruiting more Hosts and setting them up for success
+[/TABLE]
+
+[TABLE]
+ | Simplifying the guest journey
+[/TABLE]
+
+[TABLE]
+ | Delivering world-class service
+[/TABLE]
+
+In Q2 2021, we introduced more than 100 upgrades across every aspect of the Airbnb service, from our website and app to our community support and policies. We added
+features to give guests even more flexibility when planning their travel, and we made it simpler for anyone to become a Host. These upgrades were announced to our global community at our May 24 event. 
+
+Educating the world about Airbnb 
+
+In late February 2021, we launched our
+first large-scale marketing campaign in five years, Made possible by Hosts. Through the campaign, were highlighting the unique experience of being hosted on Airbnb, as well as inspiring more people to become Hosts. The campaign launched in Q1
+on television and digital channels in five of our largest markets: the U.S., France, the U.K., Canada and Australia. We expanded the campaign to Italy and Spain in Q2. 
+
+In countries where the campaign ran during Q2, overall traffic to our platform increased over 25% compared to Q2 2019. This traffic was higher than in 
+non-campaign
+ markets. We also saw the number of people making their first booking on our platform increase faster than returning guests in countries where we ran the campaign. 
+
+Recruiting more Hosts 
+
+We have a comprehensive approach to recruiting more
+Hosts on Airbnb, and our Q2 2021 results show this approach is working. Earlier this year, we launched a digital campaign focused on recruiting new Hosts. In Q2 2021, overall traffic to our hosting landing page more than doubled in the countries
+where we launched the campaign. 
+
+Weve also improved our product to make it easier for new Hosts to get started in 10 simple steps. This new, simpler process
+includes automated prompts and auto-filled details to help with listing descriptions, Artificial Intelligence-powered photo-sorting to show the best photos first, and redesigned amenities icons for Hosts to highlight key features of their home.
+Throughout the listing process, new Hosts can 
+
+5 
+
+[TABLE]
+Prospective hosts will discover an even simpler pathway to hosting. | The simplified process includes clear menus and prompts to help with listing. | Pre-filled suggestions help new Hosts describe what makes their home special.
+[/TABLE]
+
+also connect with Airbnb Superhosts for answers to their questions or concerns. These Superhosts can hold online webinars as well as
+individual coaching sessions with potential Hosts. We announced these improvements as part of our May 24 event. 
+
+Since we began offering these tools,
+weve seen the time to complete a listing on Airbnb decrease by more than half for the majority of new Hosts. And while the number of Airbnb listings had remained stable from the start of the pandemic through Q1, each of these initiatives
+helped drive an increase in total active listings from Q1 to Q2. 
+
+6 
+
+HOST SPOTLIGHT 
+
+Yannis  Athens, Greece 
+
+After traveling as a guest on Airbnb for four years, it occurred to Yannis that his cozy, idyllic apartment in the center of Athens
+might be the ideal space for travelers. Looking to make a little extra money, he cleaned up his flat and listed it on Airbnb. As a self-described eager and nervous new Host, he packed up his belongings for a weekend stay with
+friends and welcomed his very first guests. One glowing review and five-star rating later, Yannis was hooked. 
+
+7 
+
+HOST SPOTLIGHT 
+
+He made it a goal to wow all of his guestsnot only with his charming city flat that makes travelers feel like theyre
+staying in a small, countryside village, but also with personalized welcomes and frequent communication to ensure guests have a perfect stay. Those little touches paid off. 
+
+Yannis, now a Superhost, moved out of the apartment and opened the doors to guests full-time. Most of my reservations for the
+past four years were really long ones. People staying in my flat felt like they were staying at home. That trend continued even during the pandemic, when Greece went into lockdown and Yannis found himself hosting a brother and sister from
+Australia for five months. Shortly after their stay his listing was vacant for many months. 
+
+Thats certainly not the case
+today. With the travel rebound underway, Yanniss calendar is full of reservations. And while it feels like things are getting back to normal, one thing is noticeably differentthe types of guests he welcomes into his home. Before the
+pandemic, Yannis was seeing a lot of families and people from the U.S. Today, hes seeing mostly single travelers coming from places across Europe, many of them using his peaceful living space and plant-covered balconies as their own personal
+office. The people who are coming here are working remotely and they want to spend their summer or many months in Greece. They want to stay in some islands and then visit Athens. They come to my flat. Its great. 
+
+Like many other Hosts, Yannis is thrilled that people are traveling again. Airbnb is an amazing experience both waysas a
+guest and as a Host. I just love it. 
+
+8 
+
+Simplifying the guest journey 
+
+On May 24, we announced new product innovations to allow for more flexibility when searching for a place to stay, along with improvements that make the entire
+guest flow simpler and easier to use. Flexibility is at the heart of our improved guest experience and includes three new ways to search on Airbnb. 
+
+First,
+Flexible Dates search supports guests with more flexibility for when they travel. Instead of having to narrow down exact dates for their trip, guests are able to search for a weekend getaway, a week-long vacation, or even a month-long stay
+sometime in the next few months. Were already seeing an increase in guest bookings using Flexible Dates. 
+
+Second, Flexible Destinations offers
+guests a new way to plan trips when they dont have a specific destination in mind. Guests can easily discover incredible properties and simultaneously help Hosts with unique listings get more bookings. 
+
+Finally, were rolling out a new feature called Flexible Matching. It increases the number of search results by showing options that are just outside the criteria
+entered by the guest. For example, if a guest searches for listings under $300 per night, it will show listings that fit all other criteria, but are priced slightly outside of that range. 
+
+These features offer guests the flexibility they want and allow us to drive bookings to more Hosts in more parts of the world. 
+
+[TABLE]
+Im Flexible introduces a new more | Guests can easily browse unique types | As Guests discover new properties,
+versatile way to find a great stay. | of listings. | Hosts with unique listings get more
+bookings.
+[/TABLE]
+
+9 
+
+Beyond improving the guest booking flow, weve also taken our product innovations further to meet the changing
+needs of guests while they travel. As the flexibility to work and live from anywhere continues, knowing a listings wifi speed before booking is essential; wifi has been one of the top searched amenities over the past year. We now provide an
+easy and efficient way for Hosts to measure and post their listings wifi speed using the Airbnb app. Weve rolled out this feature globally. In addition, our new arrival guide improves the 
+on-trip
+
+guest experience. The arrival guide displays essential 
+on-trip
+ information, such as directions, door codes and wifi details. It has contributed to an overall increase in five-star ratings. 
+
+Delivering world-class service 
+
+Were committed to providing
+world-class support for our global community. On May 24, we launched a redesigned help center, more than tripled our supported languages (from 11 to 42), and updated our safety resources, including localized emergency information for fire,
+police and EMT services. 
+
+The safety of our Hosts and guests remains a top priority. With certain travel restrictions easing, were continuing to cultivate
+safe and responsible travel through our platform. We extended our global ban on parties through at least the end of summer 2021, and we continue to implement numerous initiatives aimed at keeping our guests safe. On September 30, 2021,
+well begin offering dedicated Superhost support, initially in North America, and rolling it out globally throughout 2021. 
+
+10 
+
+Q2 2021 Business and Financial Performance 
+
+[TABLE]
+Q2 2021
+83.1M | $13.4B
+Nights & Experiences Booked | Gross Booking Value
+197% Y/Y | 320% Y/Y
+(1)% Y/2Y | 301% Y/Y (ex-FX)
+37% Y/2Y
+[/TABLE]
+
+Q2 2021 
+
+In Q2 2021, Nights and
+Experiences Booked of 83.1 million represented a significant increase from a year ago (+197% Y/Y) and nearly recovered to Q2 2019 levels 
+(-1%
+ Y/2Y). Continued strength in ADR drove even stronger GBV
+performance than Nights and Experiences Booked. In Q2 2021, GBV was $13.4 billion, representing a year-over-year increase of 320% (or 301% 
+ex-FX)
+ and an increase of 37% compared to Q2 2019. The strength
+of these booking metrics in Q2 reflects a catch up of delayed booking activity (i.e., 
+pent-up
+ demand) from prior periods and therefore represents a higher concentration of booking activity in Q2 than in a
+normal year. 
+
+Geographic mix 
+
+The trends in our recovery continue to
+vary by region due to vaccination rates, COVID caseloads and associated travel restrictions, as well as 
+pre-COVID
+ travel patterns. In Q2, we saw increased bookings in regions where travel restrictions lifted
+and vaccine availability expanded. In particular, North America remained strong, while EMEA benefited from reduced travel restrictions. Here are some regional highlights: 
+
+[TABLE]
+ | North America showed continued strength, with Nights and Experiences Booked increasing about 25% above the level achieved
+in the same quarter of 2019, primarily driven by the U.S.
+[/TABLE]
+
+[TABLE]
+ | In EMEA, we saw significant increases in Nights and Experiences Booked based on the easing of travel restrictions allowing
+cross-border travel for fully vaccinated travelers. While still lower than Q2 2019 levels, Nights and Experiences Booked increased almost 85% from Q1 2021 primarily led by the U.K., France, Spain and Italy.
+[/TABLE]
+
+[TABLE]
+ | In Latin America, Nights and Experiences Booked were about 15% higher than Q2 2019 levels with continued resilience in
+certain countries, such as Mexico and Brazil, where domestic travel was strong and cross-border travel increased.
+[/TABLE]
+
+[TABLE]
+ | In Asia Pacific, we also saw sequential quarterly growth in Nights and Experiences Booked driven by partial recovery in
+countries like Australia, Korea and New Zealand. However, Nights and Experiences Booked remained depressed compared to Q2 2019 as many countries in the region have historically been more reliant on cross-border travel.
+[/TABLE]
+
+11 
+
+Travel corridors and distance 
+
+Domestic and short-distance travel continue to be more popular than 
+pre-pandemic,
+ but in Q2, we did see some recovery in both
+cross-border and longer-distance travel relative to Q1. Across all regions, domestic gross nights booked represented 73% of gross nights booked during the quarter, which significantly exceeded Q2 2019 levels, but was slightly lower than Q1 2021 as
+cross-border travel regained momentum. And while we saw continued growth in gross nights booked where guests traveled less than 300 miles, we also saw the largest acceleration in growth for guests traveling between
+
+300-500
+ miles compared to Q1 2021 as certain travel restrictions were lifted. 
+
+Urban vs.
+
+non-urban
+
+As seen in prior quarters, growth for gross nights booked was strongest in
+
+non-urban
+ areas during the quarter compared to Q2 2019. While travel to top cities has not yet recovered to 2019 levels, we are seeing signs of travelers returning to cities (historically one of the strongest
+areas of our business). Travel to high-density urban areas increased in Q2 from Q1 2021, and in the U.S., searches for stays in high-density urban areas almost doubled in June 2021 compared to January 2021. High-density urban areas represented over
+40% of our gross nights booked in Q2 2021. 
+
+Trip length 
+
+In Q2 2021,
+long-term stays of 28 days or more remained our fastest-growing category by trip length as the way people travel and live continues to change. Overall, nearly 50% of gross nights booked were from stays of at least seven nights in Q2 2021. Meanwhile,
+short-term stays surged in Q2 2021 with total gross nights booked increasing almost 40% compared to the prior quarter. 
+
+Average daily rates 
+
+ADR continued to grow and averaged approximately $161 in Q2 2021, representing a 41% increase compared to the same prior year period. The primary driver of ADR
+appreciation continues to be the significant mix shift towards bookings in North America, entire homes, and 
+non-urban
+ destinations, all of which tend to have higher ADR. The secondary driver is an increase in
+pricing by Hosts in certain high demand segments. This second driver increased from Q1 2021 to Q2 2021, but remained a minority of the overall ADR appreciation as compared to 2020 and 2019. 
+
+Supply 
+
+Beginning in early 2021, we launched our Made possible by Hosts
+campaign to educate people on the benefits of hosting. On May 24, we announced more than 100 upgrades to refine and improve every aspect of the Airbnb service. These initiatives helped drive supply growth. The number of active listings grew
+from Q1 2021 to Q2 2021 and growth was strongest in 
+non-urban
+ areasareas where guest demand was highest. And, once new Hosts list, they are getting their first booking faster. 
+
+12 
+
+Q2 2021 
+
+[TABLE]
+$1.3B | $(68)M | $217M
+Revenue | Net Loss | Adjusted EBITDA
+299% Y/Y
+284% Y/Y (ex. FX)
+10% Y/2Y
+[/TABLE]
+
+Q2 2021 
+
+In Q2 2021, revenue was
+$1.3 billion, representing a year-over-year increase of 299% (or 284% 
+ex-FX).
+ The increase in revenue was driven by the recovery in nights booked, combined with a higher ADR and fewer cancellations
+compared to Q2 2020. Compared to Q2 2019, revenue in Q2 2021 increased 10%, driven by higher ADR offsetting slightly lower nights stayed. 
+
+Net loss in Q2 2021 was
+$(68) million, compared with $(576) million in Q2 2020. The reduction in net loss was primarily driven by significantly higher revenue in Q2 2021. Our net loss in Q2 2020 also included $114 million of restructuring charges and interest expense
+on debt that has subsequently been extinguished. In Q2 2019, net loss was $(297) million. The improvement in net loss compared to 2019 was primarily due to higher revenue and significantly better cost structure as discussed further below. 
+
+Adjusted EBITDA for Q2 2021 was $217 million, which was substantially improved compared to Adjusted EBITDA in Q2 2020 of $(397) million.
+4
+ This improvement was primarily due to the significant revenue recovery from a year ago. Relative to Q2 2019, Adjusted EBITDA margins increased 20% (from 
+-4%
+
+Adjusted EBITDA margin in Q2 2019 to +16% Adjusted EBITDA margin in Q2 2021). This substantial improvement in Adjusted EBITDA demonstrates the strength of our revenue recovery, the benefit of strong ADRs, as well as our significantly improved cost
+structure, including: improved variable costs, lower marketing expense and fixed cost management. 
+
+4
+ A
+reconciliation of 
+non-GAAP
+ financial measures to the most comparable GAAP measures is provided at the end of this letter. 
+
+13 
+
+Quarterly Revenue ($M) 
+
+Q2 2021 revenue increased nearly 300% year-over-year,
+demonstrating the strength of our business. 
+
+Quarterly Net Loss ($M) 
+
+Q2 2021 net loss was significantly improved year-over-year as
+we saw a strong travel recovery. 
+
+Quarterly Adjusted EBITDA ($M) 
+
+Adjusted EBITDA substantially improved in Q2 2021 to
+$217 million, despite the continued impact of 
+COVID-19.
+
+14 
+
+Operating expenses in Q2 2021 included the impact of $233 million of stock-based compensation expense, which is
+excluded from Adjusted EBITDA. All operating expense line-items (excluding the impact of stock-based compensation expense) grew less quickly year-over-year than revenue, allowing for considerable margin expansion:
+5
+
+[TABLE]
+ | Cost of revenue for Q2 2021 increased by 83% year-over-year to $294 million due to an increase in merchant fees
+driven by higher Nights and Experiences Booked, partially offset by lower chargeback expense.
+[/TABLE]
+
+[TABLE]
+ | Operations and support costs for Q2 2021 increased by 30% year-over-year to $208 million. Excluding the impact of
+stock-based compensation, operations and support costs for Q2 2021 increased by 21% year-over-year to $194 million, driven by overall customer support and Host protection related costs resulting from the increase in nights stayed relative to
+the same period in 2020.
+[/TABLE]
+
+[TABLE]
+ | Product development expense for Q2 2021 increased by 60% year-over-year to $350 million, primarily due to the impact
+of stock-based compensation. Excluding the impact of stock-based compensation, product development expense increased 4% year-over-year to $206 million.
+[/TABLE]
+
+[TABLE]
+ | Sales and marketing expense for Q2 2021 increased 175% year-over-year to $315 million. Excluding the impact of
+stock-based compensation and acquisition-related impacts, sales and marketing expense for Q2 2021 increased by 164% year-over-year to $292 million. This was primarily due to an increase in brand marketing expense related to our Made possible by
+Hosts campaign.
+[/TABLE]
+
+[TABLE]
+ | General and administrative expense for Q2 2021 increased by 46% year-over-year to $218 million. Excluding the impact
+of stock-based compensation, general and administrative expense for Q2 2021 increased by 23% year-over-year to $168 million.
+[/TABLE]
+
+Balance
+Sheet and Cash Flows 
+
+In Q2 2021, we reported $791 million of net cash provided by operating activities and $784 million of Free Cash Flow.
+6
+ Due to seasonal patterns, we typically experience an increase in unearned fees in the first two quarters of the year, which favorably impacts our cash from operations. Free Cash Flow as a percentage
+of revenue tends to be highest during this period. 
+
+As of June 30, 2021, we had $7.4 billion of cash, cash equivalents, marketable securities, and
+restricted cash. In addition, we had $6.3 billion of funds held on behalf of guests at the end of Q2 2021. 
+
+Unearned fees totaled $1.5 billion at the end
+of Q2 2021, compared to $946 million at the end of Q1 2021 and $408 million at the end of Q4 2020. The sequential increases were primarily a result of higher GBV due to seasonality, combined with people feeling more comfortable booking
+future travel. 
+
+Both the funds held on behalf of guests and the unearned fees balance at the end of Q2 2021 represent our strongest bookings backlog ever. 
+
+5,6
+ A reconciliation of 
+non-GAAP
+ financial measures to the most comparable
+GAAP measures is provided at the end of this letter. 
+
+15 
+
+Outlook 
+
+We are proud of
+our Q2 performance, driven by both our ability to adapt, as well as our focus on innovation to support new ways of traveling. Looking forward, we believe Airbnb is well positioned for the continued travel recovery. 
+
+In the near term, we anticipate that the impact of COVID-19 and the introduction and spread of new variants of the virus, including the Delta variant, will continue to
+affect overall travel behavior, including how often and when guests book and cancel. As a result, year-over-year comparisons for Nights and Experiences Booked and GBV will continue to be more volatile and non-linear. 
+
+In the near term, we believe revenue and Adjusted EBITDA provide clearer indications of quarterly performance. While the COVID-19 pandemic creates ongoing uncertainty
+for our future results, we expect Q3 2021 revenue to be our strongest quarterly revenue on record and to deliver the highest Adjusted EBITDA dollars and margin ever. 
+
+Nights and Experiences Booked and GBV 
+
+In Q3, we are starting to see the
+global spread of COVID variants, a patchwork of local travel restrictions and slowing vaccinations adversely impact cancellations and growth of Nights and Experiences Booked. 
+
+As a result, while we expect Nights and Experiences Booked in Q3 2021 to significantly outperform Q3 2020, we expect Nights and Experiences Booked to come down from Q2
+and remain below Q3 2019 levels. In the second half of 2021, we expect ADR to gradually moderate based on the anticipated shift in regional composition and return to urban destinations. Despite this moderation in ADR, we expect GBV in Q3 2021 to be
+well above 2019 levels, but below what we saw in Q2 due to the impact of booking timing differences and cancellations. 
+
+Looking to Q4, vaccination progress,
+containment of new variants, and travel restrictions outside the U.S. will all continue to be key factors in determining Nights and Experiences Booked and GBV growth for the rest of the year. We do not yet know how willing people will be to travel
+in the fall as compared to summer. 
+
+Revenue 
+
+The stronger than expected
+recovery in Nights and Experiences Booked through Q2, and the elevated ADR 
+year-to-date
+ have created a strong GBV backlog for peak travel season revenue. As a result, we
+expect Q3 2021 to be our strongest quarterly revenue on record, finishing well above Q3 2019 levels. Our Q3 revenue as a percentage of GBV will increase substantially from Q2 due to the high concentration of
+
+check-ins
+ expected in Q3. 
+
+Adjusted EBITDA 
+
+We remain focused on making progress towards achieving our long-term profitability goals through improved variable costs, high marketing efficiency and tightly managed
+fixed expenses. 
+
+We expect our Adjusted EBITDA margins to be higher in the second half of 2021 than in the first half, both due to seasonality and timing of
+certain investments made in the first half of 2021. For example, we expect that sales and marketing expense as a percentage of revenue in the second half of 2021 will be lower than that of the first halfpartially due to the marketing campaign
+that we ran in the first half of 2021 in advance of the summer travel season. Similarly, we expect operations and support expense as a percentage of revenue to decline in the second half of 2021 compared to the first half. 
+
+16 
+
+Q3 Adjusted EBITDA margins have historically benefited from the seasonality of our revenue, which typically peaks in
+Q3. We expect that trend to hold in 2021. In Q3 2021, we expect that our Adjusted EBITDA margin will be better than our Adjusted EBITDA margin in Q3 2020 and substantially higher than our Adjusted EBITDA margin in Q3 2019 given the fundamental
+changes weve made to our cost structure. 
+
+Earnings Webcast 
+
+Airbnb will host an audio webcast to discuss its second quarter 2021 results at 2 p.m. PT / 5 p.m. ET on Thursday, August 12, 2021. The link to the webcast will
+be made available on Airbnbs Investor Relations website at https://investors.airbnb.com. 
+
+Interested parties can register for the call in advance by visiting
+http://www.directeventreg.com/ registration/event/1468538. After registering, instructions will be shared on how to join the call. 
+
+Following the call, a replay of
+the webcast will be available at the same Investor Relations website. A telephonic replay will be also available for three weeks following the call at (800) 
+585-8367
+ or
+
+(416) 621-4642
+ using conference ID: 1468538. 
+
+Investor Relations Contact 
+
+ir@airbnb.com 
+
+Press Contact 
+
+contact.press@airbnb.com 
+
+About Airbnb 
+
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home. It has since grown to 4 million Hosts who have welcomed more than
+900 million guest arrivals across over 220 countries and regions. Every day, Hosts offer unique stays and 
+one-of-a-kind
+
+activities that make it possible for guests to experience the world in a more authentic, connected way. 
+
+Forward-Looking Statements 
+
+This letter contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of
+historical fact could be deemed forward-looking, including, but not limited to, statements regarding the future performance of Airbnb, Inc. and its consolidated subsidiaries (the Company); the Companys expectations regarding the
+impact of the 
+COVID-19
+ pandemic on its business, including as a result of new strains or variants of the virus, travel trends, and the travel industry; the Companys expectations regarding travel trends
+and the travel industry generally; the Companys expectations regarding and its plans to prepare for a travel rebound; the expected impact of the Companys product innovation and features and initiatives; the Companys plan to offer
+dedicated Superhost support; the Companys expectations regarding its financial performance, including its revenue, Adjusted EBITDA, Adjusted EBITDA margin, expenses, costs, and capital expenditures; the Companys expectations regarding
+future operating performance, including Nights and Experiences Booked, and GBV; the Companys expectations regarding the resilience of its model; and the Companys business strategy, plans, and objectives for future operations. In some
+cases, forward-looking statements can be 
+
+17 
+
+identified by terms such as may, will, appears, should, expects, plans, anticipates, could,
+outlook, intends, target, projects, contemplates, believes, estimates, predicts, potential, or continue, or the negative of these
+words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. Such statements are subject to a number of known and unknown risks, uncertainties, assumptions, and other factors that may cause the
+Companys actual results, performance, or achievements to differ materially from results expressed or implied in this letter. Investors are cautioned not to place undue reliance on these statements, and reported results should not be considered
+as an indication of future performance. 
+
+Risks that contribute to the uncertain nature of the forward-looking statements include, among others, the effects of the 
+COVID-19
+ pandemic on the Companys business, including as a result of new strains or variants of the virus, the travel industry, travel trends, and the global economy generally; the Companys ability to
+retain existing Hosts and guests and add new Hosts and guests; any further and continued decline or disruption in the travel and hospitality industries or economic downturn; the Companys ability to compete successfully; changes to the laws and
+regulations that may limit the Companys Hosts ability and willingness to provide their listings, and/or result in significant fines, liabilities, and penalties to the Company; the effect of extensive regulation and oversight, litigation,
+and other proceedings related to the Companys business in a variety of areas; the Companys ability to maintain its brand and reputation, and effectively drive traffic to its platform; the effectiveness of the Companys strategy and
+business initiatives, including measures to improve trust and safety; the Companys operations in international markets; the Companys substantial level of indebtedness; and changes in political, business, and economic conditions; as well
+as other risks listed or described from time to time in the Companys filings with the Securities and Exchange Commission (the SEC), including the Companys Annual Report on Form 
+10-K
+ for
+the fiscal year ended December 31, 2020, the Companys Quarterly Report on Form 
+10-Q
+ for the quarter ended March 31, 2021 and subsequent Form 
+10-Qs
+ and
+Form 
+8-Ks,
+ which will be on file with the SEC and available on the investor relations page of the Companys website. All forward looking statements are based on information and estimates available to the
+Company at the time of this letter and are not guarantees of future performance. Except as required by law, the Company assumes no obligation to update any of the statements in this letter. 
+
+The information that can be accessed through hyperlinks or website addresses included herein is deemed not to be incorporated in or part of this letter. 
+
+Non-GAAP
+ Financial Measures 
+
+In
+addition to our results determined in accordance with generally accepted accounting principles in the United States (GAAP), we review financial measures that are not calculated and presented in accordance with GAAP 
+(non-GAAP
+ financial measures). We believe our 
+non-GAAP
+ financial measures are useful in evaluating our operating performance. We use the following 
+non-GAAP
+ financial information, collectively, to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe that 
+non-GAAP
+ financial
+information, when taken collectively, may be helpful to investors because it provides consistency and comparability with past financial performance, and assists in comparisons with other companies, some of which use similar 
+non-GAAP
+ financial information to supplement their GAAP results. The 
+non-GAAP
+ financial information is presented for supplemental informational purposes only, should not be
+considered a substitute for financial information presented in accordance with GAAP, and may be different from similarly titled 
+non-GAAP
+ measures used by other companies. A reconciliation of each
+
+18 
+
+non-GAAP
+ financial measure to the most directly comparable financial measure stated in accordance with GAAP is provided below. Investors are encouraged to
+review the related GAAP financial measures and the reconciliation of these 
+non-GAAP
+ financial measures to their most directly comparable GAAP financial measures. 
+
+Our 
+non-GAAP
+ financial measures include Adjusted EBITDA, Adjusted EBITDA Margin and Free Cash Flow. 
+
+Adjusted EBITDA is defined as net income or loss adjusted for (i) provision for income taxes; (ii) interest income, interest expense, and other income
+(expense), net; (iii) depreciation and amortization; (iv) stock-based compensation expense and stock-settlement obligations related to the IPO; (v) acquisition-related impacts consisting of gains (losses) recognized on changes in the
+fair value of contingent consideration arrangements; (vi) net changes to the reserves for lodging taxes for which management believes it is probable that we may be held jointly liable with Hosts for collecting and remitting such taxes; and
+(vii) restructuring charges. 
+
+The above items are excluded from our Adjusted EBITDA measure because these items are
+
+non-cash
+ in nature, or because the amount and timing of these items is unpredictable, not driven by core results of operations and renders comparisons with prior periods and competitors less meaningful.
+Reconciliations of expected Adjusted EBITDA margins to corresponding net income margins have not been provided because of the unpredictability of certain of the items excluded from Adjusted EBITDA and because we cannot determine their probable
+significance. We believe Adjusted EBITDA provides useful information to investors and others in understanding and evaluating our results of operations, as well as provides a useful measure for 
+period-to-period
+ comparisons of our business performance. Moreover, we have included Adjusted EBITDA in this letter because it is a key measurement used by our management internally to make operating
+decisions, including those related to operating expenses, evaluating performance, and performing strategic planning and annual budgeting. Adjusted EBITDA also excludes certain items related to transactional tax matters, for which management believes
+it is probable that we may be held jointly liable with Hosts in certain jurisdictions. 
+
+Adjusted EBITDA has limitations as a financial measure, should be considered
+as supplemental in nature, and is not meant as a substitute for the related financial information prepared in accordance with GAAP. These limitations include the following: 
+
+[TABLE]
+ | Adjusted EBITDA does not reflect interest income (expense) and other income (expense), net, which include loss on
+extinguishment of debt and unrealized and realized gains and losses on foreign currency exchange, investments, and financial instruments, including the warrants issued in connection with a term loan agreement entered into in April 2020. We amended
+the anti-dilution feature in the warrant agreements in March 2021. The balance of the warrants of $1.3 billion was reclassified from liability to equity as the amended warrants met the requirements for equity classification and are no longer
+remeasured at each reporting period;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA excludes certain recurring, non-cash charges, such as depreciation
+of property and equipment and amortization of intangible assets, and although these are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA
+does not reflect all cash requirements for such replacements or for new capital expenditure requirements;
+[/TABLE]
+
+19 
+
+[TABLE]
+ | Adjusted EBITDA excludes stock-based compensation expense, which has been, and will continue to be for the foreseeable
+future, a significant recurring expense in our business and an important part of our compensation strategy, as well as stock-settlement obligations, which represent employer and related taxes related to the IPO;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA excludes acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value
+of contingent consideration arrangements. The contingent consideration, which was in the form of equity, was valued as of the acquisition date and is marked-to-market at
+each reporting period based on factors including our stock price. The changes in fair value of contingent consideration were insignificant prior to the fourth quarter of 2020;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA does not reflect net changes to the reserves for lodging taxes for which management believes it is
+probable that we may be held jointly liable with Hosts for collecting and remitting such taxes; and
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA does not reflect restructuring charges, which include severance and other employee costs, lease
+impairments, and contract amendments and terminations.
+[/TABLE]
+
+Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by revenue. Because of these
+limitations, you should consider Adjusted EBITDA and Adjusted EBITDA Margin alongside other financial performance measures, including net loss and our other GAAP results. 
+
+Free Cash Flow represents net cash provided by (used in) operating activities less purchases of property and equipment. We believe that Free Cash Flow is a meaningful
+indicator of liquidity that provides information to management and investors about the amount of cash generated from operations that, after purchases of property and equipment, can be used for strategic initiatives, including continuous investment
+in our business, growth through acquisitions, and strengthening our balance sheet. Our Free Cash Flow is impacted by the timing of GBV because we collect our service fees at the time of booking, which is generally before a stay or experience occurs.
+Funds held on behalf of our Hosts and guests and amounts payable to our Hosts and guests do not impact Free Cash Flow, except interest earned on these funds. Free Cash Flow has limitations as an analytical tool and should not be considered in
+isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by (used in) operating activities. Free Cash Flow does not reflect our ability to meet future contractual commitments and may
+be calculated differently by other companies in our industry, limiting its usefulness as a comparative measure. 
+
+20 
+
+Quarterly Summary 
+
+[TABLE]
+2019 | 2020 | 2021
+Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 | Q1 | Q2
+Nights and Experiences Booked | 81.3M | 83.9M | 85.9M | 75.8M | 57.1M | 28.0M | 61.8M | 46.3M | 64.4M | 83.1M
+Y/Y | (30)% | (67)% | (28)% | (39)% | 13% | 197%
+Y/2Y | (21)% | (1)%
+Gross Booking Value | $10.0B | $9.8B | $9.7B | $8.5B | $6.8B | $3.2B | $8.0B | $5.9B | $10.3B | $13.4B
+Y/Y | (32)% | (67)% | (17)% | (31)% | 52% | 320%
+Y/2Y | 3% | 37%
+Gross Booking Value per Night and Experience Booked (or
+ADR) | $122.36 | $117.14 | $112.39 | $112.63 | $118.45 | $114.18 | $129.95 | $127.56 | $159.82 | $161.45
+Y/Y | (3)% | (3)% | 16% | 13% | 35% | 41%
+Y/2Y | 31% | 38%
+2019 | 2020 | 2021
+Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 | Q1 | Q2
+Revenue | $839M | $1,214M | $1,646M | $1,107M | $842M | $335M | $1,342M | $859M | $887M | $1,335M
+Y/Y | 31% | 34% | 30% | 32% | 0% | (72)% | (18)% | (22)% | 5% | 299%
+FX Neutral Y/Y | 2% | (72)% | (19)% | (22)% | 3% | 284%
+Net income (loss) | $(292)M | $(297)M | $267M | $(352)M | $(341)M | $(576)M | $219M | $(3.9)B | $(1.2)B | $(68)M
+Adjusted EBITDA | $(248)M | $(43)M | $314M | $(276)M | $(334)M | $(397)M | $501M | $(21)M | $(59)M | $217M
+Net cash provided by (used in) operating activities | $314M | $152M | $(47)M | $(196)M | $(570)M | $(256)M | $336M | $(139)M | $494M | $791M
+Free Cash Flow | $277M | $121M | $(78)M | $(223)M | $(585)M | $(263)M | $328M | $(147)M | $487M | $784M
+[/TABLE]
+
+21 
+
+Quarterly Summary Continued 
+
+[TABLE]
+2019 | 2020 | 2021
+Mar 31 | Jun 30 | Sept 30 | Dec 31 | Mar 31 | Jun 30 | Sept 30 | Dec 31 | Mar 31 | Jun 30
+Cash and cash equivalents, restricted cash, and marketable
+securities | $3,480M | $3,407M | $3,346M | $3,074M | 2,484M | 4,169M | 4,551M | 6,425M | 6,589M | 7,443M
+Funds receivable and amounts held on behalf
+of customers | $3,800M | $4,432M | $2,919M | $3,145M | 2,688M | 3,326M | 2,354M | 2,181M | 4,015M | 6,302M
+Unearned fees | $966M | $1,050M | $665M | $675M | 658M | 694M | 460M | 408M | 946M | 1,484M
+[/TABLE]
+
+22 
+
+Condensed Consolidated Statements of Operations 
+
+Unaudited (in thousands, except per share amounts) 
+
+[TABLE]
+Three Months Ended June 30 | Six Months Ended June 30
+2020 | 2021 | 2020 | 2021
+Revenue | $334,774 | $1,335,196 | $1,176,604 | $2,222,132
+Costs and expenses:
+Cost of revenue | 161,198 | 294,427 | 438,970 | 548,942
+Operations and support (1) | 160,476 | 208,125 | 382,263 | 393,561
+Product development (1) | 217,938 | 349,734 | 476,757 | 712,795
+Sales and marketing (1) | 114,837 | 315,323 | 432,016 | 544,448
+General and administrative (1) | 149,299 | 218,303 | 241,061 | 408,065
+Restructuring charges (1) | 114,241 | 562 | 114,241 | 112,544
+Total costs and expenses | 917,989 | 1,386,474 | 2,085,308 | 2,720,355
+Loss from operations | (583,215) | (51,278) | (908,704) | (498,223)
+Interest income | 5,856 | 2,942 | 19,505 | 5,994
+Interest expense | (49,191) | (6,520) | (47,681) | (428,431)
+Other expense, net | (12,848) | (2,128) | (59,608) | (302,226)
+Loss before income taxes | (639,398) | (56,984) | (996,488) | (1,222,886)
+Provision for (benefit from) income taxes | (63,810) | 11,233 | (80,295) | 17,542
+Net loss | $(575,588) | $(68,217) | $(916,193) | $(1,240,428)
+Net loss per share attributable to Class A and Class B common stockholders, basic and
+diluted | $(2.18) | $(0.11) | $(3.48) | $(2.05)
+Weighted-average shares used in computing net loss per share attributable to Class A and
+Class B common stockholders, basic and diluted | 263,517 | 611,739 | 263,013 | 606,380
+(1) Includes stock-based compensation expense as follows:
+Three Months Ended June 30 | Six Months Ended June 30
+2020 | 2021 | 2020 | 2021
+Operations and support | $855 | $14,236 | $1,804 | $25,648
+Product development | 20,716 | 143,812 | 43,152 | 287,527
+Sales and marketing | 4,387 | 24,064 | 10,435 | 49,965
+General and administrative | 13,608 | 50,728 | 25,801 | 99,185
+Restructuring charges | (1,776) | 23 | (1,776) | 12
+Stock-based compensation expense | $37,790 | $232,863 | $79,416 | $462,337
+[/TABLE]
+
+23 
+
+Condensed Consolidated Balance Sheets 
+
+Unaudited (in thousands) 
+
+[TABLE]
+Dec 31, 2020 | June 30, 2021
+Assets
+Current assets:
+Cash and cash equivalents | $ 5,480,557 | $ 5,672,682
+Marketable securities | 910,700 | 1,755,257
+Restricted cash | 33,846 | 14,764
+Funds receivable and amounts held on behalf of customers | 2,181,329 | 6,301,695
+Prepaids and other current assets | 309,954 | 351,584
+Total current assets | 8,916,386 | 14,095,982
+Property and equipment, net | 270,194 | 193,250
+Operating lease right-of-use assets | 384,068 | 289,072
+Intangible assets, net | 75,886 | 63,653
+Goodwill | 655,801 | 654,554
+Other assets, noncurrent | 189,164 | 188,299
+Total assets | $ 10,491,499 | $ 15,484,810
+Liabilities and Stockholders Equity
+Current liabilities:
+Accounts payable | $ 79,898 | $ 97,669
+Operating lease liabilities, current | 56,586 | 51,112
+Accrued expenses and other current liabilities | 2,414,071 | 1,561,965
+Funds payable and amounts payable to customers | 2,181,329 | 6,301,695
+Unearned fees | 407,895 | 1,483,909
+Total current liabilities | 5,139,779 | 9,496,350
+Long-term debt, net of current portion | 1,815,562 | 1,980,455
+Operating lease liabilities, noncurrent | 430,905 | 412,182
+Other liabilities, noncurrent | 203,470 | 202,622
+Total liabilities | 7,589,716 | 12,091,609
+Stockholders equity:
+Common stock | 60 | 62
+Additional paid-in capital | 8,904,791 | 10,639,267
+Accumulated other comprehensive income | 2,639 | 7
+Accumulated deficit | (6,005,707) | (7,246,135)
+Total stockholders equity | 2,901,783 | 3,393,201
+Total liabilities and stockholders equity | $ 10,491,499 | $ 15,484,810
+[/TABLE]
+
+24 
+
+Condensed Consolidated Statements of Cash Flows 
+
+Unaudited (in thousands) 
+
+[TABLE]
+Six Months Ended June 30
+2020 | 2021
+Cash flows from operating activities:
+Net loss | $(916,193) | $(1,240,428)
+Adjustments to reconcile net loss to cash provided by (used in) operating activities:
+Depreciation and amortization | 63,800 | 73,788
+Bad debt expense | 63,827 | 9,622
+Stock-based compensation expense | 79,416 | 462,337
+Impairment of investments | 53,136 | -
+(Gain) loss on investments, net | 34,410 | (10,847)
+Change in fair value of warrant liability | 11,951 | 291,987
+Amortization of debt discount and debt issuance costs | - | 6,362
+Noncash interest expense, net | 15,104 | 4,879
+Foreign exchange gain | (30,641) | (16,974)
+Impairment of long-lived assets | - | 112,545
+Loss from extinguishment of debt | - | 377,248
+Other, net | (7,591) | 4,417
+Changes in operating assets and liabilities:
+Prepaids and other assets | (55,481) | (46,377)
+Operating lease right-of-use assets | (10,618) | 19,708
+Accounts payable | (85,934) | 18,109
+Accrued expenses and other liabilities | (95,569) | 165,475
+Operating lease liabilities | 34,944 | (22,177)
+Unearned fees | 19,147 | 1,075,993
+Net cash provided by (used in) operating activities | (826,292) | 1,285,667
+Cash flows from investing activities:
+Purchases of property and equipment | (21,853) | (15,358)
+Purchases of marketable securities | (1,196,273) | (2,807,829)
+Sales of marketable securities | 110,068 | 1,172,953
+Maturities of marketable securities | 528,747 | 803,464
+Other investing activities, net | 500 | -
+Net cash used in investing activities | (578,811) | (846,770)
+[/TABLE]
+
+25 
+
+Condensed Consolidated Statements of Cash Flows Continued 
+
+Unaudited (in thousands) 
+
+[TABLE]
+Six Months Ended June 30
+2020 | 2021
+Cash flows from financing activities:
+Proceeds from issuance of long-term debt and warrants, net of issuance
+costs | $1,928,880 | $-
+Principal repayment of long-term debt | - | (1,995,000)
+Prepayment penalty on long-term debt | - | (212,883)
+Proceeds from issuance of convertible senior notes, net of issuance
+costs | - | 1,979,166
+Purchases of capped calls related to convertible senior notes | - | (100,200)
+Proceeds from the issuance of common stock under employee stock purchase
+plan | - | 25,464
+Proceeds from exercise of stock options | 2,668 | 83,855
+Change in funds payable and amounts payable to customers | 275,747 | 4,143,462
+Other financing activities, net | (3,107) | (22,792)
+Net cash provided by financing activities | 2,204,188 | 3,901,072
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash | (69,563) | (55,754)
+Net increase in cash, cash equivalents, and restricted cash | 729,522 | 4,284,215
+Cash, cash equivalents, and restricted cash, beginning of period | 5,143,443 | 7,668,252
+Cash, cash equivalents, and restricted cash, end of period | $5,872,965 | $11,952,467
+[/TABLE]
+
+Key Business Metrics 
+
+(in millions) 
+
+[TABLE]
+Three Months Ended June 30 | Six Months Ended June 30
+2020 | 2021 | 2020 | 2021
+Nights and Experiences Booked | 28.0 | 83.1 | 85.1 | 147.5
+Gross Booking Value | $3,195.4 | $13,421.4 | $9,961.9 | $23,711.1
+[/TABLE]
+
+26 
+
+Reconciliations of 
+Non-GAAP
+ Financial Measures 
+
+The following is a reconciliation of Adjusted EBITDA to the most comparable GAAP measure, net income (loss). 
+
+Adjusted EBITDA Reconciliation 
+
+(in thousands) 
+
+[TABLE]
+Three Months Ended
+Jun 30, 2019 | Mar 31, 2020 | Jun 30, 2020 | Sept 30, 2020 | Dec 31, 2020 | Mar 31, 2021 | Jun 30, 2021
+Net income (loss) | $(297,424) | $(340,605) | $(575,588) | $219,328 | $(3,887,851) | $(1,172,211) | $(68,217)
+Adjusted to exclude the following:
+Provision for (benefit from) income taxes | 225,470 | (16,485) | (63,810) | 87,724 | (104,651) | 6,309 | 11,233
+Other (income) expense, net | (6,284) | 46,760 | 12,848 | 56,143 | 831,469 | 300,098 | 2,128
+Interest expense | 2,450 | (1,510) | 49,191 | 59,867 | 64,140 | 421,911 | 6,520
+Interest income | (24,367) | (13,649) | (5,856) | (4,325) | (3,287) | (3,052) | (2,942)
+Depreciation and amortization | 24,108 | 33,872 | 29,928 | 29,638 | 32,438 | 38,252 | 35,536
+Stock-based compensation
+expense (1) | 18,049 | 41,626 | 39,566 | 29,433 | 2,891,523 | 229,485 | 232,840
+Stock-settlement obligations related to IPO | - | - | - | - | 103,411 | - | -
+Acquisition-related impacts | - | - | - | - | 37,215 | 7,989 | (741)
+Net changes in lodging tax reserves | 15,406 | (84,280) | 2,154 | 907 | 688 | 599 | 475
+Restructuring charges | - | - | 114,241 | 22,728 | 14,386 | 111,982 | 562
+Adjusted EBITDA | $(42,592) | $(334,271) | $(397,326) | $501,443 | $(20,519) | $(58,638) | $217,394
+[/TABLE]
+
+1
+ Excludes stock-based compensation related to restructuring, which is included in
+restructuring charges in the table above. 
+
+27 
+
+The following is a reconciliation of Free Cash Flow to the most comparable GAAP measure, net cash provided by (used
+in) operating activities. 
+
+Free Cash Flow Reconciliation 
+
+(in thousands)
+
+[TABLE]
+Three Months Ended
+Mar 31, 2020 | Jun 30, 2020 | Sept 30, 2020 | Dec 31, 2020 | Mar 31, 2021 | Jun 30, 2021
+Net cash provided by (used in) operating activities | $(569,830) | $(256,462) | $335,670 | $(139,110) | $494,368 | $791,299
+Purchases of property and equipment | (15,667) | (6,186) | (7,636) | (7,882) | (7,706) | (7,652)
+Free Cash Flow | $(585,497) | $(262,648) | $328,034 | $(146,992) | $486,662 | $783,647
+Other cash flow components:
+Net cash provided by (used in) investing activities | $2,259 | $(581,070) | $(237,293) | $895,694 | $(1,172,286) | $325,516
+Net cash provided by (used in) financing activities | $(339,202) | $2,543,390 | $(1,029,981) | $1,766,607 | $1,567,534 | $2,333,538
+[/TABLE]
+
+28 
+
+The following is a reconciliation of operating expense line items less stock-based compensation
+and acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value of contingent consideration arrangements. 
+
+Reconciliation of 
+Non-GAAP
+ Operating Expenses 
+
+(in thousands) 
+
+[TABLE]
+Three Months Ended June 30 | Six Months Ended June 30
+2020 | 2021 | 2020 | 2021
+Operations and support | $160,476 | $208,125 | $382,263 | $393,561
+Less: Stock-based compensation | (855) | (14,236) | (1,804) | (25,648)
+Operations and support excluding stock-based compensation | $159,621 | $193,889 | $380,459 | $367,913
+Product development | $217,938 | $349,734 | $476,757 | $712,795
+Less: Stock-based compensation | (20,716) | (143,812) | (43,152) | (287,527)
+Product development excluding stock-based compensation | $197,222 | $205,922 | $433,605 | $425,268
+Sales and marketing | $114,837 | $315,323 | $432,016 | $544,448
+Less: Stock-based compensation | (4,387) | (24,064) | (10,435) | (49,965)
+Less: Acquisition-related impacts | - | 741 | - | (7,248)
+Sales and marketing excluding stock-based compensation and acquisition-related impacts | $110,450 | $292,000 | $421,581 | $487,235
+General and administrative | $149,299 | $218,303 | $241,061 | $408,065
+Less: Stock-based compensation | (13,608) | (50,728) | (25,801) | (99,185)
+General and administrative excluding stock-based compensation | $135,691 | $167,575 | $215,260 | $308,880
+Restructuring charges | $114,241 | $562 | $114,241 | $112,544
+Less: Stock-based compensation | 1,776 | (23) | 1,776 | (12)
+Restructuring charges excluding stock-based compensation | $116,017 | $539 | $116,017 | $112,532
+[/TABLE]
+
+29 
+
+Glossary 
+
+[TABLE]
+Nights and Experiences Booked | Nights and Experiences Booked on our platform in a period represents the sum of the total number of nights booked for stays and the total number of seats booked for experiences, net of cancellations and alterations that
+occurred in that period.
+Gross Booking Value | Gross Booking Value (GBV) represents the dollar value of bookings on our platform in a period and is inclusive of Host earnings, service fees, cleaning fees, and taxes, net of cancellations and alterations that occurred
+during that period.
+Revenue | Revenue consists of service fees, net of incentives and refunds, charged to our customers.
+Adjusted EBITDA | Adjusted EBITDA is defined as net income or loss adjusted for (i) provision for income taxes; (ii) interest income, interest expense, and other income (expense), net; (iii) depreciation and amortization;
+(iv) stock-based compensation expense and stock-settlement obligations related to the IPO; (v) acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value of contingent consideration arrangements;
+(vi) net changes to the reserves for lodging taxes for which management believes it is probable that we may be held jointly liable with Hosts for collecting and remitting such taxes; and (vii) restructuring charges.
+Adjusted EBITDA Margin | Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by revenue.
+Free Cash Flow | Free Cash Flow represents net cash provided by (used in) operating activities less purchases of property and equipment.
+[/TABLE]
+
+30 
+
+31

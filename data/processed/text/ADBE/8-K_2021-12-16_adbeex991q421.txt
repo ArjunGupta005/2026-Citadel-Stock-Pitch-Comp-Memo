@@ -1,0 +1,337 @@
+EX-99.1
+
+2
+
+adbeex991q421.htm
+
+EX-99.1
+
+Document
+Exhibit 99.1
+Investor Relations Contact
+Jonathan Vaas
+Adobe 
+ir@adobe.com
+Public Relations Contact
+Ashley Levine
+Adobe
+aslevine@adobe.com
+FOR IMMEDIATE RELEASE
+Adobe Reports Record Q4 and Fiscal 2021 Revenue;
+Company Outlines Strategy for Next Decade of Growth
+Company reports first $3 billion Digital Media and first $1 billion Digital Experience revenue quarter; and exceeds $2 billion in operating cash flows in the quarter
+SAN JOSE, Calif. – Dec. 16, 2021 - 
+Adobe (Nasdaq:ADBE) today reported financial results for its fourth quarter and fiscal year 2021 ended Dec. 3, 2021.
+“Adobe’s record performance in Q4 resulted in fiscal 2021 revenue exceeding $15 billion,” said Shantanu Narayen, chairman and CEO, Adobe. “Adobe’s vision, category leadership, ground-breaking technology and large and loyal customer base position us well for fiscal 2022 and beyond.”
+“Adobe’s financial performance in fiscal 2021 was outstanding, with top-line acceleration resulting in more than $7 billion in operating cash flows,” said Dan Durn, executive vice president and CFO, Adobe. “With an estimated $205 billion addressable market, we are well positioned for significant growth in the years ahead with our industry-leading products and platforms.”
+Fourth Quarter Fiscal Year 2021 Financial Highlights
+•
+Adobe achieved record revenue of $4.11 billion in its fourth quarter of fiscal year 2021, which represents 20 percent year-over-year growth. Diluted earnings per share was $2.57 on a GAAP basis and $3.20 on a non-GAAP basis.
+•
+Digital Media segment revenue was $3.01 billion, which represents 21 percent year-over-year growth. Creative revenue grew to $2.48 billion, representing 19 percent year-over-year growth. Document Cloud revenue was $532 million, representing 29 percent year-over-year growth.
+•
+Digital Media Annualized Recurring Revenue (“ARR”) increased $571 million quarter over quarter to $12.24 billion exiting the quarter, including the addition of enterprise ARR of Frame.io, which closed on October 7, 2021. Creative ARR grew to $10.30 billion. Total enterprise ARR for Frame.io, including business closed by Adobe, exiting the quarter was approximately $29 million. Document Cloud ARR grew to $1.93 billion.
+•
+Digital Experience segment revenue was $1.01 billion, representing 23 percent year-over-year growth. Digital Experience subscription revenue was $886 million, representing 27 percent year-over-year growth.
+•
+GAAP operating income in the fourth quarter was $1.50 billion, and non-GAAP operating income was $1.86 billion. GAAP net income was $1.23 billion, and non-GAAP net income was $1.54 billion.
+•
+Cash flows from operations were a record $2.05 billion.
+•
+Remaining Performance Obligations (“RPO”) exiting the quarter were $13.99 billion, representing 23 percent year-over-year growth.
+•
+Adobe repurchased approximately 1.6 million shares during the quarter.
+Fiscal Year 2021 Financial Highlights
+•
+Adobe achieved record annual revenue of $15.79 billion in fiscal year 2021, which represents 23 percent year-over-year growth.
+•
+The company reported annual GAAP diluted earnings per share of $10.02 and non-GAAP diluted earnings per share of $12.48.
+•
+Digital Media segment revenue was $11.52 billion, which represents 25 percent year-over-year growth. Creative revenue grew to $9.55 billion, representing 23 percent year-over-year growth. Document Cloud revenue was $1.97 billion, representing 32 percent year-over-year growth. Digital Media ARR grew by $1.98 billion during the year.
+•
+Digital Experience segment revenue was $3.87 billion, representing 24 percent year-over-year growth. Digital Experience subscription revenue was $3.38 billion, representing 27 percent year-over-year growth.
+•
+GAAP operating income was $5.80 billion, growing 37 percent year over year, and non-GAAP operating income was $7.26 billion, growing 31 percent year over year. GAAP net income was $4.82 billion, and non-GAAP net income was $6.00 billion.
+•
+Adobe generated a record $7.23 billion in operating cash flows during the year.
+•
+Adobe repurchased approximately 7.2 million shares during the year.
+Adobe to Host Financial Analyst Meeting
+Today, Adobe will host its annual financial analyst meeting together with its fourth quarter fiscal year 2021 earnings conference call. In addition to sharing its financial outlook, Adobe’s executive team will outline the company’s vision, strategies and opportunities across Adobe Creative Cloud, Adobe Document Cloud and Adobe Experience Cloud. As part of the financial analyst meeting, Adobe is announcing that it expects its total addressable market to expand to approximately $205 billion by 2024.
+The meeting will be hosted virtually on Adobe’s investor relations website at 8:00 a.m. Pacific Time. Earnings documents, including Adobe management’s prepared slides and an investor datasheet are posted to Adobe’s investor relations website in advance of the conference call for reference.
+Adobe Provides Fiscal Year and First Quarter 2022 Financial Targets
+Adobe’s fiscal year 2022 and first quarter fiscal year 2022 targets factor in the following:
+•
+The strengthening of the U.S. Dollar against foreign currencies; and
+•
+The return to a 13-week first quarter and a 52-week fiscal year from fiscal 2021, which included an extra week in Q1
+1,2
+.
+The following table summarizes Adobe’s fiscal year 2022 targets:
+
+[TABLE]
+Total revenue | ~$17.90 billion
+Digital Media annualized recurring revenue (ARR) | ~$1.90 billion of net new ARR
+Digital Media segment revenue (Y/Y growth) | ~14 % | ~17 % (Adjusted 3 )
+Digital Experience segment revenue (Y/Y growth) | ~14 % | ~17 % (Adjusted 3 )
+Digital Experience subscription revenue (Y/Y growth) | ~16 % | ~19 % (Adjusted 3 )
+Tax rate | GAAP: ~17.5 % | Non-GAAP: ~17 %
+Earnings per share 4 | GAAP: ~$10.25 | Non-GAAP: ~$13.70
+[/TABLE]
+
+The following table summarizes Adobe’s first quarter fiscal year 2022 targets:
+
+[TABLE]
+Total revenue | ~$4.23 billion 1
+Digital Media annualized recurring revenue (ARR) | ~$400 million of net new ARR 2
+Digital Media segment revenue (Y/Y growth) | ~8 % | ~17 % (Adjusted 3 )
+Digital Experience segment revenue (Y/Y growth) | ~11 % | ~18 % (Adjusted 3 )
+Digital Experience subscription revenue (Y/Y growth) | ~13 % | ~20 % (Adjusted 3 )
+Tax rate | GAAP: ~16 % | Non-GAAP: ~17 %
+Earnings per share 4 | GAAP: ~$2.63 | Non-GAAP: ~$3.35
+[/TABLE]
+
+2
+Forward-Looking Statements, Non-GAAP and Other Disclosures
+This press release contains forward-looking statements, including those related to business momentum, the effects of the COVID-19 pandemic on our business and results of operations, our market opportunity, market trends, current macroeconomic conditions, customer success, revenue, operating margin, seasonality, annualized recurring revenue, tax rate on a GAAP and non-GAAP basis, earnings per share on a GAAP and non-GAAP basis, and share count, all of which involve risks and uncertainties that could cause actual results to differ materially. Factors that might cause or contribute to such differences include, but are not limited to: failure to compete effectively, failure to develop, acquire, market and offer products and services that meet customer requirements, introduction of new technology, information security and privacy, potential interruptions or delays in hosted services provided by us or third parties, macroeconomic conditions and economic impact of the COVID-19 pandemic, risks associated with cyber-attacks, complex sales cycles, risks related to the timing of revenue recognition from our subscription offerings, fluctuations in subscription renewal rates, failure to realize the anticipated benefits of past or future acquisitions, failure to effectively manage critical strategic third-party business relationships, changes in accounting principles and tax regulations, uncertainty in the financial markets and economic conditions in the countries where we operate, and other various risks associated with being a multinational corporation. For a discussion of these and other risks and uncertainties, please refer to Adobe’s Annual Report on Form 10-K for our fiscal year 2020 ended Nov. 27, 2020, and Adobe's Quarterly Reports on Form 10-Q issued in fiscal year 2021.
+The financial information set forth in this press release reflects estimates based on information available at this time. These amounts could differ from actual reported amounts stated in Adobe’s Annual Report on Form 10-K for our fiscal year ended Dec. 3, 2021, which Adobe expects to file in January 2022. Adobe assumes no obligation to, and does not currently intend to, update these forward-looking statements.
+A reconciliation between GAAP and non-GAAP earnings results and financial targets is provided at the end of this press release and on Adobe’s investor relations website.
+1
+Additional week in the first quarter of fiscal year 2021 contributed approximately $267 million of total Adobe revenue.
+2
+Additional week in the first quarter of fiscal year 2021 contributed approximately $25 million of net new Digital Media ARR.
+3
+Adjusted to account for the extra week in first quarter fiscal year 2021 and to show growth rates in constant currency.
+4
+Targets assume share count of ~477 million for fiscal year 2022 and ~479 million for first quarter fiscal year 2022.
+About Adobe
+Adobe is changing the world through digital experiences. For more information, visit 
+www.adobe.com
+.
+###
+©2021 Adobe. All rights reserved. Adobe, Creative Cloud, Document Cloud and the Adobe logo are either registered trademarks or trademarks of Adobe (or one of its subsidiaries) in the United States and/or other countries. All other trademarks are the property of their respective owners.
+3
+Condensed Consolidated Statements of Income 
+(In millions, except per share data; unaudited)
+
+[TABLE]
+Three Months Ended | Year Ended
+December 3, 2021 | November 27, 2020 | December 3, 2021 | November 27, 2020
+Revenue:
+Subscription | 3,812 | 3,115 | 14,573 | 11,626
+Product | 128 | 127 | 555 | 507
+Services and other | 170 | 182 | 657 | 735
+Total revenue | 4,110 | 3,424 | 15,785 | 12,868
+Cost of revenue:
+Subscription | 378 | 283 | 1,374 | 1,108
+Product | 12 | 10 | 41 | 36
+Services and other | 117 | 135 | 450 | 578
+Total cost of revenue | 507 | 428 | 1,865 | 1,722
+Gross profit | 3,603 | 2,996 | 13,920 | 11,146
+Operating expenses:
+Research and development | 657 | 558 | 2,540 | 2,188
+Sales and marketing | 1,131 | 941 | 4,321 | 3,591
+General and administrative | 274 | 243 | 1,085 | 968
+Amortization of intangibles | 40 | 39 | 172 | 162
+Total operating expenses | 2,102 | 1,781 | 8,118 | 6,909
+Operating income | 1,501 | 1,215 | 5,802 | 4,237
+Non-operating income (expense):
+Interest expense | (28) | (27) | (113) | (116)
+Investment gains (losses), net | (4) | 6 | 16 | 13
+Other income (expense), net | (1) | 3 | — | 42
+Total non-operating income (expense), net | (33) | (18) | (97) | (61)
+Income before income taxes | 1,468 | 1,197 | 5,705 | 4,176
+Provision for (benefit from) income taxes | 235 | (1,053) | 883 | (1,084)
+Net income | 1,233 | 2,250 | 4,822 | 5,260
+Basic net income per share | 2.59 | 4.69 | 10.10 | 10.94
+Shares used to compute basic net income per share | 476 | 479 | 477 | 481
+Diluted net income per share | 2.57 | 4.64 | 10.02 | 10.83
+Shares used to compute diluted net income per share | 480 | 484 | 481 | 485
+[/TABLE]
+
+4
+Condensed Consolidated Balance Sheets
+(In millions; unaudited)
+
+[TABLE]
+December 3, 2021 | November 27, 2020
+ASSETS
+Current assets:
+Cash and cash equivalents | 3,844 | 4,478
+Short-term investments | 1,954 | 1,514
+Trade receivables, net of allowances for doubtful accounts of $16 and $21, respectively | 1,878 | 1,398
+Prepaid expenses and other current assets | 975 | 756
+Total current assets | 8,651 | 8,146
+Property and equipment, net | 1,673 | 1,517
+Operating lease right-of-use assets, net | 443 | 487
+Goodwill | 12,721 | 10,742
+Other intangibles, net | 1,820 | 1,359
+Deferred income taxes | 1,085 | 1,370
+Other assets | 848 | 663
+Total assets | 27,241 | 24,284
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Trade payables | 312 | 306
+Accrued expenses | 1,736 | 1,422
+Deferred revenue | 4,733 | 3,629
+Income taxes payable | 54 | 63
+Operating lease liabilities | 97 | 92
+Total current liabilities | 6,932 | 5,512
+Long-term liabilities:
+Debt | 4,123 | 4,117
+Deferred revenue | 145 | 130
+Income taxes payable | 534 | 529
+Deferred income taxes | 5 | 10
+Operating lease liabilities | 453 | 499
+Other liabilities | 252 | 223
+Total liabilities | 12,444 | 11,020
+Stockholders’ equity:
+Preferred stock | — | —
+Common stock | — | —
+Additional paid-in-capital | 8,428 | 7,357
+Retained earnings | 23,905 | 19,611
+Accumulated other comprehensive income (loss) | (137) | (158)
+Treasury stock, at cost | (17,399) | (13,546)
+Total stockholders’ equity | 14,797 | 13,264
+Total liabilities and stockholders’ equity | 27,241 | 24,284
+[/TABLE]
+
+5
+Condensed Consolidated Statements of Cash Flows
+(In millions; unaudited)
+
+[TABLE]
+Three Months Ended
+December 3, 2021 | November 27, 2020
+Cash flows from operating activities:
+Net income | 1,233 | 2,250
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion | 205 | 190
+Stock-based compensation | 269 | 233
+Unrealized investment (gains) losses, net | 7 | (7)
+Other non-cash adjustments | 87 | (1,192)
+Changes in deferred revenue | 482 | 310
+Changes in other operating assets and liabilities | (235) | (2)
+Net cash provided by operating activities | 2,048 | 1,782
+Cash flows from investing activities:
+Purchases, sales and maturities of short-term investments, net | (423) | (22)
+Purchases of property and equipment | (81) | (103)
+Purchases and sales of long-term investments, intangibles and other assets, net | (5) | (6)
+Acquisitions, net of cash acquired | (1,212) | —
+Net cash used for investing activities | (1,721) | (131)
+Cash flows from financing activities:
+Repurchases of common stock | (1,000) | (850)
+Taxes paid related to net share settlement of equity awards, net of proceeds from treasury stock re-issuances | (116) | (82)
+Other financing activities, net | 38 | (8)
+Net cash used for financing activities | (1,078) | (940)
+Effect of exchange rate changes on cash and cash equivalents | (28) | —
+Net increase (decrease) in cash and cash equivalents | (779) | 711
+Cash and cash equivalents at beginning of period | 4,623 | 3,767
+Cash and cash equivalents at end of period | 3,844 | 4,478
+[/TABLE]
+
+6
+Non-GAAP Results
+(In millions, except per share data)
+The following table shows Adobe’s GAAP results reconciled to non-GAAP results included in this release.
+
+[TABLE]
+Three Months Ended | Year Ended
+December 3, 2021 | November 27, 2020 | September 3, 2021 | December 3, 2021 | November 27, 2020
+Operating income:
+GAAP operating income | 1,501 | 1,215 | 1,441 | 5,802 | 4,237
+Stock-based and deferred compensation expense | 265 | 239 | 287 | 1,107 | 924
+Amortization of intangibles | 91 | 84 | 83 | 350 | 360
+Non-GAAP operating income | 1,857 | 1,538 | 1,811 | 7,259 | 5,521
+Net income:
+GAAP net income | 1,233 | 2,250 | 1,212 | 4,822 | 5,260
+Stock-based and deferred compensation expense | 265 | 239 | 287 | 1,107 | 924
+Amortization of intangibles | 91 | 84 | 83 | 350 | 360
+Investment (gains) losses, net | 4 | (6) | (7) | (16) | (13)
+Income tax adjustments | (57) | (1,204) | (79) | (260) | (1,628)
+Non-GAAP net income | 1,536 | 1,363 | 1,496 | 6,003 | 4,903
+Diluted net income per share:
+GAAP diluted net income per share | 2.57 | 4.64 | 2.52 | 10.02 | 10.83
+Stock-based and deferred compensation expense | 0.55 | 0.49 | 0.60 | 2.30 | 1.90
+Amortization of intangibles | 0.19 | 0.17 | 0.17 | 0.73 | 0.74
+Investment (gains) losses, net | 0.01 | (0.01) | (0.01) | (0.03) | (0.03)
+Income tax adjustments | (0.12) | (2.48) | (0.17) | (0.54) | (3.34)
+Non-GAAP diluted net income per share | 3.20 | 2.81 | 3.11 | 12.48 | 10.10
+Shares used in computing diluted net income per share | 480 | 484 | 481 | 481 | 485
+[/TABLE]
+
+7
+Reconciliation of GAAP to Non-GAAP Financial Targets
+(Shares in millions)
+The following tables show Adobe's annual fiscal year 2022 financial targets reconciled to the non-GAAP financial targets included in this release.
+
+[TABLE]
+Fiscal 2022 | Digital Media segment revenue | Digital Experience segment revenue | Digital Experience subscription revenue
+(Y/Y growth) | (Y/Y growth) | (Y/Y growth)
+GAAP Target | 14 | 14 | 16
+Impact of extra week in fiscal year 2021 | 2 | 2 | 2
+Constant currency impact | 1 | 1 | 1
+Adjusted Target | 17 | 17 | 19
+[/TABLE]
+
+[TABLE]
+Fiscal Year 2022
+Diluted net income per share:
+GAAP diluted net income per share | 10.25
+Stock-based and deferred compensation expense | 3.25
+Amortization of intangibles | 0.83
+Income tax adjustments | (0.63)
+Non-GAAP diluted net income per share | 13.70
+Shares used to compute diluted net income per share | 477
+[/TABLE]
+
+[TABLE]
+Fiscal Year 2022
+Effective income tax rate:
+GAAP effective income tax rate | 17.5
+Stock-based and deferred compensation expense | (0.9)
+Amortization of intangibles | (0.1)
+Income tax adjustments | 0.5
+Non-GAAP effective income tax rate | 17.0
+[/TABLE]
+
+8
+Reconciliation of GAAP to Non-GAAP Financial Targets (continued)
+(Shares in millions)
+The following tables show Adobe's first quarter fiscal year 2022 financial targets reconciled to the non-GAAP financial targets included in this release.
+
+[TABLE]
+First Quarter Fiscal 2022 | Digital Media segment revenue | Digital Experience segment revenue | Digital Experience subscription revenue
+(Y/Y growth) | (Y/Y growth) | (Y/Y growth)
+GAAP Target | 8 | 11 | 13
+Impact of extra week in fiscal year 2021 | 8 | 7 | 7
+Constant currency impact | 1 | 0 | 0
+Adjusted Target | 17 | 18 | 20
+[/TABLE]
+
+[TABLE]
+First Quarter Fiscal 2022
+Diluted net income per share:
+GAAP diluted net income per share | 2.63
+Stock-based and deferred compensation expense | 0.70
+Amortization of intangibles | 0.21
+Income tax adjustments | (0.19)
+Non-GAAP diluted net income per share | 3.35
+Shares used to compute diluted net income per share | 479
+[/TABLE]
+
+[TABLE]
+First Quarter Fiscal 2022
+Effective income tax rate:
+GAAP effective income tax rate | 16.0
+Stock-based and deferred compensation expense | (0.9)
+Amortization of intangibles | (0.1)
+Income tax adjustments | 2.0
+Non-GAAP effective income tax rate | 17.0
+[/TABLE]
+
+Use of Non-GAAP Financial Information
+Adobe continues to provide all information required in accordance with GAAP, but believes evaluating its ongoing operating results may not be as useful if an investor is limited to reviewing only GAAP financial measures. Adobe uses non-GAAP financial information to evaluate its ongoing operations and for internal planning and forecasting purposes. Adobe's management does not itself, nor does it suggest that investors should, consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Adobe presents such non-GAAP financial measures in reporting its financial results to provide investors with an additional tool to evaluate Adobe's operating results. Adobe believes these non-GAAP financial measures are useful because they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making. This allows institutional investors, the analyst community and others to better understand and evaluate our operating results and future prospects in the same manner as management.
+Adobe's management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, amortization of intangibles, investment gains and losses, the related tax impact of all of these items, income tax adjustments, and the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes. Adobe uses these non-GAAP measures in order to assess the performance of Adobe's business and for planning and forecasting in subsequent periods. Whenever such a non-GAAP measure is used, Adobe provides a reconciliation of the non-GAAP financial measure to the most closely applicable GAAP financial measure. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measure as detailed above
+.
+9

@@ -1,0 +1,32 @@
+# Raw SEC filings, XBRL pulls and call transcripts stay local.
+# Re-download them with scripts/sec_pull.py.
+data/filings/*
+data/raw/*
+data/transcripts/*
+!data/*/.gitkeep
+
+# Draft deliverables. The final pitch is MarginCallers.pdf + MarginCallers.xlsx.
+Margin_Callers*.xlsx
+Margin_Callers*.pdf
+MarginCallers_StockPitch.pdf
+final/*
+!final/MarginCallers_Memo.html
+!final/QA_report_v4.md
+!final/qa/
+final/qa/*
+!final/qa/memo_final_p1.png
+model/
+memo/README.md
+memo/TeamName.pdf
+memo/build/
+scripts/*_backup.py
+
+# Duplicate export bundle
+audit/export/
+audit/*.zip
+
+__pycache__/
+*.pyc
+.venv/
+desktop.ini
+.claude/

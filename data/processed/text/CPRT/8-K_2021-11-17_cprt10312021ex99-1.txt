@@ -1,0 +1,186 @@
+EX-99.1
+
+2
+
+cprt10312021ex99-1.htm
+
+EX-99.1
+
+Document
+Exhibit 99.1
+Copart, Inc.
+For Immediate Release
+Copart Reports First Quarter Fiscal 2022 Financial Results
+Dallas, Texas. (November 17, 2021) — Copart, Inc. (NASDAQ: CPRT) today reported financial results for the quarter ended October 31, 2021. 
+For the three months ended October 31, 2021, revenue, gross profit, and net income were $810.1 million, $385.0 million, and $260.4 million, respectively. These represent an increase in revenue of $217.2 million, or 36.6%; an increase in gross profit of $88.3 million, or 29.7%; and an increase in net income of $60.1 million, or 30.0%, respectively, from the same period last year. Fully diluted earnings per share for the three months were $1.08 compared to $0.83 last year, an increase of 30.1%.
+Excluding the impact of certain income tax benefits related to stock-based compensation, non-GAAP fully diluted earnings per share for the three months ended October 31, 2021 and 2020, were $1.07, and $0.79, respectively, which was an increase of 35.4%. A reconciliation of non-GAAP financial measures to the most directly comparable financial measures computed in accordance with U.S. generally accepted accounting principles (GAAP) can be found in the tables attached to this press release.
+On Thursday, November 18, 2021, at 11 a.m. Eastern Time, Copart will conduct a conference call to discuss the results for the quarter. The call will be webcast live and can be accessed via hyperlink at www.copart.com/investorrelations. A replay of the call will be available through February 2022 by visiting www.copart.com/investorrelations.
+About Copart
+Copart, Inc., founded in 1982, is a global leader in online vehicle auctions. Copart’s innovative technology and online auction platform links sellers to more than 750,000 Members in over 170 countries. Copart offers services to process and sell vehicles to dealers, dismantlers, rebuilders, exporters, and to the general public. Copart sells vehicles on behalf of insurance companies, banks, finance companies, charities, fleet operators, dealers, vehicle rental companies, and individuals. With operations at over 200 locations in 11 countries, Copart has more than 250,000 vehicles available online every day. Copart currently operates in the United States (Copart.com), Canada (Copart.ca), the United Kingdom (Copart.co.uk), Brazil (Copart.com.br), the Republic of Ireland (Copart.ie), Germany (Copart.de), Finland (Copart.fi), the United Arab Emirates, Oman and Bahrain (Copartmea.com), and Spain (Copart.es). For more information, or to become a Member, visit Copart.com/Register.
+- 1 -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Use of Non-GAAP Financial Measures
+Included in this release are certain non-GAAP financial measures, including non-GAAP net income per diluted share, which exclude the impact of certain income tax benefits related to stock-based compensation. These non-GAAP financial measures do not represent alternative financial measures under GAAP. In addition, these non-GAAP financial measures may be different from non-GAAP financial measures used by other companies. Furthermore, these non-GAAP financial measures do not reflect a comprehensive view of Copart’s operations in accordance with GAAP and should only be read in conjunction with the corresponding GAAP financial measures. This information constitutes non-GAAP financial measures within the meaning of Regulation G adopted by the U.S. Securities and Exchange Commission. Accordingly, Copart has presented herein, and will present in other information it publishes that contains these non-GAAP financial measures, a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP financial measures.
+Copart believes the presentation of non-GAAP net income per diluted share included in this release in conjunction with the corresponding GAAP financial measures provides meaningful information for investors, analysts and management in assessing Copart’s business trends and financial performance. 
+Cautionary Note About Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of federal securities laws, including statements concerning the potential impact of the COVID-19 pandemic on our business, operations, and operating results. These forward-looking statements are subject to substantial risks and uncertainties. These forward-looking statements are subject to certain risks, trends and uncertainties that could cause actual results to differ materially from those projected or implied by our statements and comments. For a more complete discussion of the risks that could affect our business, please review the “Management’s Discussion and Analysis” and the other risks identified in Copart’s latest Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as filed with the Securities and Exchange Commission. We encourage investors to review these disclosures carefully. We do not undertake to update any forward-looking statement that may be made from time to time on our behalf.
+
+[TABLE]
+Contact: | Melissa Hunter, Executive Support Manager, Office of the Chief Financial Officer
+972-391-5090 or melissa.hunter@copart.com
+[/TABLE]
+
+- 2 -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Consolidated Statements of Income
+(In thousands, except per share amounts)
+(Unaudited)
+
+[TABLE]
+Three Months Ended October 31,
+2021 | 2020 | % Change
+Service revenues and vehicle sales:
+Service revenues | 667,818 | 515,372 | 29.6
+Vehicle sales | 142,314 | 77,568 | 83.5
+Total service revenues and vehicle sales | 810,132 | 592,940 | 36.6
+Operating expenses:
+Yard operations | 271,276 | 206,986 | 31.1
+Cost of vehicle sales | 126,408 | 64,360 | 96.4
+Yard depreciation and amortization | 26,437 | 23,294 | 13.5
+Yard stock-based compensation | 981 | 1,531 | (35.9)
+Gross profit | 385,030 | 296,769 | 29.7
+General and administrative | 41,115 | 35,138 | 17.0
+General and administrative depreciation and amortization | 5,323 | 5,655 | (5.9)
+General and administrative stock-based compensation | 8,471 | 7,382 | 14.8
+Total operating expenses | 480,011 | 344,346 | 39.4
+Operating income | 330,121 | 248,594 | 32.8
+Other expense:
+Interest expense, net | (5,107) | (5,032) | 1.5
+Other income, net | 812 | 3,253 | (75.0)
+Total other expense | (4,295) | (1,779) | 141.4
+Income before income taxes | 325,826 | 246,815 | 32.0
+Income tax expense | 65,463 | 46,530 | 40.7
+Net income | 260,363 | 200,285 | 30.0
+Basic net income per common share | 1.10 | 0.85 | 29.4
+Weighted average common shares outstanding | 237,068 | 235,791 | 0.5
+Diluted net income per common share | 1.08 | 0.83 | 30.1
+Diluted weighted average common shares outstanding | 241,221 | 239,968 | 0.5
+[/TABLE]
+
+- 3 -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Consolidated Balance Sheets
+(In thousands)
+(Unaudited)
+
+[TABLE]
+October 31, 2021 | July 31, 2021
+ASSETS
+Current assets:
+Cash, cash equivalents, and restricted cash | 1,298,373 | 1,048,260
+Accounts receivable, net | 562,637 | 480,628
+Vehicle pooling costs | 115,994 | 94,449
+Inventories | 48,194 | 44,968
+Income taxes receivable | 537 | 20,012
+Prepaid expenses and other assets | 14,045 | 14,294
+Total current assets | 2,039,780 | 1,702,611
+Property and equipment, net | 2,318,701 | 2,296,624
+Operating lease right-of-use assets | 123,254 | 119,487
+Intangibles, net | 43,914 | 45,873
+Goodwill | 354,062 | 355,717
+Other assets | 39,141 | 41,831
+Total assets | 4,918,852 | 4,562,143
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable and accrued liabilities | 411,249 | 369,826
+Deferred revenue | 19,951 | 20,973
+Income taxes payable | 37,175 | 7,760
+Current portion of operating and finance lease liabilities | 23,536 | 22,472
+Total current liabilities | 491,911 | 421,031
+Deferred income taxes | 72,166 | 63,969
+Income taxes payable | 51,094 | 52,345
+Operating and finance lease liabilities, net of current portion | 100,920 | 97,961
+Long-term debt and other liabilities, net of discount | 408,940 | 397,636
+Total liabilities | 1,125,031 | 1,032,942
+Commitments and contingencies
+Stockholders' equity:
+Preferred stock | — | —
+Common stock | 24 | 24
+Additional paid-in capital | 776,858 | 761,834
+Accumulated other comprehensive loss | (111,378) | (100,860)
+Retained earnings | 3,128,317 | 2,868,203
+Total stockholders' equity | 3,793,821 | 3,529,201
+Total liabilities and stockholders' equity | 4,918,852 | 4,562,143
+[/TABLE]
+
+- 4 -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)
+
+[TABLE]
+Three Months Ended October 31,
+2021 | 2020
+Cash flows from operating activities:
+Net income | 260,363 | 200,285
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization, including debt cost | 32,049 | 29,227
+Allowance for credit loss | 295 | (157)
+Equity in losses (earnings) of unconsolidated affiliates | 168 | (1,741)
+Stock-based compensation | 9,452 | 8,913
+Gain on sale of property and equipment | (440) | (1,230)
+Deferred income taxes | 8,319 | 6,239
+Changes in operating assets and liabilities:
+Accounts receivable | (82,676) | (57,860)
+Vehicle pooling costs | (21,697) | (10,600)
+Inventories | (3,463) | (8,259)
+Prepaid expenses and other current and non-current assets | 3,071 | 15,236
+Operating lease right-of-use assets and lease liabilities | 382 | 153
+Accounts payable and accrued liabilities | 62,013 | 42,880
+Deferred revenue | (979) | 1,251
+Income taxes receivable | 19,479 | 25,825
+Income taxes payable | 26,204 | 8,371
+Net cash provided by operating activities | 312,540 | 258,533
+Cash flows from investing activities:
+Purchases of property and equipment | (64,696) | (147,093)
+Proceeds from sale of property and equipment | 813 | 271
+Net cash used in investing activities | (63,883) | (146,822)
+Cash flows from financing activities:
+Proceeds from the exercise of stock options | 5,572 | 20,014
+Payments for employee stock-based tax withholdings | (249) | (489)
+Payments of finance lease obligations | (157) | (327)
+Net cash provided by financing activities | 5,166 | 19,198
+Effect of foreign currency translation | (3,710) | (2,895)
+Net increase in cash, cash equivalents, and restricted cash | 250,113 | 128,014
+Cash, cash equivalents, and restricted cash at beginning of period | 1,048,260 | 477,718
+Cash, cash equivalents, and restricted cash at end of period | 1,298,373 | 605,732
+Supplemental disclosure of cash flow information:
+Interest paid | 5,080 | 4,762
+Income taxes paid, net of refunds | 10,089 | 6,157
+[/TABLE]
+
+- 5 -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000
+Copart, Inc.
+Additional Financial Information
+Reconciliation of GAAP to Non-GAAP Financial Measures
+(In thousands, except per share amounts)
+(Unaudited)
+
+[TABLE]
+Three Months Ended October 31,
+2021 | 2020
+GAAP net income | 260,363 | 200,285
+Effect of recognizing tax benefit on exercise of stock-based compensation | (2,987) | (11,773)
+Non-GAAP net income | 257,376 | 188,512
+GAAP net income per diluted common share | 1.08 | 0.83
+Non-GAAP net income per diluted common share | 1.07 | 0.79
+[/TABLE]
+
+- 6 -
+Copart, Inc. ~ 14185 Dallas Parkway, Suite 300, Dallas TX 75254 ~ (972) 391-5000

@@ -1,0 +1,212 @@
+EX-99.1
+
+2
+
+d29508_ex99-1.htm
+
+EX-99.1
+
+Press Release Draft 4 (00003332.DOC;1)
+
+Exhibit 99.1
+
+Copart, Inc. 
+
+For Immediate Release
+
+Copart Reports Third Quarter Financial Results
+
+Fairfield, Calif. (May 29, 2012)  Copart, Inc. (NASDAQ: CPRT) today reported the results for the quarter ended April 30, 2012, the third quarter of its 2012 fiscal year.
+
+For the three months ended April 30, 2012, revenue, operating income and net income were $244.1 million, $87.9 million and $55.5 million, respectively. These represent increases in revenue of $7.4 million, or 3.1%; in operating income of $5.9 million, or 7.2%; and in net income of $5.3 million, or 10.6%, respectively, from the same quarter last year. Fully diluted earnings per share for the three months were $0.43 compared to $0.35 last year, an increase of 22.9%. 
+
+For the nine months ended April 30, 2012, revenue, operating income and net income were $697.6 million, $216.9 million and $137.2 million, respectively. These represent increases in revenue of $40.8 million, or 6.2%; in operating income of $15.0, million or 7.4%; and in net income of $11.4 million, or 9.0%, respectively, from the same period last year. Fully diluted earnings per share for the nine months ended April 30, 2012 were $1.04 compared to $0.79 last year, an increase of 31.6%.
+
+On Wednesday, May 30, 2012, at 11 a.m. Eastern time, Copart will conduct a conference call to discuss the results for the quarter. The call will be webcast live at 
+http://w.on24.com/r.htm?e=462148&s=1&k=E2F7195207CFB2141AE70E4C970205E9
+. A replay of the call will be available through June 30, 2012 by calling (888) 203-1112. Use confirmation code #3851084.
+
+About Copart
+
+Copart, founded in 1982, provides vehicle sellers with a full range of remarketing services to process and sell salvage and clean title vehicles to dealers, dismantlers, rebuilders, exporters and, in some states, to end users. Copart remarkets the vehicles through Internet sales utilizing its patented VB
+2
+ technology. Copart sells vehicles on behalf of insurance companies, banks, finance companies, fleet operators, dealers, car dealerships and the general public. The company also buys and sells cars for its own account. The company currently operates 154 facilities in the United States, Canada and the United Kingdom. Salvage vehicles are either damaged vehicles deemed a total loss for insurance or business purposes or are recovered stolen vehicles for which an insurance settlement with the vehicle owner has already been made. For more information, or to become a member, visit 
+www.copart.com
+.
+
+- 1 -
+
+Copart, Inc. ~ 4665 Business Center Drive, Fairfield, CA 94534, ~ (707) 639-5000
+
+Copart, Inc. 
+
+Cautionary Note About Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of federal securities laws. These forward-looking statements are subject to certain risks, trends and uncertainties that could cause actual results to differ materially from those projected or implied by our statements and comments. For a more complete discussion of the risks that could affect our business, please review the Management's Discussion and Analysis and the other risks identified in Coparts latest Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, as filed with the Securities and Exchange Commission. We encourage investors to review these disclosures carefully. We do not undertake to update any forward-looking statement that may be made from time to time on our behalf. 
+
+Contact:
+
+Cindy Cross, Assistant to the Chief Financial Officer
+
+ (707) 646-2123
+
+- 2 -
+
+Copart, Inc. ~ 4665 Business Center Drive, Fairfield, CA 94534, ~ (707) 639-5000
+
+Copart, Inc. 
+
+Consolidated Statements of Income 
+
+(in thousands, except per share data)
+
+(Unaudited)
+
+[TABLE]
+Three months ended April 30, | Nine months ended April 30,
+2012 | 2011 | 2012 | 2011
+Net sales and revenue:
+Service revenues | 203,524 | 196,169 | 578,842 | 549,492
+Vehicle sales | 40,581 | 40,586 | 118,793 | 107,312
+Total service revenues and vehicle sales | 244,105 | 236,755 | 697,635 | 656,804
+Operating costs and expenses:
+Yard operations | 84,232 | 83,736 | 258,659 | 255,366
+Cost of vehicle sales | 36,258 | 34,852 | 104,057 | 90,060
+Yard depreciation and amortization | 8,346 | 9,260 | 24,729 | 28,069
+Gross margin | 115,269 | 108,907 | 310,190 | 283,309
+General and administrative | 23,602 | 24,796 | 72,973 | 75,127
+General and administrative depreciation and amortization | 3,723 | 2,067 | 11,587 | 6,347
+Impairment of long-lived assets | - | - | 8,771 | -
+Total operating expenses | 156,161 | 154,711 | 480,776 | 454,969
+Operating income | 87,944 | 82,044 | 216,859 | 201,835
+Other (expense) income:
+Interest expense, net | (2,930 | (1,673 | (7,969 | (1,892
+Other (expense) income | (467 | (21 | 1,688 | 1,290
+Total other expense | (3,397 | (1,694 | (6,281 | (602
+Income before income taxes | 84,547 | 80,350 | 210,578 | 201,233
+Income taxes | 29,076 | 30,214 | 73,355 | 75,379
+Net income | 55,471 | 50,136 | 137,223 | 125,854
+Earnings per share-basic
+Basic net income per share | 0.44 | 0.36 | 1.07 | 0.80
+Weighted average common shares outstanding | 126,596 | 139,613 | 128,794 | 156,714
+Earnings per share-diluted
+Diluted net income per share | 0.43 | 0.35 | 1.04 | 0.79
+Weighted average common shares and dilutive potential common shares outstanding | 130,451 | 142,065 | 131,959 | 158,448
+[/TABLE]
+
+- 3 -
+
+Copart, Inc. ~ 4665 Business Center Drive, Fairfield, CA 94534, ~ (707) 639-5000
+
+Copart, Inc. 
+
+Consolidated Balance Sheets 
+
+(in thousands)
+
+(Unaudited)
+
+[TABLE]
+April 30, 2012 | July 31, 2011
+ASSETS
+Current assets:
+Cash and cash equivalents | 207,134 | 74,009
+Accounts receivable, net | 129,335 | 122,859
+Inventories and vehicle pooling costs | 23,150 | 25,042
+Income taxes receivable | 3,965 | 5,145
+Deferred income taxes | 388 | 
+Prepaid expenses and other assets | 19,403 | 14,813
+Total current assets | 383,375 | 241,868
+Property and equipment, net | 574,732 | 600,388
+Intangibles, net | 9,375 | 12,748
+Goodwill | 197,808 | 198,620
+Deferred income taxes | 20,331 | 9,425
+Other assets | 19,142 | 21,387
+Total assets | 1,204,763 | 1,084,436
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+Accounts payable and accrued liabilities | 108,592 | 101,708
+Deferred revenue | 6,367 | 5,636
+Income taxes payable | 8,638 | 3,543
+Deferred income taxes |  | 440
+Current portion of long-term debt and capital lease obligations | 75,174 | 50,370
+Other current liabilities |  | 4,929
+Total current liabilities | 198,771 | 166,626
+Deferred income taxes | 9,130 | 10,057
+Income taxes payable | 25,481 | 24,773
+Long-term debt and capital lease obligations | 387,752 | 325,386
+Other liabilities | 4,897 | 2,422
+Total liabilities | 626,031 | 529,264
+Commitments and contingencies
+Stockholders equity:
+Preferred stock, $0.0001 par value - 5,000,000 shares authorized; no shares issued and outstanding at April 30, 2012 and July 31, 2011, respectively |  | 
+Common stock, $0.0001 par value - 180,000,000 shares authorized; 126,873,580 and 132,011,034 shares issued and outstanding at April 30, 2012 and July 31, 2011, respectively | 13 | 13
+Additional paid in capital | 326,575 | 313,927
+Accumulated other comprehensive loss | (27,011) | (23,225)
+Retained earnings | 279,155 | 264,457
+Total stockholders equity | 578,732 | 555,172
+Total liabilities and stockholders equity | 1,204,763 | 1,084,436
+[/TABLE]
+
+- 4 -
+
+Copart, Inc. ~ 4665 Business Center Drive, Fairfield, CA 94534, ~ (707) 639-5000
+
+Copart, Inc. 
+
+Consolidated Statements of Cash Flows
+
+(in thousands)
+
+(Unaudited)
+
+[TABLE]
+Nine months ended April 30,
+2012 | 2011
+Cash flows from operating activities:
+Net income | 137,223 | 125,854
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization | 36,316 | 34,363
+Allowance for doubtful accounts | (254 | (10
+Stock-based compensation | 16,342 | 14,193
+Excess tax benefits from stock-based compensation | (2,696 | (2,925
+Impairment of long-lived assets | 8,771 | -
+(Gain)/loss on sale of property and equipment | (1,298 | 2,076
+Deferred income taxes | (11,705 | (3,155
+Changes in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable | (6,402 | (7,086
+Vehicle pooling costs | 1,290 | 13,934
+Inventory | 450 | (919
+Prepaid expenses and other current assets | 7,434 | 164
+Other assets | 576 | 2,049
+Accounts payable and accrued liabilities | 815 | 8,367
+Deferred revenue | 733 | (4,459
+Income taxes receivable | 3,825 | 9,105
+Income taxes payable | 5,858 | 9,445
+Other liabilities | (327 | (346
+Net cash provided by operating activities | 196,951 | 200,650
+Cash flows from investing activities:
+Purchases of property and equipment including acquisitions | (28,706 | (91,086
+Proceeds from sale of property and equipment | 1,572 | 20,385
+Net cash used in investing activities | (27,134 | (70,701
+Cash flows from financing activities:
+Proceeds from the exercise of stock options | 9,327 | 5,878
+Proceeds from the issuance of Employee Stock Purchase Plan shares | 1,019 | 1,077
+Repurchase of common stock | (137,655 | (603,442
+Excess tax benefit from stock-based payment arrangements | 2,696 | 2,925
+Proceeds from issuance of debt | 125,000 | 400,000
+Debt issuance costs | (313 | (2,023
+Principal payments on notes payable | (37,500 | (12,500
+Net cash used in financing activities | (37,426 | (208,085
+Effect of exchange rate changes on cash | 734 | 2,096
+Net increase (decrease) in cash and cash equivalents | 133,125 | (76,040
+Cash and cash equivalents at beginning of period | 74,009 | 268,188
+Cash and cash equivalents at end of period | 207,134 | 192,148
+Supplemental disclosure of cash flow information:
+Interest paid | 8,227 | 1,793
+Income taxes paid | 75,800 | 57,440
+[/TABLE]
+
+- 5 -
+
+Copart, Inc. ~ 4665 Business Center Drive, Fairfield, CA 94534, ~ (707) 639-5000

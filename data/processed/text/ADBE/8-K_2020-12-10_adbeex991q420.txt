@@ -1,0 +1,331 @@
+EX-99.1
+
+3
+
+adbeex991q420.htm
+
+EX-99.1
+
+Document
+Exhibit 99.1
+Investor Relations Contact
+Jonathan Vaas
+Adobe 
+ir@adobe.com
+Public Relations Contact
+Ramona Redlingshafer
+Adobe
+redlings@adobe.com
+FOR IMMEDIATE RELEASE
+Adobe Reports Record Q4 and Fiscal 2020 Revenue
+Company Generates Record $1.8 Billion in Operating Cash Flows During Q4; Surpasses $10 Billion in Digital Media ARR
+SAN JOSE, Calif. - Dec. 10, 2020 - 
+Adobe (Nasdaq:ADBE) today reported financial results for its fourth quarter and fiscal year ended Nov. 27, 2020. In its fourth quarter of fiscal year 2020, Adobe achieved record quarterly revenue of $3.42 billion, which represents 14 percent year-over-year growth. In fiscal year 2020, Adobe achieved record annual revenue of $12.87 billion, which represents 15 percent year-over-year growth.
+“Adobe delivered record Q4 and FY20 revenue performance amidst an unprecedented macroeconomic environment,” said Shantanu Narayen, president and CEO, Adobe. “As the undisputed leader in three growing categories - creativity, digital documents and customer experience management - we are well-positioned to capture the massive market opportunity ahead of us in 2021 and beyond.”
+“The resilience of our business, our operational discipline and ability to derive insights from real-time data has enabled us to thrive in 2020,” said John Murphy, executive vice president and CFO, Adobe. “Our record Q4 cash flow demonstrates the strength of our operating model, and we look forward to delivering strong top- and bottom-line growth in 2021.”
+Segment Reporting Update
+In its fourth quarter of fiscal year 2020, Adobe created a new segment called “Publishing and Advertising,” which combines the Publishing segment with Advertising Cloud, which was previously included in the Digital Experience segment. This realignment resulted from a change Adobe made in the fourth quarter to the way the company manages its Digital Experience business to better reflect the strategic shift related to Advertising Cloud and to align with our overall core value proposition of delivering on customer experience management. Advertising Cloud revenue and cost of revenue has been reclassified on the income statement from “Subscription” to “Services and other.” Financial information for fiscal years 2018, 2019 and 2020 has been revised to maintain comparability.
+Fourth Quarter Fiscal Year 2020 Financial Highlights
+•
+Adobe achieved record quarterly revenue of $3.42 billion in its fourth quarter of fiscal year 2020, which represents 14 percent year-over-year growth. Diluted earnings per share was $4.64 on a GAAP basis, and $2.81 on a non-GAAP basis. 
+•
+Digital Media segment revenue was $2.50 billion, which represents 20 percent year-over-year growth. Creative revenue grew to $2.08 billion and Document Cloud revenue grew to $411 million. Digital Media Annualized Recurring Revenue (“ARR”) grew to $10.18 billion exiting the quarter, a quarter-over-quarter increase of $548 million. Creative ARR grew to $8.72 billion, and Document Cloud ARR grew to $1.46 billion.
+•
+Digital Experience segment revenue, including Advertising Cloud revenue, was $877 million.
+•
+Following the segment reporting change, Digital Experience segment revenue was $819 million, representing 10 percent year-over-year growth. Digital Experience subscription revenue grew 14 percent year-over-year.
+•
+GAAP operating income in the fourth quarter was $1.22 billion, and non-GAAP operating income was $1.54 billion. GAAP net income was $2.25 billion, and non-GAAP net income was $1.36 billion.
+•
+Cash flows from operations were a record $1.78 billion.
+•
+Remaining Performance Obligation (“RPO”) exiting the quarter was $11.34 billion.
+•
+Adobe repurchased approximately 1.6 million shares during the quarter.
+Fiscal Year 2020 Financial Highlights
+•
+Adobe achieved record annual revenue of $12.87 billion in fiscal year 2020, representing 15 percent year-over-year growth.
+•
+The company reported annual GAAP diluted earnings per share of $10.83 and non-GAAP diluted earnings per share of $10.10.
+•
+Digital Media segment revenue was $9.23 billion, representing 20 percent year-over-year growth. Creative and Document Cloud achieved record annual revenue of $7.74 billion and $1.50 billion, respectively. Digital Media ARR grew by $1.85 billion during the year.
+•
+Digital Experience segment revenue, including Advertising Cloud, was $3.40 billion.
+•
+Following the segment reporting change, Digital Experience segment revenue was $3.13 billion, representing 12 percent year-over-year growth. Digital Experience subscription revenue grew 17 percent year-over-year.
+•
+Operating income grew 30 percent and net income grew 78 percent year-over-year on a GAAP-basis; operating income grew 24 percent and net income grew 27 percent year-over-year on a non-GAAP basis.
+•
+Adobe generated a record $5.73 billion in operating cash flows during the year.
+•
+The company repurchased 8.0 million shares during the year, returning $3.0 billion of cash to stockholders.
+A reconciliation between GAAP and non-GAAP results is provided at the end of this press release and on Adobe’s website.
+Adobe Provides Fiscal Year and First Quarter 2021 Financial Targets
+The following table summarizes Adobe’s fiscal year 2021 targets:
+
+[TABLE]
+Total revenue | ~$15.15 billion
+Digital Media segment revenue | ~19 percent year-over-year growth
+Digital Media annualized recurring revenue (ARR) | ~$1.75 billion of net new ARR
+Digital Experience segment revenue | ~19 percent year-over-year growth
+Digital Experience subscription revenue | ~22 percent year-over-year growth
+Tax rate | GAAP: ~19 percent | Non-GAAP: ~17.5 percent
+Share count | ~482 million shares
+Earnings per share | GAAP: ~$8.57 | Non-GAAP: ~$11.20
+[/TABLE]
+
+The table below summarizes Adobe’s first quarter fiscal year 2021 targets, which factor in the following:
+•
+The financial impacts of the Workfront acquisition, which closed on Dec. 7 and is expected to contribute approximately $25 million to Adobe’s revenue during the first quarter, following estimated purchase accounting adjustments; and
+•
+The impacts of a 53-week fiscal year, with an additional week in Q1 expected to contribute approximately $240 million of total Adobe revenue and approximately $25 million of net new Digital Media ARR in the quarter.
+
+[TABLE]
+Total revenue | ~$3.75 billion
+Digital Media segment revenue | ~26 percent year-over-year growth
+Digital Media annualized recurring revenue (ARR) | ~$410 million of net new ARR
+Digital Experience segment revenue | ~19 percent year-over-year growth
+Digital Experience subscription revenue | ~22 percent year-over-year growth
+Tax rate | GAAP: ~15.5 percent | Non-GAAP: ~17.5 percent
+Share count | ~484 million shares
+Earnings per share | GAAP: ~$2.19 | Non-GAAP: ~$2.78
+[/TABLE]
+
+A reconciliation between GAAP and non-GAAP targets is provided at the end of this press release.
+2
+Adobe to Webcast Earnings Conference Call
+Adobe will webcast its fourth quarter fiscal year 2020 earnings conference call, together with an online financial analyst meeting, today at 8:00 a.m. Pacific Time from its investor relations website:
+
+www.adobe.com/ADBE
+. Earnings documents, including Adobe management’s prepared slides and an investor datasheet are posted to Adobe’s investor relations website in advance of the conference call for reference. A reconciliation between GAAP and non-GAAP earnings results and financial targets is also provided on the website.
+Forward-Looking Statements Disclosure
+This press release contains forward-looking statements, including those related to business momentum and strategy, the financial impacts of the Workfront acquisition, the effects of the COVID-19 pandemic on our business and results of operations, our market opportunity, market trends, current macroeconomic conditions, revenue, operating margin, seasonality, annualized recurring revenue, tax rate on a GAAP and non-GAAP basis, earnings per share on a GAAP and non-GAAP basis, and share count, all of which involve risks and uncertainties that could cause actual results to differ materially. Factors that might cause or contribute to such differences include, but are not limited to: failure to compete effectively, failure to develop, acquire, market and offer products and services that meet customer requirements, introduction of new technology, information security and privacy, potential interruptions or delays in hosted services provided by us or third parties, macroeconomic conditions and economic impact of the COVID-19 pandemic, risks associated with cyber-attacks, complex sales cycles, risks related to the timing of revenue recognition from our subscription offerings, fluctuations in subscription renewal rates, failure to realize the anticipated benefits of past or future acquisitions, failure to effectively manage critical strategic third-party business relationships, changes in accounting principles and tax regulations, uncertainty in the financial markets and economic conditions in the countries where we operate, and other various risks associated with being a multinational corporation. For a discussion of these and other risks and uncertainties, please refer to Adobe’s Annual Report on Form 10-K for our fiscal year 2019 ended Nov. 29, 2019, and Adobe's Quarterly Reports on Form 10-Q issued in fiscal year 2020.
+The financial information set forth in this press release reflects estimates based on information available at this time. These amounts could differ from actual reported amounts stated in Adobe’s Annual Report on Form 10-K for our year ended Nov. 27, 2020, which Adobe expects to file in January 2021. Adobe assumes no obligation to, and does not currently intend to, update these forward-looking statements.
+About Adobe
+Adobe is changing the world through digital experiences. For more information, visit 
+www.adobe.com
+.
+###
+©2020 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe (or one of its subsidiaries) in the United States and/or other countries. All other trademarks are the property of their respective owners.
+3
+Condensed Consolidated Statements of Income 
+(In millions, except per share data; unaudited)
+
+[TABLE]
+Three Months Ended | Year Ended
+November 27, 2020 | November 29, 2019 | November 27, 2020 | November 29, 2019
+Revenue:
+Subscription | 3,115 | 2,579 | 11,626 | 9,634
+Product | 127 | 167 | 507 | 648
+Services and other | 182 | 246 | 735 | 889
+Total revenue | 3,424 | 2,992 | 12,868 | 11,171
+Cost of revenue:
+Subscription | 283 | 245 | 1,108 | 926
+Product | 10 | 9 | 36 | 40
+Services and other | 135 | 198 | 578 | 707
+Total cost of revenue | 428 | 452 | 1,722 | 1,673
+Gross profit | 2,996 | 2,540 | 11,146 | 9,498
+Operating expenses:
+Research and development | 558 | 500 | 2,188 | 1,930
+Sales and marketing | 941 | 801 | 3,591 | 3,244
+General and administrative | 243 | 226 | 968 | 881
+Amortization of intangibles | 39 | 43 | 162 | 175
+Total operating expenses | 1,781 | 1,570 | 6,909 | 6,230
+Operating income | 1,215 | 970 | 4,237 | 3,268
+Non-operating income (expense):
+Interest expense | (27) | (37) | (116) | (157)
+Investment gains (losses), net | 6 | 5 | 13 | 52
+Other income (expense), net | 3 | 19 | 42 | 42
+Total non-operating income (expense), net | (18) | (13) | (61) | (63)
+Income before income taxes | 1,197 | 957 | 4,176 | 3,205
+Provision for (benefit from) income taxes | (1,053) | 105 | (1,084) | 254
+Net income | 2,250 | 852 | 5,260 | 2,951
+Basic net income per share | 4.69 | 1.76 | 10.94 | 6.07
+Shares used to compute basic net income per share | 479 | 484 | 481 | 486
+Diluted net income per share | 4.64 | 1.74 | 10.83 | 6.00
+Shares used to compute diluted net income per share | 484 | 489 | 485 | 492
+[/TABLE]
+
+4
+Condensed Consolidated Balance Sheets
+(In millions; unaudited)
+
+[TABLE]
+November 27, 2020 | November 29, 2019
+ASSETS
+Current assets:
+Cash and cash equivalents | 4,478 | 2,650
+Short-term investments | 1,514 | 1,527
+Trade receivables, net of allowances for doubtful accounts of $21 and $10, respectively | 1,398 | 1,535
+Prepaid expenses and other current assets | 756 | 783
+Total current assets | 8,146 | 6,495
+Property and equipment, net | 1,517 | 1,293
+Operating lease right-of-use assets, net | 487 | —
+Goodwill | 10,742 | 10,691
+Other intangibles, net | 1,359 | 1,721
+Deferred income taxes | 1,370 | —
+Other assets | 663 | 562
+Total assets | 24,284 | 20,762
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Trade payables | 306 | 209
+Accrued expenses | 1,422 | 1,399
+Debt | — | 3,149
+Deferred revenue | 3,629 | 3,378
+Income taxes payable | 63 | 56
+Operating lease liabilities | 92 | —
+Total current liabilities | 5,512 | 8,191
+Long-term liabilities:
+Debt | 4,117 | 989
+Deferred revenue | 130 | 123
+Income taxes payable | 529 | 616
+Deferred income taxes | 10 | 140
+Operating lease liabilities | 499 | —
+Other liabilities | 223 | 173
+Total liabilities | 11,020 | 10,232
+Stockholders’ equity:
+Preferred stock | — | —
+Common stock | — | —
+Additional paid-in-capital | 7,357 | 6,504
+Retained earnings | 19,611 | 14,829
+Accumulated other comprehensive income (loss) | (158) | (188)
+Treasury stock, at cost | (13,546) | (10,615)
+Total stockholders’ equity | 13,264 | 10,530
+Total liabilities and stockholders’ equity | 24,284 | 20,762
+[/TABLE]
+
+5
+Condensed Consolidated Statements of Cash Flows
+(In millions; unaudited)
+
+[TABLE]
+Three Months Ended
+November 27, 2020 | November 29, 2019
+Cash flows from operating activities:
+Net income | 2,250 | 852
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion | 190 | 188
+Stock-based compensation | 233 | 203
+Unrealized investment (gains) losses, net | (7) | (4)
+Other non-cash adjustments | (1,192) | 15
+Changes in deferred revenue | 310 | 245
+Changes in other operating assets and liabilities | (2) | (123)
+Net cash provided by operating activities | 1,782 | 1,376
+Cash flows from investing activities:
+Purchases, sales and maturities of short-term investments, net | (22) | (85)
+Purchases of property and equipment | (103) | (94)
+Purchases and sales of long-term investments, intangibles and other assets, net | (6) | 12
+Acquisitions, net of cash acquired | — | (1)
+Net cash used for investing activities | (131) | (168)
+Cash flows from financing activities:
+Purchases of treasury stock | (850) | (750)
+Taxes paid related to net share settlement of equity awards, net of proceeds from treasury stock re-issuances | (82) | (27)
+Other financing activities, net | (8) | 11
+Net cash used for financing activities | (940) | (766)
+Effect of exchange rate changes on cash and cash equivalents | — | (1)
+Net increase in cash and cash equivalents | 711 | 441
+Cash and cash equivalents at beginning of period | 3,767 | 2,209
+Cash and cash equivalents at end of period | 4,478 | 2,650
+[/TABLE]
+
+6
+Non-GAAP Results
+(In millions, except per share data)
+The following table shows Adobe’s GAAP results reconciled to non-GAAP results included in this release.
+
+[TABLE]
+Three Months Ended | Year Ended
+November 27, 2020 | November 29, 2019 | August 28, 2020 | November 27, 2020 | November 29, 2019
+Operating income:
+GAAP operating income | 1,215 | 970 | 1,069 | 4,237 | 3,268
+Stock-based and deferred compensation expense | 239 | 208 | 244 | 924 | 798
+Amortization of intangibles | 84 | 96 | 90 | 360 | 395
+Non-GAAP operating income | 1,538 | 1,274 | 1,403 | 5,521 | 4,461
+Net income:
+GAAP net income | 2,250 | 852 | 955 | 5,260 | 2,951
+Stock-based and deferred compensation expense | 239 | 208 | 244 | 924 | 798
+Amortization of intangibles | 84 | 96 | 90 | 360 | 395
+Investment (gains) losses, net | (6) | (5) | (10) | (13) | (52)
+Income tax adjustments | (1,204) | (33) | (33) | (1,628) | (224)
+Non-GAAP net income | 1,363 | 1,118 | 1,246 | 4,903 | 3,868
+Diluted net income per share:
+GAAP diluted net income per share | 4.64 | 1.74 | 1.97 | 10.83 | 6.00
+Stock-based and deferred compensation expense | 0.49 | 0.43 | 0.50 | 1.90 | 1.62
+Amortization of intangibles | 0.17 | 0.20 | 0.19 | 0.74 | 0.80
+Investment (gains) losses, net | (0.01) | (0.01) | (0.02) | (0.03) | (0.10)
+Income tax adjustments | (2.48) | (0.07) | (0.07) | (3.34) | (0.45)
+Non-GAAP diluted net income per share | 2.81 | 2.29 | 2.57 | 10.10 | 7.87
+Shares used in computing diluted net income per share | 484 | 489 | 485 | 485 | 492
+[/TABLE]
+
+7
+Non-GAAP Results (continued)
+The following table shows Adobe’s GAAP fourth quarter fiscal year 2020 tax rate reconciled to the non-GAAP tax rate included in this release.
+
+[TABLE]
+Fourth Quarter Fiscal 2020
+Effective income tax rate:
+GAAP effective income tax rate | (88.0)
+Trading structure change | 95.0
+Income tax adjustments | 4.5
+Stock-based and deferred compensation expense | (1.1)
+Amortization of intangibles | (0.4)
+Non-GAAP effective income tax rate | 10.0
+[/TABLE]
+
+Reconciliation of GAAP to Non-GAAP Financial Targets
+(Shares in millions)
+The following tables show Adobe's first quarter fiscal year 2021 financial targets reconciled to the non-GAAP financial targets included in this release.
+
+[TABLE]
+First Quarter Fiscal 2021
+Diluted net income per share:
+GAAP diluted net income per share | 2.19
+Stock-based and deferred compensation expense | 0.60
+Amortization of intangibles | 0.18
+Income tax adjustments | (0.19)
+Non-GAAP diluted net income per share | 2.78
+Shares used to compute diluted net income per share | 484
+[/TABLE]
+
+[TABLE]
+First Quarter Fiscal 2021
+Effective income tax rate:
+GAAP effective income tax rate | 15.5
+Stock-based and deferred compensation expense | (0.9)
+Amortization of intangibles | (0.1)
+Income tax adjustments | 3.0
+Non-GAAP effective income tax rate | 17.5
+[/TABLE]
+
+8
+Reconciliation of GAAP to Non-GAAP Financial Targets (continued)
+(Shares in millions)
+The following tables show Adobe's annual fiscal year 2021 financial targets reconciled to the non-GAAP financial targets included in this release.
+
+[TABLE]
+Fiscal Year 2021
+Diluted net income per share:
+GAAP diluted net income per share | 8.57
+Stock-based and deferred compensation expense | 2.31
+Amortization of intangibles | 0.70
+Income tax adjustments | (0.38)
+Non-GAAP diluted net income per share | 11.20
+Shares used to compute diluted net income per share | 482
+[/TABLE]
+
+[TABLE]
+Fiscal Year 2021
+Effective income tax rate:
+GAAP effective income tax rate | 19.0
+Stock-based and deferred compensation expense | (0.9)
+Amortization of intangibles | (0.1)
+Income tax adjustments | (0.5)
+Non-GAAP effective income tax rate | 17.5
+[/TABLE]
+
+Use of Non-GAAP Financial Information
+Adobe continues to provide all information required in accordance with GAAP, but believes evaluating its ongoing operating results may not be as useful if an investor is limited to reviewing only GAAP financial measures. Adobe uses non-GAAP financial information to evaluate its ongoing operations and for internal planning and forecasting purposes. Adobe's management does not itself, nor does it suggest that investors should, consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Adobe presents such non-GAAP financial measures in reporting its financial results to provide investors with an additional tool to evaluate Adobe's operating results. Adobe believes these non-GAAP financial measures are useful because they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making. This allows institutional investors, the analyst community and others to better understand and evaluate our operating results and future prospects in the same manner as management.
+Adobe's management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, restructuring and other charges, amortization of intangibles, investment gains and losses, the related tax impact of all of these items, income tax adjustments, and the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes. Adobe uses these non-GAAP measures in order to assess the performance of Adobe's business and for planning and forecasting in subsequent periods. Whenever such a non-GAAP measure is used, Adobe provides a reconciliation of the non-GAAP financial measure to the most closely applicable GAAP financial measure. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measure as detailed above
+.
+9

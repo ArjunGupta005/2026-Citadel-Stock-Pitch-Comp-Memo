@@ -1,0 +1,254 @@
+EX-99.1
+
+2
+
+adbeex991q316.htm
+
+EXHIBIT 99.1
+
+Exhibit
+
+Exhibit 99.1
+Investor Relations Contact
+Mike Saviage
+Adobe 
+408-536-4416
+ir@adobe.com
+
+Public Relations Contact
+Dan Berthiaume
+Adobe
+408-536-2584
+dberthia@adobe.com
+FOR IMMEDIATE RELEASE
+Adobe Reports Record Revenue
+Strong Revenue and Earnings Growth Highlight Third Quarter Results
+SAN JOSE, Calif. - Sept. 20, 2016
+
+-
+ Adobe (Nasdaq:ADBE) today reported financial results for its third quarter fiscal year 2016 ended Sept. 2, 2016.
+Third Quarter Financial Highlights 
+
+[TABLE]
+• | Adobe achieved record quarterly revenue of $1.46 billion, representing year-over-year growth of 20 percent.
+[/TABLE]
+
+[TABLE]
+• | Diluted earnings per share were $0.54 on a GAAP-basis, and $0.75 on a non-GAAP basis.
+[/TABLE]
+
+[TABLE]
+• | Digital Media segment revenue was a record $990 million, with Creative revenue growing 39 percent year-over-year to a record $803 million.
+[/TABLE]
+
+[TABLE]
+• | Strong Creative Cloud and Document Cloud adoption drove Digital Media Annualized Recurring Revenue (“ARR”) to $3.70 billion exiting the quarter, a quarter-over-quarter increase of $285 million.
+[/TABLE]
+
+[TABLE]
+• | Adobe Marketing Cloud achieved record revenue of $404 million.
+[/TABLE]
+
+[TABLE]
+• | Year-over-year operating income grew 50 percent and net income grew 55 percent on a GAAP-basis; operating income grew 36 percent and net income grew 37 percent on a non-GAAP basis.
+[/TABLE]
+
+[TABLE]
+• | Cash flow from operations was a record $518 million, and deferred revenue grew to a record $1.80 billion.
+[/TABLE]
+
+[TABLE]
+• | The company repurchased approximately 3.5 million shares during the quarter, returning $344 million of cash to stockholders.
+[/TABLE]
+
+A reconciliation between GAAP and non-GAAP results is provided at the end of this press release and on Adobe’s website.
+Executive Quotes
+“We drove strong revenue and earnings performance in Q3, further distancing ourselves from our competitors,” said Shantanu Narayen, Adobe president and chief executive officer. “Our leadership in cloud-based content and data platforms make us a mission critical partner to the world's biggest brands as they transform how they engage with their customers.”
+“Fiscal 2016 is shaping up to be another great year and Adobe's record results in Q3 reflect both our market leadership and strong execution,” said Mark Garrett, Adobe executive vice president and chief financial officer. “We are expecting another record quarter in Q4, and the leverage in our operating model is reflected in our increase to earnings targets for the year.”
+Adobe to Webcast Earnings Conference Call
+Adobe will webcast its third quarter fiscal year 2016 earnings conference call today at 2:00 p.m. Pacific Time from its investor relations website: 
+www.adobe.com/ADBE
+. Earnings documents, including Adobe management’s prepared conference call remarks with slides, financial targets and an investor datasheet are posted to Adobe’s investor relations website in advance of the conference call for reference. A reconciliation between GAAP and non-GAAP earnings results and financial targets is also provided on the website.
+Forward-Looking Statements Disclosure
+This press release contains forward-looking statements, including those related to product adoption and innovation, business momentum, the importance of our products and services to our customers, revenue, annualized recurring revenue, bookings, earnings per share and operating cash flow, all of which involve risks and uncertainties that could cause actual results to differ materially. Factors that might cause or contribute to such differences include, but are not limited to: failure to develop, market and offer products and services that meet customer requirements, introduction of new products, services and business models by competitors, failure to successfully manage transitions to new business models and markets, risks associated with the timing of revenue recognition, uncertainty in economic conditions and the financial markets, risks associated with our cloud strategy, fluctuations in subscription renewal rates, risks associated with cyber-attacks and information security, potential interruptions or delays in hosted services provided by us or third parties, and failure to realize the anticipated benefits of past or future acquisitions. For a discussion of these and other risks and uncertainties, please refer to Adobe’s Annual Report on Form 10-K for our fiscal year 2015 ended Nov. 27, 2015, and Adobe's Quarterly Reports on Form 10-Q issued in fiscal year 2016.
+The financial information set forth in this press release reflects estimates based on information available at this time. These amounts could differ from actual reported amounts stated in Adobe’s Quarterly Report on Form 10-Q for our quarter ended Sept. 2, 2016, which Adobe expects to file in Sept. 2016.
+Adobe assumes no obligation to, and does not currently intend to, update these forward-looking statements.
+About Adobe Systems Incorporated
+Adobe is chan
+gin
+g the world through digital experiences. For more information, visit 
+www.adobe.com
+.
+###
+© 2016 Adobe Systems Incorporated. All rights reserved. Adobe, the Adobe logo and Creative Cloud are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. All other trademarks are the property of their respective owners.
+2
+Condensed Consolidated Statements of Income 
+(In thousands, except per share data; unaudited)
+
+[TABLE]
+Three Months Ended | Nine Months Ended
+September 2, 2016 | August 28, 2015 | September 2, 2016 | August 28, 2015
+Revenue:
+Subscription | 1,168,602 | 829,065 | 3,322,560 | 2,316,470
+Product | 180,960 | 275,338 | 578,572 | 840,650
+Services and support | 114,405 | 113,365 | 344,879 | 331,987
+Total revenue | 1,463,967 | 1,217,768 | 4,246,011 | 3,489,107
+Cost of revenue:
+Subscription | 116,990 | 103,605 | 339,664 | 302,826
+Product | 15,435 | 24,545 | 51,490 | 65,715
+Services and support | 70,276 | 62,835 | 212,198 | 174,415
+Total cost of revenue | 202,701 | 190,985 | 603,352 | 542,956
+Gross profit | 1,261,266 | 1,026,783 | 3,642,659 | 2,946,151
+Operating expenses:
+Research and development | 248,450 | 218,660 | 718,138 | 642,216
+Sales and marketing | 477,475 | 422,031 | 1,415,155 | 1,241,770
+General and administrative | 143,702 | 122,578 | 429,233 | 397,867
+Restructuring and other charges | (338 | (751 | (1,223 | 1,038
+Amortization of purchased intangibles | 22,652 | 18,246 | 60,034 | 50,599
+Total operating expenses | 891,941 | 780,764 | 2,621,337 | 2,333,490
+Operating income | 369,325 | 246,019 | 1,021,322 | 612,661
+Non-operating income (expense):
+Interest and other income (expense), net | 2,725 | 4,433 | 12,995 | 11,510
+Interest expense | (17,281 | (16,519 | (52,924 | (47,669
+Investment gains (losses), net | 1,532 | (1,314 | (2,955 | 339
+Total non-operating income (expense), net | (13,024 | (13,400 | (42,884 | (35,820
+Income before income taxes | 356,301 | 232,619 | 978,438 | 576,841
+Provision for income taxes | 85,513 | 58,154 | 209,269 | 169,995
+Net income | 270,788 | 174,465 | 769,169 | 406,846
+Basic net income per share | 0.54 | 0.35 | 1.54 | 0.82
+Shares used to compute basic net income per share | 498,584 | 498,630 | 499,224 | 498,891
+Diluted net income per share | 0.54 | 0.34 | 1.52 | 0.80
+Shares used to compute diluted net income per share | 503,669 | 505,809 | 505,135 | 507,124
+[/TABLE]
+
+3
+Condensed Consolidated Balance Sheets 
+(In thousands, except par value; unaudited)
+
+[TABLE]
+September 2, 2016 | November 27, 2015
+ASSETS
+Current assets:
+Cash and cash equivalents | 767,672 | 876,560
+Short-term investments | 3,678,726 | 3,111,524
+Trade receivables, net of allowances for doubtful accounts of $6,066 and $7,293, respectively | 731,166 | 672,006
+Prepaid expenses and other current assets | 241,146 | 161,802
+Total current assets | 5,418,710 | 4,821,892
+Property and equipment, net | 811,524 | 787,421
+Goodwill | 5,433,180 | 5,366,881
+Purchased and other intangibles, net | 454,230 | 510,007
+Investment in lease receivable | 80,439 | 80,439
+Other assets | 169,358 | 159,832
+Total assets | 12,367,441 | 11,726,472
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Trade payables | 83,444 | 93,307
+Accrued expenses | 666,278 | 679,884
+Income taxes payable | 10,662 | 6,165
+Deferred revenue | 1,745,282 | 1,434,200
+Total current liabilities | 2,505,666 | 2,213,556
+Long-term liabilities:
+Debt | 1,916,591 | 1,907,231
+Deferred revenue | 52,703 | 51,094
+Income taxes payable | 276,131 | 256,129
+Deferred income taxes | 238,459 | 208,209
+Other liabilities | 99,945 | 88,673
+Total liabilities | 5,089,495 | 4,724,892
+Stockholders' equity:
+Preferred stock, $0.0001 par value; 2,000 shares authorized | — | —
+Common stock, $0.0001 par value | 61 | 61
+Additional paid-in-capital | 4,541,798 | 4,184,883
+Retained earnings | 7,714,904 | 7,253,431
+Accumulated other comprehensive income (loss) | (134,111 | (169,080
+Treasury stock, at cost (103,809 and 103,025 shares, respectively) , net of reissuances | (4,844,706 | (4,267,715
+Total stockholders' equity | 7,277,946 | 7,001,580
+Total liabilities and stockholders' equity | 12,367,441 | 11,726,472
+[/TABLE]
+
+4
+Condensed Consolidated Statements of Cash Flows
+(In thousands; unaudited)
+
+[TABLE]
+Three Months Ended
+September 2, 2016 | August 28, 2015
+Cash flows from operating activities:
+Net income | 270,788 | 174,465
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion | 84,014 | 87,550
+Stock-based compensation expense | 84,503 | 85,975
+Unrealized investment losses (gains), net | (1,471 | 1,415
+Changes in deferred revenue | 116,353 | 77,720
+Changes in other operating assets and liabilities | (36,302 | (66,637
+Net cash provided by operating activities | 517,885 | 360,488
+Cash flows from investing activities:
+Purchases, sales and maturities of short-term investments, net | (247,601 | (394,944
+Purchases of property and equipment | (55,213 | (48,984
+Purchases and sales of long-term investments, intangibles and other assets, net | (3,774 | (1,138
+Acquisitions, net of cash | — | (20,025
+Net cash used for investing activities | (306,588 | (465,091
+Cash flows from financing activities:
+Purchases of treasury stock | (400,000 | (100,000
+Proceeds from issuance of treasury stock, net | 71,128 | 68,641
+Repayment of capital lease obligations | (65 | —
+Debt issuance costs | — | (957
+Excess tax benefits from stock-based compensation | 3,980 | 13,606
+Net cash used for financing activities | (324,957 | (18,710
+Effect of exchange rate changes on cash and cash equivalents | (5,047 | (3,542
+Net decrease in cash and cash equivalents | (118,707 | (126,855
+Cash and cash equivalents at beginning of period | 886,379 | 956,147
+Cash and cash equivalents at end of period | 767,672 | 829,292
+[/TABLE]
+
+5
+Non-GAAP Results
+(In thousands, except per share data)
+The following tables show Adobe's GAAP results reconciled to non-GAAP results included in this release.
+
+[TABLE]
+Three Months Ended
+September 2, 2016 | August 28, 2015 | June 3, 2016
+Operating income:
+GAAP operating income | 369,325 | 246,019 | 344,239
+Stock-based and deferred compensation expense | 86,070 | 84,371 | 87,209
+Restructuring and other charges | (338 | (751 | (466
+Amortization of purchased intangibles | 36,082 | 41,041 | 32,567
+Loss contingency reversal | — | (10,000 | —
+Non-GAAP operating income | 491,139 | 360,680 | 463,549
+Net income:
+GAAP net income | 270,788 | 174,465 | 244,074
+Stock-based and deferred compensation expense | 86,070 | 84,371 | 87,209
+Restructuring and other charges | (338 | (751 | (466
+Amortization of purchased intangibles | 36,082 | 41,041 | 32,567
+Investment (gains) losses, net | (1,532 | 1,314 | 3,318
+Loss contingency reversal | — | (10,000 | —
+Income tax adjustments | (14,569 | (15,051 | (9,260
+Non-GAAP net income | 376,501 | 275,389 | 357,442
+Diluted net income per share:
+GAAP diluted net income per share | 0.54 | 0.34 | 0.48
+Stock-based and deferred compensation expense | 0.17 | 0.17 | 0.17
+Amortization of purchased intangibles | 0.07 | 0.08 | 0.06
+Investment (gains) losses, net | — | — | 0.01
+Loss contingency reversal | — | (0.02 | —
+Income tax adjustments | (0.03 | (0.03 | (0.01
+Non-GAAP diluted net income per share | 0.75 | 0.54 | 0.71
+Shares used in computing diluted net income per share | 503,669 | 505,809 | 504,725
+[/TABLE]
+
+6
+Non-GAAP Results (continued)
+
+[TABLE]
+Three Months Ended
+September 2, 2016
+Effective income tax rate:
+GAAP effective income tax rate | 24.0
+Stock-based and deferred compensation expense | (2.1
+Amortization of purchased intangibles | (0.9
+Non-GAAP effective income tax rate | 21.0
+[/TABLE]
+
+Use of Non-GAAP Financial Information
+Adobe continues to provide all information required in accordance with GAAP, but believes evaluating its ongoing operating results may not be as useful if an investor is limited to reviewing only GAAP financial measures. Adobe uses non-GAAP financial information to evaluate its ongoing operations and for internal planning and forecasting purposes. Adobe's management does not itself, nor does it suggest that investors should, consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Adobe presents such non-GAAP financial measures in reporting its financial results to provide investors with an additional tool to evaluate Adobe's operating results. Adobe believes these non-GAAP financial measures are useful because they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making. This allows institutional investors, the analyst community and others to better understand and evaluate our operating results and future prospects in the same manner as management.
+Adobe's management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, restructuring and other charges, amortization of purchased intangibles and certain activity in connection with technology license arrangements, investment gains and losses, the related tax impact of all of these items, income tax adjustments, and the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes. Adobe uses these non-GAAP measures in order to assess the performance of Adobe's business and for planning and forecasting in subsequent periods. Whenever such a non-GAAP measure is used, Adobe provides a reconciliation of the non-GAAP financial measure to the most closely applicable GAAP financial measure. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measure as detailed above.
+7

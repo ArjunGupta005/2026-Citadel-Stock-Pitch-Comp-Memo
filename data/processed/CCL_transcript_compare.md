@@ -1,0 +1,91 @@
+# CCL transcript comparison
+
+Single transcript (Q3-2026); forward-looking numeric statements:
+
+- 29, 2026 CALL PARTICIPANTS CEO - Josh Weinstein CFO - David Bernstein Chair - Micky Arison Senior Vice President, Investor Relations - Beth Roberts TAKEAWAYS Net Income -- $1.9 billion, representing an all-time high for the third quarter.
+- Adjusted Net Income -- $2.0 billion, exceeding June guidance by $100 million due to favorable revenue and cost performance.
+- Net Yields -- 2.4% increase on a constant currency basis, outperforming June guidance by more than 1 percentage point.
+- Customer Deposits -- $7.6 billion, a third quarter record that increased 7% compared to the prior year.
+- Adjusted Cruise Costs Excluding Fuel -- 1.8% increase per ALBD, coming in 100 basis points better than June guidance.
+- 2027 Booked Position -- 50% booked for the full year, with occupancy and pricing at record levels.
+- Loyalty Program Yield Impact -- 0.6 percentage point headwind in the fourth quarter of 2026, due to deferred revenue accounting for the new Carnival Rewards program.
+- Regional Deployment -- 34% of capacity allocated to Europe in 2027, tying it with the Caribbean as the largest deployment region for the company.
+- Destination Portfolio Volume -- 2.5 million guests welcomed at Celebration Key in its first year, with projections to reach 3.5 million guests next year.
+- Dividend Payments -- $618 million paid year to date, as part of a total expected capital return of nearly $2 billion for the fiscal year.
+- Capacity Growth -- 0.5% forecast for 2027, following a 1.0% increase in 2026.
+- Full Year 2026 EPS Guidance -- $2.24, an increase of $0.02 from previous guidance despite fuel price headwinds.
+- Fourth Quarter Yield Guidance -- 1.7% growth expected, or 2.3% on a normalized basis adjusting for loyalty program accounting.
+- Email [email protected] RISKS Bernstein stated, "higher fuel prices were an $0.11 per share headwind," noting that price spikes impacted full year guidance by $150 million.
+- Weinstein warned that the booking disruption experienced this spring extended into the first quarter of 2027, though he indicated that bookings for that period have since rebounded.
+- ( CCL +1.98% ) reported record financial results for the third quarter, achieving all-time highs in net income, revenue, and customer deposits.
+- Management reported that the company outperformed its June guidance across yields and unit costs, offsetting a $150 million headwind from rising fuel prices.
+- The company is actively shifting its deployment mix to capitalize on high-demand markets, with Europe set to tie the Caribbean as its largest deployment region in 2027.
+- CEO Weinstein stated, "Celebration Key is expected to welcome approximately 3.5 million guests next year with 31 ships calling versus 26 this year." The Evolution fleet modernization program will include five ships in dry dock in 2027, an increase from two ships in 2026.
+- Good morning, and welcome to our third quarter 2026 earnings conference call.
+- Strong execution delivered approximately $2 billion to the bottom line, exceeding our guidance by $100 million with both revenue and costs contributing to the outperformance.
+- On the revenue side, yields increased nearly 2.5%, more than 1 point better than expected.
+- Excluding fuel, unit costs came in 1 point better than guidance for the quarter.
+- And to date, we have improved our full year expectations by more than 1 point even after absorbing continued pressure from higher-than-expected inflation.
+- Fuel consumption also came in 3 points better than expected as our teams continue to find ways to use less, which is better for the environment, better for our bottom line and ultimately, the best way to manage fuel costs.
+- Taken together, we've generated more than $150 million of operational improvement since our June guidance, fully offsetting the impact of higher fuel prices that we now expect.
+- With 2026 largely on the books, our attention is turning to 2027 and beyond.
+- For full year 2027, we are already half booked with both occupancy and pricing at record levels.
+- And while the booking disruption we experienced this spring extended into the first quarter of 2027, Q1 bookings have also rebounded meaningfully over the past 3 months, reinforcing our view that the impact is temporary.
+- They reached a third quarter record of approximately $7.6 billion, up about 7% despite flat capacity growth over the next 12 months.
+- With the second pier now open, Celebration Key is expected to welcome approximately 3.5 million guests next year with 31 ships calling versus 26 this year.
+- In fact, next year, 35% of Carnival Cruise Line's Caribbean capacity will feature itineraries visiting both of these incredible destinations on the same cruise.
+- As a result, in 2027, Europe will, for the first time, tie with the Caribbean as our largest deployment region, each representing 34% of our mix.
+- Despite the significant fuel price headwind this year, we expect to finish 2026 with even more brands generating mid-teens or higher returns on invested capital than last year.
+- I'll begin with our third quarter results, then cover our updated full year guidance and several considerations for 2027 before closing with capital allocation.
+- We delivered record revenues and yields with third quarter net income exceeding our June guidance by over $100 million or $0.08 per share.
+- The outperformance versus June guidance was driven by 3 factors.
+- Yields increased nearly 2.5% year-over-year on top of almost 5% growth in last year's third quarter.
+- Strong close-in demand and robust onboard spending drove yields 1.2 percentage points above June guidance.
+- Cruise costs, excluding fuel per ALBD, increased only 1.8% year-over-year, 100 basis points better than June guidance, contributing $0.02 per share.
+- Third, the remaining $0.01 per share of favorability came from further improvements in fuel consumption, where we delivered a nearly 4% year-over-year reduction on top of the over 5% reduction in last year's third quarter as well as the full year 2025.
+- We expect operational improvement of more than $150 million in net income compared to June guidance, driven by improvements in yields, cruise costs, excluding fuel per ALBD and fuel consumption, overcoming $150 million impact from increased fuel prices.
+- Our September guidance forecasts yield growth of approximately 2.3%, which is over 0.5 point better than June guidance.
+- We flowed through the $0.05 per share yield improvement from the third quarter and an additional $0.03 per share expected yield improvement for the fourth quarter for a total of $0.08 per share for the year.
+- For the fourth quarter, we now expect year-over-year growth of approximately 1.7%, over 0.75 points above our implied June guidance.
+- On a normalized basis, adjusting for the impact of the new loyalty program accounting for Carnival Cruise Line, our fourth quarter yields are expected to be up approximately 2.3%, consistent with the year-over-year growth we saw in the third quarter.
+- Cruise costs, excluding fuel per ALBD, are now expected to be up approximately 2.2% year-over-year, better than June guidance, which includes the $0.02 per share cost savings I previously mentioned for the third quarter.
+- Putting the full year September guidance together relative to June guidance, improved operating performance adds $0.12 per share, $0.08 from yields, $0.02 from cruise costs excluding fuel and $0.02 from fuel consumption and other items.
+- The lower consumption represents savings of nearly $750 million at September guidance fuel prices.
+- As a result, full year EPS guidance is now $2.24, up $0.02 from our previous guidance.
+- Now a few things for you to consider for 2027.
+- We are forecasting a capacity increase of 0.5% in 2027 compared to 2026.
+- As Josh indicated, we are in a strong position for 2027 with both occupancy and price at record levels.
+- This is weighted to quarters 2 through 4 since the effects of the booking disruptions earlier this year, which impacted the second half of 2026, also carried heavily into bookings for the first quarter of 2027.
+- While booking trends for the first quarter of 2027 have improved meaningfully over the past 3 months, we still expect the first quarter to reflect residual impacts from that disruption.
+- As I previously indicated, Carnival Rewards is expected to be cash flow positive from launch, although the timing effect of revenue recognition creates a temporary yield headwind in the fourth quarter 2026 and fiscal year 2027.
+- Until 2028, when the impact turns positive, we do expect to have accounting-driven yield headwinds.
+- We previously explained a 0.2 point impact for the full year 2026, all of which is from the 0.6 point impact in the fourth quarter of 2026.
+- And for full year 2027, there will be an additional 0.4 point impact.
+- Combining share repurchases with our expected fiscal year dividend payout, we will be returning nearly $2 billion to shareholders.
+- Even with that level of capital return, we expect year-over-year improvement in our balance sheet and leverage metrics, and our total debt is now below $24 billion, a far cry from our $36 billion peak in 2023.
+- Our expected EBITDA of more than $7 billion provides the capacity to invest in the business, improve leverage and return capital to shareholders.
+- So I'm just wondering if I'm interpreting that right about 2027 that it's maybe at the same levels.
+- Are you concerned about what's going on with respect to Caribbean capacity into 2027?
+- Option #2 is, if you look at 2027, something like 37% growth over a 3-year period.
+- We're looking at the full year up almost 3% on a normalized basis, including our Caribbean portfolio against the backdrop of a pretty volatile world.
+- Brandt Montour: So back to 2027, I was just curious, Josh, if you want to kind of paint a picture on how the customer -- how your booking customer feels about booking that far out and specifically related -- relating this year kind of 6 months into Iran looking at 1 year out versus 1 year ago, 6 months into tariffs booking out to '26.
+- So there was certainly a large cohort of people in the spring into the early summer that said, "Right, we're not going this year, but we are going next year." And so that bodes very well for 2027.
+- So Josh, relative to the normalized yield growth of 2.7% expected for this year, could you speak to puts and takes to consider as we look ahead to '27, including if you see any constraints to bookings apart from the first quarter dynamics that you cited and tailwinds to consider from your destination portfolio and modernization initiatives?
+- And so we'll certainly talk more in December about how we think about 2027 and some of the ins and outs.
+- Sorry, we're not going to -- we're starting to deviate into guidance for 2027, which we're not going to do.
+- I'd just note that we feel good overall about 2027, particularly as you get away from Q1 into the latter part of the year.
+- David Bernstein: There's nothing in particular that's notable for 2027.
+- And we'll continue to step that up and to do more in 2027.
+- But if we go back and we think about kind of how you started your guidance ranges for -- I think it was the last 2 years, you kind of started those in a what we would call kind of a negative yield cost spread.
+- But as we think about next year, should we be thinking about the way you kind of start '27 and that negative yield cost spread as you sit here today?
+- Next year, we will have 5 Evolution ships in dry dock compared to 2 this year.
+- But overall, that may shift some of the costs around, but we are very confident in next year and our cost structure, given everything we're doing to control costs, find sourcing savings and find efficiencies in our business that will see controlled costs in 2027.
+- Well, like the P&L, we're not giving guidance for CapEx for 2027 yet.
+- And we do expect to see a little bit of a step-up in that number as we go forward because of -- I mentioned the 5 Evolution ships next year versus 2 this year.
+- David Bernstein: It's obviously very early to give multiple year guidance, but we do expect to see somewhat higher than the $2.4 billion a year for the next few years.
+- I think in the presentation, it looks like your Celebration Key visits will be up about 30% next year, RelaxAway and Isla Tropicale almost 50%.
+- I do hope and expect that we'll be able to talk about what's Phase 2 for Celebration Key to be able to provide even more to even more guests over time, but it's premature to talk about that.
+- And then I guess kind of maybe final shot on goal at this, but I was going back to look at your PROPEL guidance back on what you talked about on the Q1 call.
+- So we'll talk more about specific cost guidance when we get into 2027.
+- I know in the press release, you were saying it will be a record year, but even a 10 basis point yield improvement will technically be a record yield.
+- And so we'll talk more about 2027 in 3 months when we get on the call.

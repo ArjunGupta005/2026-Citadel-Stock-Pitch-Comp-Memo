@@ -1,0 +1,581 @@
+EX-99.1
+
+2
+
+sbux-432022xexhibit991.htm
+
+EX-99.1
+
+Document
+Exhibit 99.1
+Starbucks Reports Q2 Fiscal 2022 Results
+Consolidated Net Revenues Up 15% to a Q2 record $7.6 Billion
+Q2 Comparable Store Sales Up 7% Globally; Up 12% in the U.S. and Double Digits Internationally, ex-China
+Q2 GAAP EPS $0.58; Non-GAAP EPS of $0.59, Despite Lockdowns in China and Inflationary Headwinds
+Active Starbucks® Rewards Membership in Q2 Up 17% in the U.S. to 26.7 Million Members
+SEATTLE; May 3, 2022 – Starbucks Corporation (NASDAQ: SBUX) today reported financial results for its 13-week fiscal second quarter ended April 3, 2022. GAAP results in fiscal 2022 and fiscal 2021 include items that are excluded from non-GAAP results. Please refer to the reconciliation of GAAP measures to non-GAAP measures at the end of this release for more information.
+Q2 Fiscal 2022 Highlights
+•
+Global comparable store sales increased 7%, driven by a 4% increase in average ticket and a 3% increase in comparable transactions
+◦
+North America and U.S. comparable store sales increased 12%, driven by a 7% increase in average ticket and a 5% increase in comparable transactions
+◦
+International comparable store sales decreased 8%, driven by a 5% decline in average ticket and a 3% decline in comparable transactions; China comparable store sales decreased 23%, driven by a 20% decline in comparable transactions and a 4% decline in average ticket
+◦
+International and China comparable store sales include the unfavorable impact of approximately 3% and 4%, respectively, from lapping prior-year value-added tax (“VAT”) exemptions in China
+•
+The company opened 313 net new stores in Q2, ending the period with 34,630 stores globally: 51% company-operated and 49% licensed
+◦
+At the end of Q2, stores in the U.S. and China comprised 61% of the company’s global portfolio, with 15,544 stores in the U.S and 5,654 stores in China
+•
+Consolidated net revenues up 15% to a Q2 record $7.6 billion 
+•
+GAAP operating margin of 12.4% decreased 240 basis points from 14.8% in the prior year, primarily driven by inflationary pressures, mobility restrictions and lockdowns in China and investments in retail store partner wages and benefits, partially offset by pricing in North America and lapping restructuring costs in the prior year
+◦
+Non-GAAP operating margin of 13.0% decreased from 16.0% in the prior year
+•
+GAAP earnings per share of $0.58 grew 4% over the prior year
+◦
+Non-GAAP earnings per share of $0.59, down from $0.61 in the prior year 
+•
+Starbucks® Rewards loyalty program 90-day active members in the U.S. increased to 26.7 million, up 17% year-over-year 
+“We are single-mindedly focused on enhancing our core U.S. business through our partner, customer and store experiences. Given record demand and changes in customer behavior we are accelerating our store growth plans, primarily adding high-returning drive-thrus, and accelerating renovation programs so we can better meet demand and serve our customers where they are,” said Howard Schultz, interim chief executive officer. “The investments we are making in our people and the company will add the capacity we need in our U.S. stores today and position us ahead of the coming growth curve ahead,” Schultz added.
+“We are confident that the investments in our partners, our stores and our brand that we announced today will deliver returns in excess of historic levels and accelerate our growth long into the future,” commented Rachel Ruggeri, chief financial officer.
+2
+Q2 North America Segment Results 
+(1)
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Apr 3, 2022 | Mar 28, 2021
+Change in Comparable Store Sales (2) | 12% | 9%
+Change in Transactions | 5% | (10)%
+Change in Ticket | 7% | 22%
+Store Count | 16,926 | 16,701 | 1%
+Revenues | $5,445.7 | $4,638.5 | 17%
+Operating Income | $931.5 | $896.4 | 4%
+Operating Margin | 17.1% | 19.3% | (220) bps
+(1) North America store count, revenues, operating income and operating margin for the quarter ended March 28, 2021, have been restated to conform with current period presentation.
+(2) Includes only Starbucks ® company-operated stores open 13 months or longer. Comparable store sales exclude the effects of fluctuations in foreign currency exchange rates and Siren Retail stores. Stores that are temporarily closed or operating at reduced hours due to the COVID-19 pandemic remain in comparable store sales while stores identified for permanent closure have been removed.
+[/TABLE]
+
+Net revenues for the North America segment grew 17% over Q2 FY21 to $5.4 billion in Q2 FY22, primarily driven by a 12% increase in company-operated comparable store sales, driven by a 7% increase in average ticket and a 5% increase in transactions, performance of new stores over the past 12 months and strength in our licensed store sales.
+Operating income increased to $931.5 million in Q2 FY22, up from $896.4 million in Q2 FY21. Operating margin of 17.1% contracted from 19.3% in the prior year, primarily driven by higher supply chain costs due to inflationary pressure, investments in labor including enhanced store partner wages and higher spend on new partner training, onboarding and support costs to address labor market conditions, as well as lapping prior year government subsidies. This contraction was partially offset by pricing, sales leverage and lower restructuring expenses primarily associated with the North America Trade Area Transformation.
+Q2 International Segment Results 
+(1)
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Apr 3, 2022 | Mar 28, 2021
+Change in Comparable Store Sales (2) | (8)% | 35%
+Change in Transactions | (3)% | 26%
+Change in Ticket | (5)% | 7%
+Store Count | 17,704 | 16,242 | 9%
+Revenues | $1,702.4 | $1,637.0 | 4%
+Operating Income | $180.7 | $258.1 | (30)%
+Operating Margin | 10.6% | 15.8% | (520) bps
+(1) International store count, revenues, operating income and operating margin for the quarter ended March 28, 2021, have been restated to conform with current period presentation.
+(2) Includes only Starbucks® company-operated stores open 13 months or longer. Comparable store sales exclude the effects of fluctuations in foreign currency exchange rates and Siren Retail stores. Stores that are temporarily closed or operating at reduced hours due to the COVID-19 pandemic remain in comparable store sales while stores identified for permanent closure have been removed. For the second quarter of fiscal 2022, the International segment's comparable store sales included a 3% adverse impact from lapping the prior-year value-added tax benefit in China.
+[/TABLE]
+
+Net revenues for the International segment grew 4% over Q2 FY21 to $1.7 billion in Q2 FY22, driven by 1,462 net new store openings, or 9% store growth, over the past 12 months, higher product sales to and royalty revenues from our licensees and the conversion of the Korea market from a joint venture to a fully licensed market in Q4 FY21. These increases were partially offset by an 8% decline in comparable store sales, primarily attributable to COVID-19 related 
+3
+restrictions in China and lapping the prior-year VAT benefit in China, as well as the impact of unfavorable foreign currency translation.
+Operating income decreased to $180.7 million in Q2 FY22 compared to $258.1 million in Q2 FY21. Operating margin of 10.6% contracted from 15.8% in the prior year, primarily driven by investments in strategic initiatives and store partner wages, lower government subsidies as well as higher product and distribution costs from a sales mix shift and inflation. This contraction was partially offset by lower amortization expenses.
+Q2 Channel Development Segment Results
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Apr 3, 2022 | Mar 28, 2021
+Revenues | $463.1 | $369.9 | 25%
+Operating Income | $197.9 | $172.6 | 15%
+Operating Margin | 42.7% | 46.7% | (400) bps
+[/TABLE]
+
+Net revenues for the Channel Development segment of $463.1 million in Q2 FY22 were 25% higher relative to Q2 FY21. The increase was primarily driven by growth in the Global Coffee Alliance and the International ready-to-drink businesses.
+Operating income increased to $197.9 million in Q2 FY22, up from $172.6 million in Q2 FY21. Operating margin of 42.7% decreased from 46.7% in the prior year, primarily due to business mix shift driven by growth in the Global Coffee Alliance.
+4
+Fiscal 2022 Financial Targets
+The company will discuss fiscal year 2022 financial targets during its Q2 FY22 earnings conference call starting today at 2:00 p.m. Pacific Time. These items can be accessed on the company's Investor Relations website during and after the call. The company uses its website as a tool to disclose important information about the company and comply with its disclosure obligations under Regulation Fair Disclosure.
+Company Updates
+1.
+In February, the company executed a $1.5 billion bond issuance. The company intends to use the net proceeds from the sale of the securities for general corporate purposes, including repayment of upcoming debt maturities.
+2.
+In February, the company announced expanded hometown efforts in the greater Seattle area to support chronic homelessness, including a nearly $500,000 commitment in programming and partnerships throughout 2022.
+3.
+In March, the company hosted its 30th Annual Meeting of Shareholders. During the virtual meeting, senior leadership and partners from around the world recognized and celebrated the resilience of green apron partners who have continued to serve communities throughout the COVID-19 pandemic.
+4.
+As a part of the Annual Meeting of Shareholders, the company highlighted new sustainability innovations including efforts to reduce waste through innovative reusable cup programs, a new waste and recycling app to help partners navigate complex and unique store recycling guidelines and a pilot program with Volvo Cars to electrify the driving route from the Colorado Rockies to Seattle.
+5.
+In March, also as a part of the Annual Meeting of Shareholders, the company announced that Kevin Johnson, former president and chief executive officer, would retire from his position effective April 4, 2022. The Board appointed founder Howard Schultz as interim chief executive officer, effective April 4, 2022, with Schultz rejoining the company’s Board of Directors. Johnson continues to serve as a Starbucks partner and consultant to the company and Board of Directors through the end of fiscal 2022.
+6.
+In April, the company published its 2021 Global Environmental and Social Impact report for the 20th consecutive year.
+7.
+The Board of Directors declared a cash dividend of $0.49 per share, payable on May 27, 2022, to shareholders of record as of May 13, 2022. 
+8.
+In April, the company announced a suspension of its share repurchase program. Prior to the announcement, 5.2 million shares of common stock were repurchased in Q2 FY22; approximately 52.6 million shares remain available for purchase under the current authorization. 
+Conference Call
+Starbucks will hold a conference call today at 2:00 p.m. Pacific Time, which will be hosted by Howard Schultz, interim ceo, and other members of Starbucks executive leadership team. The call will be webcast and can be accessed at 
+http://investor.starbucks.com
+. A replay of the webcast will be available until end of day Friday, June 3, 2022.
+5
+About Starbucks
+Since 1971, Starbucks Coffee Company has been committed to ethically sourcing and roasting high-quality 
+arabica
+ coffee. Today, with more than 34,000 stores worldwide, the company is the premier roaster and retailer of specialty coffee in the world. Through our unwavering commitment to excellence and our guiding principles, we bring the unique 
+Starbucks Experience
+ to life for every customer through every cup. To share in the experience, please visit us in our stores or online at 
+stories.starbucks.com
+ or 
+www.starbucks.com
+. 
+Forward-Looking Statements 
+Certain statements contained herein and in our investor conference call related to these results are “forward-looking” statements within the meaning of the applicable securities laws and regulations. Generally, these statements can be identified by the use of words such as “aim,” “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “feel,” “forecast,” “intend,” “may,” “outlook,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” “will,” “would,” and similar expressions intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. These statements include statements relating to trends in or expectations relating to the effects of our existing and any future initiatives, strategies, investments and plans, as well as trends in or expectations regarding our financial results and long-term growth model and drivers; our operations in the U.S. and China; our environmental, social and governance efforts; our partners; economic and consumer trends, including the impact of inflationary pressures; the conversion of several market operations to fully licensed models; our plans for streamlining our operations, including store openings, closures and changes in store formats and models; expanding our licensing to Nestlé of our consumer packaged goods and Foodservice businesses and its effects on our Channel Development segment results; tax rates; business opportunities and expansion; strategic acquisitions; our dividends programs; commodity costs and our mitigation strategy; our liquidity, cash flow from operations, investments, borrowing capacity and use of proceeds; continuing compliance with our covenants under our credit facilities and commercial paper program; repatriation of cash to the U.S.; the likelihood of the issuance of additional debt and the applicable interest rate; the continuing impact of the COVID-19 pandemic on our financial results and future availability of governmental subsidies for COVID-19 or other public health events; our ceo transition; our share repurchase program; our use of cash and cash requirements; the expected effects of new accounting pronouncements and the estimated impact of changes in U.S. tax law, including on tax rates, investments funded by these changes and potential outcomes; and effects of legal proceedings. Such statements are based on currently available operating, financial and competitive information and are subject to various risks and uncertainties. Actual future results and trends may differ materially depending on a variety of factors, including, but not limited to: further spread of COVID-19 and related disruptions to our business; regulatory measures or voluntary actions that may be put in place to limit the spread of COVID-19, including restrictions on business operations or social distancing requirements, and the duration and efficacy of such restrictions; the resurgence of COVID-19 infections and the circulation of novel variants of COVID-19; fluctuations in U.S. and international economies and currencies; our ability to preserve, grow and leverage our brands; the ability of our business partners and third-party providers to fulfill their responsibilities and commitments; potential negative effects of incidents involving food or beverage-borne illnesses, tampering, adulteration, contamination or mislabeling; potential negative effects of material breaches of our information technology systems to the extent we experience a material breach; material failures of our information technology systems; costs associated with, and the successful execution of, the Company’s initiatives and plans; new initiatives and plans or revisions to existing initiatives or plans; our ability to obtain financing on acceptable terms; the acceptance of the Company’s products by our customers, evolving consumer preferences and tastes and changes in consumer spending behavior; partner investments, changes in the availability and cost of labor including any union organizing efforts and our responses to such efforts; failure to attract or retain key executive or employee talent; significant increased logistics costs; inflationary pressures; the impact of competition; inherent risks of operating a global business including any potential negative effects stemming from the Russian invasion of Ukraine; the prices and availability of coffee, dairy and other raw materials; the effect of legal proceedings; and the effects of changes in tax laws and related guidance and regulations that may be implemented and other risks detailed in the company filings with the Securities and Exchange Commission, including in the “Risk Factors” and “Management's Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company's most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. The company assumes no obligation to update any of these forward-looking statements.
+6
+Key Metrics 
+The company's financial results and long-term growth model will continue to be driven by new store openings, comparable store sales growth and operating margin management. We believe these key operating metrics are useful to investors because management uses these metrics to assess the growth of our business and the effectiveness of our
+marketing and operational strategies.
+Contacts:
+
+[TABLE]
+Starbucks Contact, Investor Relations: | Starbucks Contact, Media:
+Tiffany Willis | Maggie Jantzen
+investorrelations@starbucks.com | press@starbucks.com
+206-318-7100
+[/TABLE]
+
+7
+STARBUCKS CORPORATION 
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+(unaudited, in millions, except per share data)
+
+[TABLE]
+Quarter Ended | Quarter Ended
+Apr 3, 2022 | Mar 28, 2021 | % Change | Apr 3, 2022 | Mar 28, 2021
+As a % of total net revenues
+Net revenues:
+Company-operated stores | 6,276.7 | 5,653.1 | 11.0 | 82.2 | 84.8
+Licensed stores | 849.5 | 595.0 | 42.8 | 11.1 | 8.9
+Other | 509.4 | 419.9 | 21.3 | 6.7 | 6.3
+Total net revenues | 7,635.6 | 6,668.0 | 14.5 | 100.0 | 100.0
+Product and distribution costs | 2,465.8 | 1,992.4 | 23.8 | 32.3 | 29.9
+Store operating expenses | 3,314.7 | 2,823.3 | 17.4 | 43.4 | 42.3
+Other operating expenses | 101.7 | 87.7 | 16.0 | 1.3 | 1.3
+Depreciation and amortization expenses | 367.7 | 366.7 | 0.3 | 4.8 | 5.5
+General and administrative expenses | 481.5 | 464.4 | 3.7 | 6.3 | 7.0
+Restructuring and impairments | 4.4 | 23.0 | (80.9) | 0.1 | 0.3
+Total operating expenses | 6,735.8 | 5,757.5 | 17.0 | 88.2 | 86.3
+Income from equity investees | 49.1 | 77.1 | (36.3) | 0.6 | 1.2
+Operating income | 948.9 | 987.6 | (3.9) | 12.4 | 14.8
+Interest income and other, net | 46.3 | 17.3 | 167.6 | 0.6 | 0.3
+Interest expense | (119.1) | (115.0) | 3.6 | (1.6) | (1.7)
+Earnings before income taxes | 876.1 | 889.9 | (1.6) | 11.5 | 13.3
+Income tax expense | 201.1 | 230.5 | (12.8) | 2.6 | 3.5
+Net earnings including noncontrolling interests | 675.0 | 659.4 | 2.4 | 8.8 | 9.9
+Net earnings attributable to noncontrolling interests | 0.5 | — | nm | — | —
+Net earnings attributable to Starbucks | 674.5 | 659.4 | 2.3 | 8.8 | 9.9
+Net earnings per common share - diluted | 0.58 | 0.56 | 3.6
+Weighted avg. shares outstanding - diluted | 1,153.9 | 1,184.8
+Cash dividends declared per share | 0.49 | 0.45
+Supplemental Ratios:
+Store operating expenses as a % of company-operated store revenues | 52.8 | 49.9
+Effective tax rate including noncontrolling interests | 23.0 | 25.9
+[/TABLE]
+
+8
+
+[TABLE]
+Two Quarters Ended | Two Quarters Ended
+Apr 3, 2022 | Mar 28, 2021 | % Change | Apr 3, 2022 | Mar 28, 2021
+As a % of total net revenues
+Net revenues:
+Company-operated stores | 12,999.1 | 11,379.6 | 14.2 | 82.9 | 84.8
+Licensed stores | 1,700.3 | 1,208.8 | 40.7 | 10.8 | 9.0
+Other | 986.6 | 829.1 | 19.0 | 6.3 | 6.2
+Total net revenues | 15,686.0 | 13,417.5 | 16.9 | 100.0 | 100.0
+Product and distribution costs | 4,992.7 | 4,041.5 | 23.5 | 31.8 | 30.1
+Store operating expenses | 6,714.6 | 5,690.7 | 18.0 | 42.8 | 42.4
+Other operating expenses | 203.4 | 179.5 | 13.3 | 1.3 | 1.3
+Depreciation and amortization expenses | 733.8 | 732.6 | 0.2 | 4.7 | 5.5
+General and administrative expenses | 1,007.3 | 936.5 | 7.6 | 6.4 | 7.0
+Restructuring and impairments | (3.1) | 95.2 | (103.3) | — | 0.7
+Total operating expenses | 13,648.7 | 11,676.0 | 16.9 | 87.0 | 87.0
+Income from equity investees | 89.4 | 159.7 | (44.0) | 0.6 | 1.2
+Operating income | 2,126.7 | 1,901.2 | 11.9 | 13.6 | 14.2
+Interest income and other, net | 46.2 | 32.7 | 41.3 | 0.3 | 0.2
+Interest expense | (234.4) | (235.8) | (0.6) | (1.5) | (1.8)
+Earnings before income taxes | 1,938.5 | 1,698.1 | 14.2 | 12.4 | 12.7
+Income tax expense | 447.4 | 416.5 | 7.4 | 2.9 | 3.1
+Net earnings including noncontrolling interests | 1,491.1 | 1,281.6 | 16.3 | 9.5 | 9.6
+Net earnings attributable to noncontrolling interests | 0.7 | — | nm | — | —
+Net earnings attributable to Starbucks | 1,490.4 | 1,281.6 | 16.3 | 9.5 | 9.6
+Net earnings per common share - diluted | 1.28 | 1.08 | 18.5
+Weighted avg. shares outstanding - diluted | 1,165.2 | 1,183.9
+Cash dividends declared per share | 0.98 | 1.35
+Supplemental Ratios:
+Store operating expenses as a % of company-operated store revenues | 51.7 | 50.0
+Effective tax rate including noncontrolling interests | 23.1 | 24.5
+[/TABLE]
+
+9
+Segment Results (
+in millions
+)
+North America 
+(1)
+
+[TABLE]
+Apr 3, 2022 | Mar 28, 2021 | % Change | Apr 3, 2022 | Mar 28, 2021
+Quarter Ended | As a % of North America total net revenues
+Net revenues:
+Company-operated stores | 4,936.3 | 4,268.4 | 15.6 | 90.6 | 92.0
+Licensed stores | 507.0 | 368.1 | 37.7 | 9.3 | 7.9
+Other | 2.4 | 2.0 | 20.0 | — | —
+Total net revenues | 5,445.7 | 4,638.5 | 17.4 | 100.0 | 100.0
+Product and distribution costs | 1,564.0 | 1,213.1 | 28.9 | 28.7 | 26.2
+Store operating expenses | 2,625.4 | 2,203.1 | 19.2 | 48.2 | 47.5
+Other operating expenses | 47.1 | 39.2 | 20.2 | 0.9 | 0.8
+Depreciation and amortization expenses | 202.0 | 186.0 | 8.6 | 3.7 | 4.0
+General and administrative expenses | 71.3 | 77.7 | (8.2) | 1.3 | 1.7
+Restructuring and impairments | 4.4 | 23.0 | (80.9) | 0.1 | 0.5
+Total operating expenses | 4,514.2 | 3,742.1 | 20.6 | 82.9 | 80.7
+Operating income | 931.5 | 896.4 | 3.9 | 17.1 | 19.3
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 53.2 | 51.6
+Two Quarters Ended
+Net revenues:
+Company-operated stores | 10,150.4 | 8,553.2 | 18.7 | 90.8 | 91.8
+Licensed stores | 1,022.9 | 756.6 | 35.2 | 9.2 | 8.1
+Other | 4.7 | 4.4 | 6.8 | — | —
+Total net revenues | 11,178.0 | 9,314.2 | 20.0 | 100.0 | 100.0
+Product and distribution costs | 3,193.4 | 2,473.5 | 29.1 | 28.6 | 26.6
+Store operating expenses | 5,327.7 | 4,442.1 | 19.9 | 47.7 | 47.7
+Other operating expenses | 95.3 | 80.7 | 18.1 | 0.9 | 0.9
+Depreciation and amortization expenses | 402.1 | 374.9 | 7.3 | 3.6 | 4.0
+General and administrative expenses | 148.0 | 148.5 | (0.3) | 1.3 | 1.6
+Restructuring and impairments | (3.1) | 95.2 | (103.3) | — | 1.0
+Total operating expenses | 9,163.4 | 7,614.9 | 20.3 | 82.0 | 81.8
+Operating income | 2,014.6 | 1,699.3 | 18.6 | 18.0 | 18.2
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 52.5 | 51.9
+[/TABLE]
+
+(1)
+North America licensed store revenues, total net revenues, product and distribution costs, other operating expenses, total operating expenses and operating income for the quarter ended March 28, 2021, have been restated to conform with current period presentation.
+10
+International 
+(1)
+
+[TABLE]
+Apr 3, 2022 | Mar 28, 2021 | % Change | Apr 3, 2022 | Mar 28, 2021
+Quarter Ended | As a % of International total net revenues
+Net revenues:
+Company-operated stores | 1,340.4 | 1,384.7 | (3.2) | 78.7 | 84.6
+Licensed stores | 342.5 | 226.9 | 50.9 | 20.1 | 13.9
+Other | 19.5 | 25.4 | (23.2) | 1.1 | 1.6
+Total net revenues | 1,702.4 | 1,637.0 | 4.0 | 100.0 | 100.0
+Product and distribution costs | 580.5 | 528.0 | 9.9 | 34.1 | 32.3
+Store operating expenses | 689.3 | 620.2 | 11.1 | 40.5 | 37.9
+Other operating expenses | 39.5 | 32.0 | 23.4 | 2.3 | 2.0
+Depreciation and amortization expenses | 133.4 | 143.4 | (7.0) | 7.8 | 8.8
+General and administrative expenses | 79.6 | 82.1 | (3.0) | 4.7 | 5.0
+Total operating expenses | 1,522.3 | 1,405.7 | 8.3 | 89.4 | 85.9
+Income from equity investees | 0.6 | 26.8 | (97.8) | — | 1.6
+Operating income | 180.7 | 258.1 | (30.0) | 10.6 | 15.8
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 51.4 | 44.8
+Two Quarters Ended
+Net revenues:
+Company-operated stores | 2,848.7 | 2,826.4 | 0.8 | 79.6 | 85.2
+Licensed stores | 677.4 | 452.2 | 49.8 | 18.9 | 13.6
+Other | 52.3 | 40.4 | 29.5 | 1.5 | 1.2
+Total net revenues | 3,578.4 | 3,319.0 | 7.8 | 100.0 | 100.0
+Product and distribution costs | 1,196.4 | 1,064.2 | 12.4 | 33.4 | 32.1
+Store operating expenses | 1,386.9 | 1,248.6 | 11.1 | 38.8 | 37.6
+Other operating expenses | 78.7 | 67.6 | 16.4 | 2.2 | 2.0
+Depreciation and amortization expenses | 266.5 | 283.4 | (6.0) | 7.4 | 8.5
+General and administrative expenses | 170.9 | 167.2 | 2.2 | 4.8 | 5.0
+Total operating expenses | 3,099.4 | 2,831.0 | 9.5 | 86.6 | 85.3
+Income from equity investees | 1.3 | 53.0 | (97.5) | — | 1.6
+Operating income | 480.3 | 541.0 | (11.2) | 13.4 | 16.3
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 48.7 | 44.2
+[/TABLE]
+
+(1)
+International licensed store revenues, total net revenues, product and distribution costs, other operating expenses, general and administrative expenses, total operating expenses and operating income for the quarter ended March 28, 2021, have been restated to conform with current period presentation.
+11
+Channel Development
+
+[TABLE]
+Apr 3, 2022 | Mar 28, 2021 | % Change | Apr 3, 2022 | Mar 28, 2021
+Quarter Ended | As a % of Channel Development total net revenues
+Net revenues | 463.1 | 369.9 | 25.2
+Product and distribution costs | 300.5 | 231.9 | 29.6 | 64.9 | 62.7
+Other operating expenses | 10.7 | 13.1 | (18.3) | 2.3 | 3.5
+Depreciation and amortization expenses | — | 0.3 | (100.0) | — | 0.1
+General and administrative expenses | 2.5 | 2.3 | 8.7 | 0.5 | 0.6
+Total operating expenses | 313.7 | 247.6 | 26.7 | 67.7 | 66.9
+Income from equity investees | 48.5 | 50.3 | (3.6) | 10.5 | 13.6
+Operating income | 197.9 | 172.6 | 14.7 | 42.7 | 46.7
+Two Quarters Ended
+Net revenues | 880.1 | 741.2 | 18.7
+Product and distribution costs | 559.3 | 465.4 | 20.2 | 63.5 | 62.8
+Other operating expenses | 22.0 | 24.1 | (8.7) | 2.5 | 3.3
+Depreciation and amortization expenses | — | 0.6 | (100.0) | — | 0.1
+General and administrative expenses | 5.8 | 4.5 | 28.9 | 0.7 | 0.6
+Total operating expenses | 587.1 | 494.6 | 18.7 | 66.7 | 66.7
+Income from equity investees | 88.1 | 106.7 | (17.4) | 10.0 | 14.4
+Operating income | 381.1 | 353.3 | 7.9 | 43.3 | 47.7
+[/TABLE]
+
+`
+Corporate and Other 
+(1)
+
+[TABLE]
+Apr 3, 2022 | Mar 28, 2021 | % Change
+Quarter Ended
+Net revenues | 24.4 | 22.6 | 8.0
+Product and distribution costs | 20.8 | 19.4 | 7.2
+Other operating expenses | 4.4 | 3.4 | 29.4
+Depreciation and amortization expenses | 32.3 | 37.0 | (12.7)
+General and administrative expenses | 328.1 | 302.3 | 8.5
+Total operating expenses | 385.6 | 362.1 | 6.5
+Operating loss | (361.2) | (339.5) | 6.4
+Two Quarters Ended
+Net revenues | 49.5 | 43.1 | 14.8
+Product and distribution costs | 43.6 | 38.4 | 13.5
+Other operating expenses | 7.4 | 7.1 | 4.2
+Depreciation and amortization expenses | 65.2 | 73.7 | (11.5)
+General and administrative expenses | 682.6 | 616.3 | 10.8
+Total operating expenses | 798.8 | 735.5 | 8.6
+Operating loss | (749.3) | (692.4) | 8.2
+[/TABLE]
+
+(1)
+Corporate and other general and administrative expenses, total operating expenses and operating loss for the quarter ended March 28, 2021, have been restated to conform with current period presentation.
+Corporate and Other primarily consists of our unallocated corporate operating expenses and Evolution Fresh. 
+12
+STARBUCKS CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(unaudited, in millions, except per share data)
+
+[TABLE]
+Apr 3, 2022 | Oct 3, 2021
+ASSETS
+Current assets:
+Cash and cash equivalents | 3,913.4 | 6,455.7
+Short-term investments | 82.1 | 162.2
+Accounts receivable, net | 1,001.9 | 940.0
+Inventories | 1,920.0 | 1,603.9
+Prepaid expenses and other current assets | 623.7 | 594.6
+Total current assets | 7,541.1 | 9,756.4
+Long-term investments | 285.6 | 281.7
+Equity investments | 270.8 | 268.5
+Property, plant and equipment, net | 6,460.8 | 6,369.5
+Operating lease, right-of-use asset | 8,170.2 | 8,236.0
+Deferred income taxes, net | 1,809.4 | 1,874.8
+Other long-term assets | 582.8 | 578.5
+Other intangible assets | 254.7 | 349.9
+Goodwill | 3,646.1 | 3,677.3
+TOTAL ASSETS | 29,021.5 | 31,392.6
+LIABILITIES AND SHAREHOLDERS' EQUITY/(DEFICIT)
+Current liabilities:
+Accounts payable | 1,329.5 | 1,211.6
+Accrued liabilities | 2,092.4 | 2,321.2
+Accrued payroll and benefits | 665.9 | 772.3
+Current portion of operating lease liability | 1,236.3 | 1,251.3
+Stored value card liability and current portion of deferred revenue | 1,781.6 | 1,596.1
+Current portion of long-term debt | 1,998.6 | 998.9
+Total current liabilities | 9,104.3 | 8,151.4
+Long-term debt | 14,014.4 | 13,616.9
+Operating lease liability | 7,668.5 | 7,738.0
+Deferred revenue | 6,381.9 | 6,463.0
+Other long-term liabilities | 613.6 | 737.8
+Total liabilities | 37,782.7 | 36,707.1
+Shareholders' deficit:
+Common stock ($0.001 par value) — authorized, 2,400.0 shares; issued and outstanding, 1,146.9 and 1,180.0 shares, respectively | 1.1 | 1.2
+Additional paid-in capital | 41.1 | 846.1
+Retained deficit | (9,070.5) | (6,315.7)
+Accumulated other comprehensive income | 260.3 | 147.2
+Total shareholders’ deficit | (8,768.0) | (5,321.2)
+Noncontrolling interests | 6.8 | 6.7
+Total deficit | (8,761.2) | (5,314.5)
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY/(DEFICIT) | 29,021.5 | 31,392.6
+[/TABLE]
+
+13
+STARBUCKS CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited and in millions)
+
+[TABLE]
+Two Quarters Ended
+Apr 3, 2022 | Mar 28, 2021
+OPERATING ACTIVITIES:
+Net earnings including noncontrolling interests | 1,491.1 | 1,281.6
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization | 777.7 | 772.9
+Deferred income taxes, net | 28.4 | (25.2)
+Income earned from equity method investees | (118.7) | (131.3)
+Distributions received from equity method investees | 100.8 | 130.2
+Stock-based compensation | 149.2 | 175.3
+Non-cash lease costs | 670.7 | 617.9
+Loss on retirement and impairment of assets | 77.3 | 175.4
+Other | (17.9) | (15.4)
+Cash provided by/(used in) changes in operating assets and liabilities:
+Accounts receivable | (62.1) | 12.8
+Inventories | (324.9) | 51.3
+Prepaid expenses and other current assets | (120.7) | 139.7
+Accounts payable | 133.0 | 21.3
+Deferred revenue | 110.2 | 89.8
+Operating lease liability | (766.3) | (676.3)
+Other operating assets and liabilities | (95.0) | 99.5
+Net cash provided by operating activities | 2,032.8 | 2,719.5
+INVESTING ACTIVITIES:
+Purchases of investments | (67.5) | (321.7)
+Sales of investments | 72.6 | 121.7
+Maturities and calls of investments | 55.7 | 289.0
+Additions to property, plant and equipment | (871.9) | (647.9)
+Other | (69.8) | (20.1)
+Net cash used in investing activities | (880.9) | (579.0)
+FINANCING ACTIVITIES:
+Net proceeds/(payments) from issuance of commercial paper | — | (296.5)
+Net proceeds from issuance of short-term debt | 17.4 | 203.3
+Repayments of short-term debt | (12.6) | (320.5)
+Proceeds from issuance of long-term debt | 1,498.1 | —
+Repayments of long-term debt | — | (1,250.0)
+Proceeds from issuance of common stock | 56.3 | 134.4
+Cash dividends paid | (1,139.2) | (1,058.0)
+Repurchase of common stock | (3,997.5) | —
+Minimum tax withholdings on share-based awards | (122.1) | (90.1)
+Other | (9.2) | —
+Net cash used in financing activities | (3,708.8) | (2,677.4)
+Effect of exchange rate changes on cash and cash equivalents | 14.6 | 66.7
+Net increase/(decrease) in cash and cash equivalents | (2,542.3) | (470.2)
+CASH AND CASH EQUIVALENTS:
+Beginning of period | 6,455.7 | 4,350.9
+End of period | 3,913.4 | 3,880.7
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the period for:
+Interest, net of capitalized interest | 236.0 | 250.8
+Income taxes | 783.2 | 236.2
+[/TABLE]
+
+14
+Supplemental Information
+The following supplemental information is provided for historical and comparative purposes. 
+U.S. Supplemental Data
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Apr 3, 2022 | Mar 28, 2021
+Revenues | $5,060.9 | $4,302.9 | 18%
+Change in Comparable Store Sales (1) | 12% | 9%
+Change in Transactions | 5% | (10)%
+Change in Ticket | 7% | 21%
+Store Count | 15,544 | 15,288 | 2%
+(1) Includes only Starbucks ® company-operated stores open 13 months or longer. Comparable store sales exclude Siren Retail stores. Stores that are temporarily closed or operating at reduced hours due to the COVID-19 pandemic remain in comparable store sales while stores identified for permanent closure have been removed.
+[/TABLE]
+
+China Supplemental Data
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Apr 3, 2022 | Mar 28, 2021
+Revenues | $743.7 | $860.6 | (14)%
+Change in Comparable Store Sales (1) | (23)% | 91%
+Change in Transactions | (20)% | 93%
+Change in Ticket | (4)% | (1)%
+Store Count | 5,654 | 4,973 | 14%
+(1) Includes only Starbucks® company-operated stores open 13 months or longer. Comparable store sales exclude the effects of fluctuations in foreign currency exchange rates, stores identified for permanent closure and Siren Retail stores. Stores that are temporarily closed or operating at reduced hours due to the COVID-19 pandemic remain in comparable store sales while stores identified for permanent closure have been removed. Comparable store sales for the second quarter of fiscal 2022 included a 4% adverse impact from lapping the prior-year value-added tax benefit.
+[/TABLE]
+
+Store Data
+
+[TABLE]
+Net stores opened/(closed) and transferred during the period
+Quarter Ended | Two Quarters Ended | Stores open as of
+Apr 3, 2022 | Mar 28, 2021 | Apr 3, 2022 | Mar 28, 2021 | Apr 3, 2022 | Mar 28, 2021
+North America:
+Company-operated stores | 54 | (209) | 93 | (289) | 9,954 | 9,820
+Licensed stores | (16) | 20 | 7 | 50 | 6,972 | 6,881
+Total North America (1) | 38 | (189) | 100 | (239) | 16,926 | 16,701
+International:
+Company-operated stores | 102 | 123 | 315 | 308 | 7,587 | 6,836
+Licensed stores | 173 | 71 | 382 | 214 | 10,117 | 9,406
+Total International (1) | 275 | 194 | 697 | 522 | 17,704 | 16,242
+Total Company | 313 | 5 | 797 | 283 | 34,630 | 32,943
+[/TABLE]
+
+(1)
+North America and International licensed and total stores as of March 28, 2021, have been recast as a result of our fiscal 2021 operating segment reporting structure realignment.
+15
+Non-GAAP Disclosure
+In addition to the GAAP results provided in this release, the company provides certain non-GAAP financial measures that are not in accordance with, or alternatives for, generally accepted accounting principles in the United States. Our non-GAAP financial measures of non-GAAP general and administrative expenses (G&A), non-GAAP operating income, non-GAAP operating income growth, non-GAAP operating margin, non-GAAP effective tax rate and non-GAAP earnings per share exclude the below-listed items and their related tax impacts, as they do not contribute to a meaningful evaluation of the company
+’
+s future operating performance or comparisons to the company's past operating performance. The GAAP measures most directly comparable to non-GAAP G&A, non-GAAP operating income, non-GAAP operating income growth, non-GAAP operating margin, non-GAAP effective tax rate and non-GAAP earnings per share are general and administrative expenses, operating income, operating income growth, operating margin, effective tax rate and diluted net earnings per share, respectively.
+
+[TABLE]
+Non-GAAP Exclusion | Rationale
+Sale of certain joint venture operations | Management excludes the gain and subsequent adjustments, if any, related to the sale of joint venture operations as this activity was specific to the sale and for reasons discussed above.
+Restructuring and impairment costs | Management excludes restructuring and impairment costs relating to the write-down of certain company-operated store and corporate assets. Management excludes these items for reasons discussed above. These expenses are anticipated to be completed within a finite period of time.
+Integration costs | Management excludes amortization of the acquired intangible assets for reasons discussed above. Additionally, these acquired intangible assets will be amortized over a finite period of time.
+[/TABLE]
+
+Non-GAAP G&A, non-GAAP operating income, non-GAAP operating income growth, non-GAAP operating margin, non-GAAP effective tax rate and non-GAAP earnings per share may have limitations as analytical tools. These measures should not be considered in isolation or as a substitute for analysis of the company
+’
+s results as reported under GAAP. Other companies may calculate these non-GAAP financial measures differently than the company does, limiting the usefulness of those measures for comparative purposes.
+Certain non-GAAP measures included in this report were not reconciled to the comparable GAAP financial measures because the GAAP measures are not accessible on a forward-looking basis. The company is unable to reconcile these forward-looking non-GAAP financial measures to the most directly comparable GAAP measures without unreasonable efforts because the company is currently unable to predict with a reasonable degree of certainty the type and extent of certain items that would be expected to impact GAAP measures for these periods but would not impact the non-GAAP measures. Such items may include acquisitions, divestitures, restructuring and other items. The unavailable information could have a significant impact on the company’s GAAP financial results.
+16
+STARBUCKS CORPORATION
+RECONCILIATION OF SELECTED GAAP MEASURES TO NON-GAAP MEASURES
+(unaudited, in millions except per share data)
+
+[TABLE]
+Quarter Ended (1)
+Consolidated | Apr 3, 2022 | Mar 28, 2021 (2) | Change
+Operating income, as reported (GAAP) | 948.9 | 987.6 | (3.9)%
+Restructuring and impairment costs (3) | 4.4 | 23.0
+Integration costs (4) | 43.1 | 54.3
+Non-GAAP operating income | 996.4 | 1,064.9 | (6.4)%
+Operating margin, as reported (GAAP) | 12.4 | 14.8 | (240) bps
+Restructuring and impairment costs (3) | 0.1 | 0.3
+Integration costs (4) | 0.6 | 0.8
+Non-GAAP operating margin | 13.0 | 16.0 | (300) bps
+Diluted net earnings per share, as reported (GAAP) | 0.58 | 0.56 | 3.6%
+Restructuring and impairment costs (3) | 0.00 | 0.02
+Integration costs (4) | 0.04 | 0.04
+Gain resulting from divestiture of certain joint venture operations | (0.01) | —
+Correction of prior year estimated tax expense (5) | (0.02) | —
+Income tax effect on Non-GAAP adjustments (6) | (0.01) | (0.01)
+Non-GAAP EPS | 0.59 | 0.61 | (3.3)%
+[/TABLE]
+
+(1)
+Certain numbers may not foot due to rounding convention.
+(2)
+In the first quarter of fiscal 2022, the company changed its treatment of removing certain integration costs related to the acquisitions of Starbucks Japan and East China for its non-GAAP financial measures. Integration costs, primarily related to information technology investments and compensation-related programs, are deemed to be representative of ongoing operations. These integration costs will remain in our non-GAAP measures, and non-GAAP measures for the quarter ended March 28, 2021 have been recast to reflect this change.
+(3)
+Represents costs associated with our restructuring efforts.
+(4)
+Includes amortization expense of acquired intangible assets associated with the acquisition of East China. Fiscal 2021 also includes amortization expense of acquired intangible assets associated with the acquisition of Starbucks Japan. 
+(5)
+Represents a beneficial return-to-provision adjustment related to the prior year divestiture of certain joint venture operations that also received non-GAAP treatment.
+(6)
+Adjustments were determined based on the nature of the underlying items and their relevant jurisdictional tax rates.
+17
+Q2 QTD FY22 NON-GAAP DISCLOSURE DETAILS
+(in millions and before income taxes)
+
+[TABLE]
+Q2 QTD FY22 | North America | International | Channel Development | Corporate and Other | Consolidated
+Statement of Earnings Line Item | Restructuring and Impairment Costs | Integration Costs | Nestlé Transaction and Integration-Related Costs | Integration Costs | Restructuring and Impairment Costs | Total Non-GAAP Adjustment
+Depreciation and amortization expenses | — | 43.1 | — | — | — | 43.1
+Restructuring and impairments | 4.4 | 4.4
+Total impact to operating income | (4.4) | (43.1) | — | — | — | (47.5)
+Non-Operating gain
+Interest income and other, net | 7.9
+[/TABLE]

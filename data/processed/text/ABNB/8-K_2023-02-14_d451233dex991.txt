@@ -1,0 +1,1030 @@
+EX-99.1
+
+2
+
+d451233dex991.htm
+
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1 
+
+[TABLE]
+Key Financial Measures | Q4 2022 | FY 2022
+Revenue Revenue of $1.9 billion increased 24% from Q4 2021 demonstrating continued strong travel demand. | $1.9B | $8.4B
+24% Y/Y 31% Y/Y (ex-FX) 72% Y/3Y | 40% Y/Y 46% Y/Y (ex-FX) 75% Y/3Y
+Net Income Our first full GAAP profitable year (23% net margin) included our most profitable Q4 ever (17% net margin)both periods delivering double digit year- over-year
+margin expansion. | $319M | $1.9B
+$385M (ex-FX) $55M Q4
+2021 $(352)M Q4 2019 | $2.2B (ex-FX) $(352)M FY
+2021 $(674)M FY 2019
+Adjusted EBITDA* Our highest Q4 Adjusted EBITDA ever demonstrated the continued strength of the business and discipline in managing our cost structure. | $506M | $2.9B
+$574M (ex-FX) $333M Q4
+2021 $(276)M Q4 2019 | $3.2B (ex-FX) $1.6B FY
+2021 $(253)M FY 2019
+Free Cash Flow (FCF)* We generated $463 million of net cash provided by operating activities in Q4 and $455 million of Free Cash Flow. | $455M | $3.4B
+Free Cash Flow 21% Y/Y 310% Y/3Y | Free Cash Flow 49% Y/Y 3,072% Y/3Y
+Key Business Metrics
+Gross Booking Value (GBV) Strong growth in Nights and Experiences Booked drove nearly $13.5 billion of GBV in Q4 2022. | $13.5B | $63.2B
+20% Y/Y 26% Y/Y (ex-FX) 58% Y/3Y | 35% Y/Y 42% Y/Y (ex-FX) 67% Y/3Y
+Nights and Experiences Booked In Q4 2022, Nights and Experiences Booked increased 20% compared to the prior year, driven by growth in all regions. | 88.2M | 393.7M
+20% Y/Y 16% Y/3Y | 31% Y/Y 20% Y/3Y
+[/TABLE]
+
+* A reconciliation of 
+non-GAAP
+ financial measures to the most comparable GAAP measures is provided at the end of this letter.
+
+2 
+
+Q4 2022 Shareholder Letter 
+
+2022 was another record year for Airbnb. Revenue of $8.4 billion grew 40% year over year (46% 
+ex-FX).
+ Net income was
+$1.9 billionmaking 2022 our first profitable full year on a GAAP basis. Adjusted EBITDA was $2.9 billion while Free Cash Flow was $3.4 billion, growing 49% year over year. 
+
+Guest demand remained strong throughout 2022. All regions saw significant growth in 2022 as guests increasingly crossed borders and returned to cities on Airbnb. 
+
+Supply growth was also strong in 2022. We ended the year with 6.6 million global active listings, which is over 900,000 more listings than we had in the
+beginning of the year, excluding China. This growth was driven by our global network, where demand drives supply, as well as product innovations that continue to attract new Hosts. 
+
+Looking forward to 2023, were seeing strong demand in Q1, indicating that consumer confidence to travel remains high. This year, were focusing on
+three strategic priorities: 
+
+[TABLE]
+ | Make hosting mainstream. If youre reading this letter, you have likely traveled on Airbnb or know someone who
+has. We want hosting on Airbnb to be just as popular. To achieve this, we will continue to raise awareness around hosting, make it easier to get started, and provide even better tools for Hosts.
+[/TABLE]
+
+[TABLE]
+ | Perfect the core service. We want people to love our service, and that means obsessing over every detail. Based on
+feedback from our guests and Hosts, were making a large number of upgrades to our service this yearimproving community support, making it easier to find the right home for you, delivering greater value, and much more.
+[/TABLE]
+
+[TABLE]
+ | Expand beyond the core. We have some big ideas for where to take Airbnb next, and this year we will build the
+foundation for future products and services that will provide incremental growth for years to come.
+[/TABLE]
+
+As we continue to innovate and grow,
+were excited to share this journey with you. 
+
+Q4 and Full-Year 2022 Financial Results 
+
+Here is a snapshot of our Q4 and full-year 2022 results: 
+
+[TABLE]
+ | Q4 revenue of $1.9 billion was our highest fourth quarter ever. Revenue grew 24% year-over-year (31% ex-FX) driven by solid growth in Nights and Experiences Booked. For the full year 2022, revenue increased 40% year-over-year (46% ex-FX) to $8.4 billion driven by the
+increase in demand and Average Daily Rates (ADR).
+[/TABLE]
+
+[TABLE]
+ | Q4 net income of $319 million was our most profitable fourth quarter ever. Net income improved by
+$264 million compared to Q4 2021 primarily due to our revenue growth and expense discipline. In Q4 2022, we delivered a net income margin of 17%, up from 4% in Q4 2021. For the full year 2022, we generated $1.9 billion of net
+incomeour first profitable full year. This compared to a net loss of $352 million for the full year 2021.
+[/TABLE]
+
+3 
+
+[TABLE]
+ | Q4 Adjusted EBITDA of $506 million was a record fourth quarter. Adjusted EBITDA in Q4 2022 increased 52%
+compared to $333 million in Q4 2021. Adjusted EBITDA margin was 27% for Q4 2022, up from 22% in Q4 2021. For the full year 2022, Adjusted EBITDA margin was 35%, compared with 27% for full year 2021. This improvement in Adjusted EBITDA
+demonstrates the continued strength of our business and discipline in managing our cost structure. 1
+[/TABLE]
+
+[TABLE]
+ | Q4 Free Cash Flow of $455 million was our highest Q4 ever. Q4 2022 net cash provided by operating activities
+was $463 million, up from $382 million in Q4 2021. The increase in cash flow was driven by revenue growth and net margin expansion. Our FCF for full year 2022 was $3.4 billion, representing a FCF margin of 41%, and year-over-year
+growth of 49%. 2 With our Free Cash Flow, we repurchased $1.5 billion of our stock and reduced our fully diluted share count from 703 million at the end of 2021 to 694 million at the
+end of 2022.
+[/TABLE]
+
+Business Highlights 
+
+Our strong quarter
+was driven by the continuation of a number of positive business trends: 
+
+[TABLE]
+ | Guest demand on Airbnb remained strong. Nights and Experiences Booked increased 20% in Q4 2022 compared to a
+year ago. In Q4 2022, we had our highest number of active bookers yet, demonstrating guests excitement to travel on Airbnb despite evolving macroeconomic uncertainties. Globally, weve now had 1.4 billion cumulative guest arrivals.
+And heading into 2023, we see a strong backlog for Q1 with longer lead times for bookings in Q4 2022 compared to a year ago.
+[/TABLE]
+
+[TABLE]
+ | Guests increasingly returned to cities and crossed borders. Cross-border gross nights booked increased 49%, while
+high-density urban nights booked grew 22% compared to Q4 2021. While the business mix remains different from pre-pandemic levels, weve seen consistent growth in both areas. In Q4 2022, high-density urban
+nights booked was 51% of total gross nights booked (versus 59% in Q4 2019) and cross-border was 44% (versus 47% in Q4 2019). Globally, we saw cross-border travel to all regions increase in Q4 2022 from last year despite continued foreign currency
+volatility. While Asia Pacific, which has historically been reliant on cross-border travel, has yet to return to 2019 levels, we see Chinas recent removal of travel restrictions as an encouraging sign of continued recovery for the region.
+[/TABLE]
+
+[TABLE]
+ | Guests continued to stay longer on Airbnb. Gross nights booked in Q4 2022 for more than a week are 40% higher than
+Q4 2019. Nights from long-term stays (28 nights or longer) remained stable from a year ago at 21% of total gross nights booked. Weve seen guests across all regions and age groups use Airbnb for long-term stays.
+[/TABLE]
+
+[TABLE]
+ | Supply on Airbnb grew by over 900,000 active listings. We ended 2022 with 6.6 million active listingsour
+highest yet. This was an increase of over 900,000 active listings, or 16% compared to 2021, excluding the removal of all mainland China listings in July 2022 based on our decision to close the domestic business in China. Two factors drove this
+increase in supply. First, demand drives supply. Hosts are attracted to the supplemental income they can earn on Airbnb, which
+[/TABLE]
+
+1, 2
+ A
+reconciliation of 
+non-GAAP
+ financial measures to the most comparable GAAP measures is provided at the end of this letter. 
+
+4 
+
+[TABLE]
+is often critical during times of inflation and recessionary concerns. Second, our product innovation is having an impact. Over the past two years, weve made it more attractive and easier
+to Hostincluding our most recent introduction of Airbnb Setup. And were not stopping there. We will continuously invest in growing our Host community and helping them succeed.
+[/TABLE]
+
+5 
+
+Results from our 2022 Winter Release 
+
+Airbnb Setup 
+
+On November 16, 2022, we introduced Airbnb Setup to make
+it easy for millions of people to Airbnb their home. With Airbnb Setup, prospective Hosts can connect with Superhosts for free 
+one-to-one
+ guidance all the way through
+their first reservation. Hosts also can choose to host an experienced guest for their first booking and receive specialized support from Airbnb. Since the release and the launch of our Airbnb It campaign, the number of visitors to
+our host landing page has doubled. Since November, the number of new active Hosts recruited with the help of our Superhosts increased more than 20% compared to 
+pre-launch.
+
+AirCover 
+
+As part of the Winter Release,
+we also improved AirCover for Hosts by enhancing guest identity verification, expanding reservation screening, and increasing damage protection to $3 million. For Hosts with an AirCover reimbursement request, the net promoter score has
+increased nearly 70 points since the introduction. 
+
+6 
+
+Airbnb-Friendly Apartments 
+
+In Q4 2022, we announced Airbnb-Friendly Apartments, a program that helps long-term renters find apartments that they can host on Airbnb part-time. Renters interested
+in hosting a spare room, or their entire apartment when theyre out of town, can browse more than 175 Airbnb-friendly apartment buildings in the U.S.a number that continues to grow. Over the long term, we believe this will help unlock
+supply in the rental market, which in the past has been largely unavailable. 
+
+Total Pricing Display and Tools 
+
+Weve heard from guests that theyd like to view the total price when searching for homes on Airbnb. In response, in December, we rolled out the option for
+guests to display the total price 
+up-front.
+ When guests opt in, they see the total price before taxes in search results, as well as on the map, price filter, and listing page. Before confirming their booking,
+guests can still view a full price breakdown with Airbnbs service fee, discounts, and taxes. Based on the results so far, the business impact has been neutral. We are continuing to iterate and test the pricing display. 
+
+In addition to promoting price transparency, we want to ensure our platform offers competitively priced stays. Starting this year, we will provide new and
+improved pricing and discounting tools to help Hosts understand the final price guests pay and how to set competitive prices. We expect these changes will drive greater affordability and value for guests, support bookings growth, and therefore
+also help Hosts be more successful. Were excited to share more with you in the coming months. 
+
+The new total pricing option offers guests both the transparency and convenience of seeing the total price of
+their booking upfront 
+
+7 
+
+Meet Fernando. Hosting since 2017 Fernando shares his spacious, airy apartment in central Madrid with private room guests from all over the
+world. 
+
+8 
+
+His apartment
+is a study in meticulous detail. All of his furniture is vintage and the interior celebrates architectural trends of the 20th century. His stylish living room with high ceilings and balconies overlooking the street, contains bold artistic choices to
+the extent that guests compare his place to boutique hotels. It makes sense for an architect who carefully curates his space. 
+
+My space is very niche, he said. People who are very much into the same things I am into (such as design,
+architecture) really appreciate my house and they leave very positive feedback on that. 
+
+The art on his walls are exhibition
+posters from different eras with complementary colors. Guests note the elements of Bauhaus design and the 
+mid-century
+ modern movement throughout the space in his reviews. 
+
+In my space, all the furniture and complements are from the 1950s/1970s, Fernando said. Ive always been
+attracted to those trends, thats why my house is filled with mixed elements of different schools this period of time. I dont think of it as decoration. It is my taste for living. 
+
+Fernando began hosting guests at his four-bedroom apartment in 2017, where he lives with his two Spanish greyhounds. He started
+hosting because people kept marveling at his place, telling him he should list it on Airbnb. Fernando lives and works from his home. 
+
+Since he began hosting, one aspect that surprised him most is how respectful and educated guests are. People are very careful and
+mindful of my home, he said. 
+
+Fernando receives many international guests from all over the world, including the US, Canada,
+central Europe, and South America. 
+
+When people from different cultures tell you how they live, what they eat, what their
+culture is like, sometimes that is very informative and refreshing for me, he said. 
+
+9 
+
+Q4 2022 Business and Financial Performance 
+
+[TABLE]
+Q4 2022 88.2M | $13.5B
+Nights & Experiences Booked | Gross Booking Value
+20% Y/Y | 20% Y/Y
+16% Y/3Y | 26% Y/Y (ex-FX)
+58% Y/3Y
+FY 2022 393.7M | $63.2B
+Nights & Experiences Booked | Gross Booking Value
+31% Y/Y | 35% Y/Y
+20% Y/3Y | 42% Y/Y (ex-FX)
+67% Y/3Y
+[/TABLE]
+
+Q4 2022 
+
+During Q4 2022, we had
+88.2 million Nights and Experiences Bookedour highest fourth quarter ever representing a significant increase from a year ago (20% Y/Y). While we saw strong growth across all regions compared to Q4 2021, Asia Pacific once again
+increased the most with 40% more Nights and Experiences Booked. 
+
+The combination of the increase in Nights and Experiences Booked, combined with sustained
+elevated ADR, drove another quarter of strong GBV growth. In Q4 2022, GBV was $13.5 billion, representing a year-over-year increase of 20% (26% 
+ex-FX).
+
+As a result of the strong U.S. dollar in Q4 2022, especially in comparison to the Euro and the British Pound, metrics such as revenue, GBV and ADR, excluding the
+effects of foreign currency fluctuations, are higher than amounts reported in our financial statements. While we saw Q3 2022 mark a peak of U.S. dollar strength, we saw the Euro and British Pound recoup some lost ground in the latter half of Q4
+2022. 
+
+Geographic mix 
+
+While the trends in our recovery continue to
+vary by region due to a variety of factors, in Q4 2022, we saw continued strength in all regions relative to the same period in 2021. Meanwhile, global cancellation rates in Q4 2022 remained higher than 2019 levels, but below 2021 levels.
+We believe we have gained share in global nights stayed relative to both 2019 and 2021. Q4 2022 regional highlights include: 
+
+10 
+
+[TABLE]
+ | North America remained strong with continued growth in Nights and Experiences Booked. During Q4 2022, revenue earned in
+the U.S. increased over 19% from Q4 2021 and represented 47% of total global revenue. While the majority of travel in North America, both pre-pandemic and now, is domestic, we saw cross-border Nights and
+Experiences Booked to North America increase approximately 35% in Q4 2022 compared to the same prior-year period.
+[/TABLE]
+
+[TABLE]
+ | In EMEA, Nights and Experiences Booked grew 25% compared to Q4 2021. The vast majority of European guests on Airbnb
+travel within Europe, and therefore are not impacted by the strong U.S. dollar.
+[/TABLE]
+
+[TABLE]
+ | In Latin America, Nights and Experiences Booked were 23% higher than Q4 2021, with continued resilience in certain
+countries, such as Mexico and Brazil.
+[/TABLE]
+
+[TABLE]
+ | In Asia Pacific, Nights and Experiences Booked saw the most significant year-over-year growth primarily due to the
+continued easing of COVID-19 restrictions that were in place in 2021. This region has historically been reliant on cross-border travel. While still significantly down compared to pre-pandemic periods, we have seen continued sequential recovery in the region, with 40% growth in Nights and Experiences Booked in Q4 2022 compared to a year ago.
+[/TABLE]
+
+[TABLE]
+ | As shared in our Q2 shareholder letter, all mainland Chinese listings were taken down in July 2022 as part of our decision
+to close the domestic business in China and instead focus on the outbound China business. We are encouraged by Chinas recent lifting of its travel restrictions even though we anticipate the outbound recovery to be gradual.
+[/TABLE]
+
+Travel corridors and distance 
+
+While domestic and
+short-distance travel continued to be strong, we saw even further improvement in both longer-distance and cross-border travel during Q4 2022 compared to the prior year. In Q4 2022, guests traveling more than 300 miles increased 25% and
+cross-border represented 44% of total gross nights booked, up from 34% in Q4 2021. 
+
+Urban vs. 
+non-urban
+
+Consistent with recent quarters, we continue to see signs of travelers returning to cities (historically one of the strongest areas of our business). Gross nights
+booked in high-density urban areas represented 51% of our gross nights booked in Q4 2022. 
+
+Trip length 
+
+In Q4 2022, long-term stays of 28 days or more accounted for 21% of gross nights booked in Q4 2022, stable with Q4 2021. We anticipate long-term stays to be slightly
+lower as a percent of total nights in Q1 2023 due to strong growth of short-term stays. Overall, approximately 46% of gross nights booked in Q4 2022 were from stays of at least seven nights. 
+
+Average daily rates 
+
+ADR was $153 in Q4 2022, representing a 1% decrease
+from Q4 2021. Excluding the impact of FX, ADR in Q4 2022 increased 5% from Q4 2021. The year-over-year decrease from Q4 2021 was driven by foreign 
+
+11 
+
+exchange and mix shift as urban destinations and other bookings that tend to have lower ADR rebounded, partially
+offset by price appreciation. On an 
+FX-neutral
+ basis, Q4 2022 ADR was up across all regions year-over-year. 
+
+Supply
+
+In July 2022, all mainland China listings were taken down based on our decision to close the domestic business in China and instead focus on the outbound
+China business. As such, for comparative purposes, references to supply and supply growth exclude listings in China from prior periods. Active listings grew approximately 16% in Q4 2022 compared to a year ago, representing sequential acceleration
+relative to Q3 2022. Relative to the end of 2019, weve seen global supply grow 
+in-line
+ with global demand. In Q4 2022, total active listings (excluding China) were up 26% and nights booked (excluding
+China domestic) were up 24%. We saw growth in supply across all market types in Q4 2022 compared to a year ago, including 
+both non-urban
+ and urban supply. We also saw an increase in supply across all
+regions in Q4 2022 compared to Q4 2021, with the most growth in North America. 
+
+12 
+
+[TABLE]
+Q4 2022
+$1.9B | $319M | $506M
+Revenue | Net Income | Adjusted EBITDA
+24% Y/Y | $385M ex-FX | $574M ex-FX
+31% Y/Y (ex-FX) | $55M Q4 2021 | $333M Q4 2021
+72% Y/3Y | $(352)M Q4 2019 | $(276)M Q4 2019
+$463M | $455M
+Net Cash Provided by | Free Cash Flow
+Operating Activities | 21% Y/Y
+21% Y/Y | 310% Y/3Y
+343% Y/3Y
+FY 2022
+$8.4B | $1.9B | $2.9B
+Revenue | Net Income | Adjusted EBITDA
+40% Y/Y | $2.2B ex-FX | $3.2B ex-FX
+46% Y/Y (ex-FX) | $(352)M FY 2021 | $1.6B FY 2021
+75% Y/3Y | $(674)M FY 2019 | $(253)M FY 2019
+$3.4B | $3.4B
+Net Cash Provided by | Free Cash Flow
+Operating Activities | 49% Y/Y
+48% Y/Y | 3,072% Y/3Y
+1,374% Y/3Y
+[/TABLE]
+
+In Q4 2022, revenue was $1.9 billion, representing a year-over-year increase of 24% (31%
+
+ex-FX).
+ The increase in revenue was driven by the stable growth in Nights and Experiences Booked, which offset a slight year-over-year decline in ADR. As a result of the strength of the U.S. dollar in Q4
+2022 relative to Q4 2021, especially in comparison to the Euro and British Pound, metrics such as revenue, GBV and net income, excluding the effects of foreign currency fluctuations, are higher than reported amounts in our financial statements.
+In Q4 2022, approximately 47% of our GAAP revenue was denominated in 
+non-USD
+ currencies, while a minority of our total costs and expenses were denominated in 
+non-USD
+
+currencies. 
+
+13 
+
+During Q4 2022, the implied take rate (defined as revenue divided by GBV) was 14.1%, which was slightly higher than
+Q4 2021 primarily due to the timing of when guests booked their travel and when guests stayed. 
+
+Operating expenses in Q4 2022 included the impact of
+$254 million of stock-based compensation expense, which is excluded from Adjusted EBITDA. All recurring operating expense line-items (excluding the impact of stock-based compensation expense) except for general and administrative, increased
+more slowly year-over-year than revenue, allowing for considerable margin expansion.
+3
+ In Q4 2021, general and administrative expense, excluding stock-based compensation expense, incurred lower
+expenses associated with bad debt and reserves for certain tax and legal matters. 
+
+During the height of the pandemic, we made many difficult choices to reduce our
+spending, making us a leaner and more focused company, and weve kept this discipline ever since. Over each of the past two years, weve modestly increased our headcount. We ended 2022 with 6,811 employees, and
+currently expect to continue hiring at a judicious pace in 2023. Compared to 2019, our headcount is down 5% while our revenue is up 75%. 
+
+Net income in
+Q4 2022 was $319 million, a significant increase compared with net income of $55 million in Q4 2021 primarily driven by substantially higher revenue. Relative to Q4 2021, net profit margin increased 13 percentage points (from 4% in Q4
+2021 to 17% in Q4 2022). 
+
+Adjusted EBITDA for Q4 2022 was $506 million, a significant improvement compared to Adjusted EBITDA of $333 million in Q4 2021.
+4
+ Our Q4 2022 Adjusted EBITDA demonstrated the continued strength of our revenue recovery and strong ADRs, coupled with our disciplined spending. Relative to Q4 2021, Adjusted EBITDA margin increased 5
+percentage points (from 22% in Q4 2021 to 27% in Q4 2022). 
+
+3, 4
+ A reconciliation of 
+non-GAAP
+ financial measures to the most comparable
+GAAP measures is provided at the end of this letter. 
+
+14 
+
+Quarterly Revenue ($M) 
+
+Q4 2022 revenue of $1.9 billion grew 24% year-over-year.
+
+Quarterly Net Income (Loss) ($M) 
+
+2022 was our first profitable full year of $1.9 billion
+with Q4 2022 net income of $319M. 
+
+Quarterly Adjusted EBITDA ($M) 
+
+Q4 2022 Adjusted EBITDA of $506 million demonstrated the
+continued strength of the business and cost discipline. $600M 
+27% 
+Adjusted EBITDA 
+
+15 
+
+Quarterly Net Cash Provided by (Used in) Operating Activities ($M) 
+
+In 2022, we generated $463 million of net cash provided by operating activities in Q4 and $3.4 billion for the full year. 
+
+Quarterly Free Cash Flow ($M) 
+
+In 2022, we generated $455 million of Free Cash Flow in Q4
+and $3.4 billion for the full year. 
+
+Shares (M) 
+
+Were effectively managing share dilution and have
+repurchased $1.5B of our authorized $2B share buyback program. 
+
+16 
+
+Balance Sheet and Cash Flows 
+
+For the three months ended December 31, 2022, we reported $463 million of net cash provided by operating activities and $455 million of FCF, compared to
+$382 million and $378 million, respectively, for the three months ended December 31, 2021.
+5
+ The year-over-year increase in FCF was driven by revenue growth and margin
+expansion. For the full year ended December 31, 2022, we generated $3.4 billion of net cash provided by operating activities and $3.4 billion of FCF. 
+
+Unearned fees totaled $1.2 billion at the end of Q4 2022, compared to $1.2 billion at the end of Q3 2022 and $904 million at the end of Q4 2021. 
+
+As of December 31, 2022, we had $9.6 billion of cash, cash equivalents, marketable securities, and restricted cash. We also had $4.8 billion of funds
+held on behalf of guests as of December 31, 2022. 
+
+In August 2022, we announced that our Board of Directors approved a share repurchase program with
+authorization to purchase up to $2 billion of our Class A common stock at managements discretion. In 2022, we repurchased $1.5 billion of our Class A common stock. The share repurchase program will enable us to offset
+dilution from our employee stock programs. 
+
+Outlook 
+
+We are excited to
+see the continued strong demand in Q1 2023. Were particularly encouraged by European guests booking their summer travel earlier this year, the market share gains we are seeing in Latin America, as well as the continued recovery within
+Asia Pacific. 
+
+We expect revenue of $1.75 billion to $1.82 billion in Q1 2023. This represents year-over-year growth of between 16% and 21% and on an 
+ex-FX
+ basis between 18% and 23%. We expect our implied take rate (defined as revenue divided by GBV) in Q1 2023 to be similar to Q1 2022. We anticipate that the implied take rate seasonality in 2023 will be similar
+to 2022. 
+
+In Q1 2022, travel was significantly impacted by the Omicron strain of 
+COVID-19
+ in January and to a lesser extent
+the war in Ukraine during February, making the earlier part of the quarter an easier year-over-year comparison than the end. In Q1 2023, we expect Nights and Experiences Booked year-over-year growth to be nearly as strong as Q4 2022. 
+
+In Q1 2023, we anticipate slightly lower ADR than we had in Q1 2022. For the remainder of the year, we expect ADR will face increasing downward pressure from mix
+shift, as well as new and improved pricing and discounting tools. We will be introducing these tools this year and expect these changes to drive greater affordability and value for guests, support bookings growth, and therefore also help Hosts be
+more successful. 
+
+For the full year 2023, we expect to maintain the strong Adjusted EBITDA margin we delivered in 2022, as we offset the headwinds from lower ADR
+with incremental variable cost efficiencies and fixed cost discipline. In Q1 2023, we expect Adjusted EBITDA margin to be slightly down on a year-over-year basis due to changes in the timing of our brand marketing spend. Compared to Q1 2022, we
+expect sales and marketing in Q1 2023 will be approximately 150 basis points higher as a percent of revenue, but flat as a percent of revenue for the full year. 
+
+5
+ A
+reconciliation of 
+non-GAAP
+ financial measures to the most comparable GAAP measures is provided at the end of this letter. 
+
+17 
+
+Earnings Webcast 
+
+Airbnb
+will host an audio webcast to discuss its fourth quarter and full year results at 1:30 p.m. PT / 4:30 p.m. ET on Tuesday, February 14, 2023. The link to the webcast will be made available on Airbnbs Investor Relations website at
+https://investors.airbnb.com. 
+
+Interested parties can register for the call in advance by visiting https://conferencingportals.com/event/ UxGWzHKK. After
+registering, instructions will be shared on how to join the call. 
+
+Following the call, a replay of the webcast will be available on the Airbnb Investor Relations
+website. A telephonic replay will be also available for three weeks following the call at (800) 
+770-2030
+ using conference ID: 24053. 
+
+Investor Relations Contact: 
+
+ir@airbnb.com 
+
+Press Contact: 
+
+contact.press@airbnb.com 
+
+About Airbnb 
+
+Airbnb was born in 2007 when two Hosts welcomed three guests
+to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed 1.4 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for
+guests to connect with communities in a more authentic way. 
+
+Forward-Looking Statements 
+
+This letter contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of
+historical fact could be deemed forward-looking, including, but not limited to, statements regarding the future performance of Airbnb, Inc. and its consolidated subsidiaries (the Company), including its financial outlook for the first
+quarter of 2023 and the fiscal year 2023; the other expectations described under Outlook above; the Companys expectations regarding travel trends and the travel industry generally; the Companys strategic priorities and
+investments; the Companys expectations with respect to the demand for bookings, and expectations with respect to increases in active listings and expectations of sufficient additional supply of listings to meet demand; the Companys
+expectations regarding the recovery of cross-border travel and travel demand in cities; the impact of the lifting of travel restrictions; the Companys expectation of attracting and retaining more hosts; the growth of active listings in cities;
+the Companys expectations regarding long-term stays through its platform; the Companys expectations regarding the impact of the 
+COVID-19
+ pandemic on its business, travel trends, and the travel
+industry; the Companys expectations regarding its financial performance, including its revenue, implied take rate, Adjusted EBITDA, Adjusted EBITDA margin, expenses and costs; the Companys expectations regarding future operating
+performance, including Nights and Experiences Booked and GBV; the Companys expectations regarding ADR; the Companys expectations with respect to incremental variable cost efficiencies and fixed cost discipline; the Companys
+share repurchase program; the potential success and customer response to the Companys 2022 Winter Release; the results of the Companys 2022 Summer Release; expectations for product and services growth and enhancements; and the
+Companys business strategy, plans, and 
+
+18 
+
+objectives for future operations. In some cases, forward-looking statements can be identified by terms such as may, will, appears, should,
+expects, plans, anticipates, could, outlook, intends, target, projects, contemplates, believes, estimates,
+predicts, potential, or continue, or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. Such statements are subject to a number of
+known and unknown risks, uncertainties, assumptions, and other factors that may cause the Companys actual results, performance, or achievements to differ materially from results expressed or implied in this letter. Investors are cautioned not
+to place undue reliance on these statements, and reported results should not be considered as an indication of future performance. 
+
+Risks that contribute
+to the uncertain nature of the forward-looking statements include, among others, the effects of the 
+COVID-19
+ pandemic on the Companys business, including as a result of new strains or variants of
+the virus, the travel industry, travel trends, and the global economy generally; the Companys ability to retain existing Hosts and guests and add new Hosts and guests; any further and continued decline or disruption in the travel and
+hospitality industries or economic downturn; the Companys ability to compete successfully; changes to the laws and regulations that may limit the Companys Hosts ability and willingness to provide their listings, and/or result in
+significant fines, liabilities, and penalties to the Company; the effect of extensive regulation and oversight, litigation, and other proceedings related to the Companys business in a variety of areas; the Companys ability to maintain
+its brand and reputation, and effectively drive traffic to its platform; the effectiveness of the Companys strategy and business initiatives, including measures to improve trust and safety; the Companys operations in international
+markets; the Companys substantial level of indebtedness; and changes in political, business, and economic conditions; as well as other risks listed or described from time to time in the Companys filings with the Securities
+and Exchange Commission (the SEC), including the Companys Annual Report on Form 
+10-K
+ for the fiscal years ended December 31, 2021 and December 31, 2022, the Companys
+Quarterly Reports on Form 
+10-Q
+ for the quarters ended March 31, 2022, June 30, 2022, and September 30, 2022 and any subsequent filings, which are or will be on file with the SEC and available on
+the investor relations page of the Companys website. All forward looking statements are based on information and estimates available to the Company at the time of this letter and are not guarantees of future performance. Except as required by
+law, the Company assumes no obligation to update any of the statements in this letter. 
+
+The information that can be accessed through hyperlinks or website
+addresses included herein is deemed not to be incorporated in or part of this letter. 
+
+Non-GAAP
+ Financial Measures
+
+In addition to our results determined in accordance with generally accepted accounting principles in the United States (GAAP), we review financial
+measures that are not calculated and presented in accordance with GAAP 
+(non-GAAP
+ financial measures). We believe our 
+non-GAAP
+ financial measures are useful
+in evaluating our operating performance. We use the following 
+non-GAAP
+ financial information, collectively, to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe
+that 
+non-GAAP
+ financial information, when taken collectively, may be helpful to investors because it provides consistency and comparability with past financial performance, and assists in comparisons with
+other companies, some of which use similar 
+non-GAAP
+ financial information to supplement their GAAP results. The 
+non-GAAP
+ financial information is presented for
+supplemental informational purposes only, should not be considered a substitute for financial information presented in accordance with GAAP, and may 
+
+19 
+
+be different from similarly titled 
+non-GAAP
+ measures used by other companies. A reconciliation of each 
+non-GAAP
+
+financial measure to the most directly comparable financial measure stated in accordance with GAAP is provided below. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these 
+non-GAAP
+ financial measures to their most directly comparable GAAP financial measures. 
+
+Our
+
+non-GAAP
+ financial measures include Adjusted EBITDA, Adjusted EBITDA Margin, Free Cash Flow, Free Cash Flow Margin, trailing twelve months (TTM) Free Cash Flow, TTM Free Cash Flow Margin, revenue
+change excluding the effect of changes in foreign exchange rates 
+(ex-FX),
+ net income 
+ex-FX,
+ net income change 
+ex-FX,
+
+Adjusted EBITDA 
+ex-FX,
+ and Adjusted EBITDA change 
+ex-FX.
+
+Adjusted EBITDA is
+defined as net income or loss adjusted for (i) provision for (benefit from) income taxes; (ii) interest income, interest expense, and other income (expense), net; (iii) depreciation and amortization; (iv) stock-based compensation
+expense; (v) acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value of contingent consideration arrangements; (vi) net changes to the reserves for lodging taxes for which management
+believes it is probable that we may be held jointly liable with Hosts for collecting and remitting such taxes; and (vii) restructuring charges. 
+
+The
+above items are excluded from our Adjusted EBITDA measure because these items are 
+non-cash
+ in nature, or because the amount and timing of these items is unpredictable, not driven by core results
+of operations and renders comparisons with prior periods and competitors less meaningful. Reconciliations of expected Adjusted EBITDA and Adjusted EBITDA margins to corresponding net income (loss) and net income (loss) margins have not
+been provided because of the unpredictability of certain of the items excluded from Adjusted EBITDA and because we cannot determine their probable significance. We believe Adjusted EBITDA provides useful information to investors and others
+in understanding and evaluating our results of operations, as well as provides a useful measure for 
+period-to-period
+ comparisons of our business performance. Moreover,
+we have included Adjusted EBITDA in this letter because it is a key measurement used by our management internally to make operating decisions, including those related to operating expenses, evaluating performance, and performing strategic planning
+and annual budgeting. Adjusted EBITDA also excludes certain items related to transactional tax matters, for which management believes it is probable that we may be held jointly liable with Hosts in certain jurisdictions. 
+
+Adjusted EBITDA has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for the related financial
+information prepared in accordance with GAAP. These limitations include the following: 
+
+[TABLE]
+ | Adjusted EBITDA does not reflect interest income (expense) and other income (expense), net, which include loss on
+extinguishment of debt and unrealized and realized gains and losses on foreign currency exchange, investments, and financial instruments, including the warrants issued in connection with a term loan agreement entered into in April 2020. We
+amended the anti-dilution feature in the warrant agreements in March 2021. The balance of the warrants of $1.3 billion was reclassified from liability to equity as the amended warrants met the requirements for equity classification and are
+no longer remeasured at each reporting period;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA excludes certain recurring, non-cash charges, such as depreciation
+of property and equipment and amortization of intangible assets, and although these are non-cash
+[/TABLE]
+
+20 
+
+[TABLE]
+charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA does not reflect all cash requirements for such replacements or for
+new capital expenditure requirements;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA excludes stock-based compensation expense, which has been, and will continue to be for the
+foreseeable future, a significant recurring expense in our business and an important part of our compensation strategy;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA excludes acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value
+of contingent consideration arrangements. The contingent consideration, which was in the form of equity, was valued as of the acquisition date and is marked-to-market at
+each reporting period based on factors including our stock price;
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA does not reflect net changes to reserves for lodging taxes for which management believes it is probable
+that we may be held jointly liable with Hosts for collecting and remitting such taxes; and
+[/TABLE]
+
+[TABLE]
+ | Adjusted EBITDA does not reflect restructuring charges, which include severance and other employee costs, lease
+impairments, and contract amendments and terminations.
+[/TABLE]
+
+Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by revenue. Because of these
+limitations, you should consider Adjusted EBITDA and Adjusted EBITDA Margin alongside other financial performance measures, including net income (loss) and our other GAAP results. 
+
+Free Cash Flow represents net cash provided by (used in) operating activities less purchases of property and equipment. We believe that Free Cash Flow is a meaningful
+indicator of liquidity that provides information to management and investors about the amount of cash generated from operations that, after purchases of property and equipment, can be used for strategic initiatives, including continuous investment
+in our business, growth through acquisitions, and strengthening our balance sheet. Our Free Cash Flow is impacted by the timing of GBV because we collect our service fees at the time of booking, which is generally before a stay or experience occurs.
+Funds held on behalf of our Hosts and guests and amounts payable to our Hosts and guests do not impact Free Cash Flow, except interest earned on these funds. Free Cash Flow Margin is defined as Free Cash Flow divided by revenue. We track our
+TTM Free Cash Flow to account for the timing difference in when we receive cash from service fees, which is at the time of booking. Free Cash Flow has limitations as an analytical tool and should not be considered in isolation or as a substitute for
+analysis of other GAAP financial measures, such as net cash provided by (used in) operating activities. Free Cash Flow does not reflect our ability to meet future contractual commitments and may be calculated differently by other companies in our
+industry, limiting its usefulness as a comparative measure. TTM Free Cash Flow Margin is defined as TTM Free Cash Flow divided by TTM revenue. 
+
+In addition to
+the actual amount or percentage change, we disclose the amount or percentage change in our current period results for revenue, GBV, net income (loss), Adjusted EBITDA, and ADR from the corresponding prior period results by comparing results using
+constant currencies. We present constant currency amounts and change rate information to provide a framework for assessing how our revenue, GBV, net income (loss), Adjusted EBITDA, and ADR performed excluding the effect of changes in foreign
+exchange rates. We use the amounts and percentage change in constant currency revenues, GBV, net 
+
+21 
+
+income (loss), Adjusted EBITDA, and ADR for financial and operational decision-making and as a means to evaluate
+
+period-to-period
+ comparisons. We believe the presentation of results on a constant currency basis in addition to the U.S. GAAP presentation helps improve the ability to
+understand our performance because it excludes the effects of foreign currency volatility that are not indicative of our core operating results. We calculate the percentage change in constant currency by determining the change in the current period
+over the prior comparable period where current period foreign currency amounts are translated using the exchange rates of the comparative period. 
+
+22 
+
+Quarterly Summary 
+
+[TABLE]
+2019 | 2021 | 2022
+Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4
+Nights and Experiences Booked | 81.3M | 83.9M | 85.9M | 75.8M | 64.4M | 83.1M | 79.7M | 73.4M | 102.1M | 103.7M | 99.7M | 88.2 M
+Y/Y | 13% | 197% | 29% | 59% | 59% | 25% | 25% | 20%
+Y/2019 | (21)% | (1)% | (7)% | (3)% | 26% | 24% | 16% | 16%
+Gross Booking Value | $10.0B | $9.8B | $9.7B | $8.5B | $10.3B | $13.4B | $11.9B | $11.3B | $17.2B | $17.0B | $15.6B | $13.5B
+Y/Y | 52% | 320% | 48% | 91% | 67% | 27% | 31% | 20%
+Y/2019 | 3% | 37% | 23% | 32% | 73% | 73% | 62% | 58%
+Gross Booking Value per Night and Experience Booked (or ADR) | $122.36 | $117.14 | $112.39 | $112.63 | $159.82 | $161.45 | $149.15 | $153.61 | $168.07 | $163.74 | $156.44 | $152.81
+Y/Y | 35% | 41% | 15% | 20% | 5% | 1% | 5% | (1)%
+Y/2019 | 31% | 38% | 33% | 36% | 37% | 40% | 39% | 36%
+[/TABLE]
+
+23 
+
+Quarterly Summary Continued 
+
+[TABLE]
+2019 | 2021 | 2022
+Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4
+Revenue | $839M | $1,214M | $1,646M | $1,107M | $887M | $1,335M | $2,237M | $1,532M | $1,509M | $2,104M | $2,884M | $1,902M
+Y/Y | 31% | 34% | 30% | 32% | 5% | 299% | 67% | 78% | 70% | 58% | 29% | 24%
+FX Neutral Y/Y | 3% | 284% | 64% | 79% | 74% | 64% | 36% | 31%
+Y/2019 | 6% | 10% | 36% | 38% | 80% | 73% | 75% | 72%
+Net income (loss) | $(292)M | $(297)M | $267M | $(352)M | $(1.2)B | $(68)M | $834M | $55M | $(19)M | $379M | $1,214M | $319M
+Adjusted EBITDA | $(248)M | $(43)M | $314M | $(276)M | $(59)M | $217M | $1,101M | $333M | $229M | $711M | $1,457M | $506M
+Net cash provided by (used in) operating activities | $314M | $152M | $(42)M | $(191)M | $606M | $790M | $535M | $382M | $1,202M | $800M | $966M | $463M
+Free Cash Flow | $277M | $121M | $(74)M | $(217)M | $599M | $782M | $529M | $378M | $1,196M | $795M | $960M | $455M
+TTM Net cash provided by operating activities | $233M | $2,313M | $2,908M | $2,919M | $3,349M | $3,430M
+TTM Free Cash Flow | $107M | $2,287M | $2,885M | $2,897M | $3,328M | $3,405M
+2019 | 2021 | 2022
+Mar 31 | Jun 30 | Sept 30 | Dec 31 | Mar 31 | Jun 30 | Sept 30 | Dec 31 | Mar 31 | Jun 30 | Sept 30 | Dec 31
+Cash and other liquid assets (1) | $3,480M | $3,407M | $3,350M | $3,084M | $6,608M | $7,459M | $7,935M | $8,337M | $9,337M | $9,910M | $9,629M | $9,639M
+Funds receivable and amounts held on behalf of customers | $3,800M | $4,432M | $2,919M | $3,145M | $4,015M | $6,302M | $3,940M | $3,715M | $6,105M | $7,466M | $4,805M | $4,783M
+Unearned fees | $966M | $1,050M | $665M | $675M | $946M | $1,484M | $892M | $904M | $1,748M | $1,981M | $1,220M | $1,182M
+[/TABLE]
+
+1
+ Includes cash and cash equivalents, restricted cash, and marketable securities.
+
+24 
+
+Condensed Consolidated Statements of Operations 
+
+Unaudited (in millions, except per share amounts) 
+
+[TABLE]
+Three Months Ended December 31 | Year Ended December 31
+2021 | 2022 | 2021 | 2022
+Revenue | $1,532 | $1,902 | $5,992 | $8,399
+Costs and expenses:
+Cost of revenue | 295 | 345 | 1,156 | 1,499
+Operations and support (1) | 225 | 260 | 847 | 1,041
+Product development (1) | 368 | 397 | 1,425 | 1,502
+Sales and marketing (1) | 350 | 409 | 1,186 | 1,516
+General and administrative (1) | 217 | 256 | 836 | 950
+Restructuring charges (1) | 1 | - | 113 | 89
+Total costs and expenses | 1,456 | 1,667 | 5,563 | 6,597
+Income from operations | 76 | 235 | 429 | 1,802
+Interest income | 4 | 103 | 13 | 186
+Interest expense | (3) | (5) | (438) | (24)
+Other income (expense), net | (4) | 11 | (304) | 25
+Income (loss) before income taxes | 73 | 344 | (300) | 1,989
+Provision for income taxes | 18 | 25 | 52 | 96
+Net income (loss) | $55 | $319 | $(352) | $1,893
+Net income (loss) per share attributable to Class A and Class B common
+stockholders:
+Basic | $0.09 | $0.50 | $(0.57) | $2.97
+Diluted | $0.08 | $0.48 | $(0.57) | $2.79
+Weighted-average shares used in computing net income (loss) per share attributable to Class A
+and Class B common stockholders:
+Basic | 629 | 634 | 616 | 637
+Diluted | 681 | 672 | 616 | 680
+(1) Includes stock-based compensation expense as follows (in millions):
+Three Months Ended December 31 | Year Ended December 31
+2021 | 2022 | 2021 | 2022
+Operations and support | $12 | $17 | $49 | $63
+Product development | 126 | 149 | 545 | 548
+Sales and marketing | 27 | 36 | 100 | 114
+General and administrative | 61 | 52 | 205 | 205
+Stock-based compensation expense | $226 | $254 | $899 | $930
+[/TABLE]
+
+25 
+
+Condensed Consolidated Balance Sheets 
+
+Unaudited (in millions) 
+
+[TABLE]
+December 31
+2021 | 2022
+Assets
+Current assets:
+Cash and cash equivalents | $6,067 | $7,378
+Marketable securities | 2,255 | 2,244
+Funds receivable and amounts held on behalf of customers | 3,715 | 4,783
+Prepaids and other current assets | 349 | 456
+Total current assets | 12,386 | 14,861
+Property and equipment, net | 157 | 121
+Operating lease right-of-use assets | 272 | 138
+Intangible assets, net | 52 | 34
+Goodwill | 653 | 650
+Other assets, noncurrent | 188 | 234
+Total assets | $13,708 | $16,038
+Liabilities and Stockholders Equity
+Current liabilities:
+Accounts payable | $118 | $137
+Operating lease liabilities, current | 63 | 59
+Accrued expenses and other current liabilities | 1,559 | 1,817
+Funds payable and amounts payable to customers | 3,715 | 4,783
+Unearned fees | 904 | 1,182
+Total current liabilities | 6,359 | 7,978
+Long-term debt | 1,983 | 1,987
+Operating lease liabilities, noncurrent | 372 | 295
+Other liabilities, noncurrent | 219 | 218
+Total liabilities | 8,933 | 10,478
+Stockholders equity:
+Common stock | - | -
+Additional paid-in capital | 11,140 | 11,557
+Accumulated other comprehensive loss | (7) | (32)
+Accumulated deficit | (6,358) | (5,965)
+Total stockholders equity | 4,775 | 5,560
+Total liabilities and stockholders equity | $13,708 | $16,038
+[/TABLE]
+
+26 
+
+Condensed Consolidated Statements of Cash Flows 
+
+Unaudited (in millions) 
+
+[TABLE]
+Year Ended December 31
+2021 1 | 2022
+Cash flows from operating activities:
+Net income (loss) | $(352) | $1,893
+Adjustments to reconcile net income (loss) to cash provided by operating activities:
+Depreciation and amortization | 138 | 81
+Bad debt expense | 27 | 49
+Stock-based compensation expense | 899 | 930
+Deferred income taxes | 11 | (1)
+Impairment of investments | 3 | -
+Gain on investments, net | (8) | (2)
+Change in fair value of warrant liability | 292 | -
+Foreign exchange loss | 24 | 62
+Impairment of long-lived assets | 113 | 91
+Loss on extinguishment of debt | 377 | -
+Other, net | 28 | 8
+Changes in operating assets and liabilities:
+Prepaids and other assets | (54) | (226)
+Operating lease right-of-use assets | 25 | 41
+Accounts payable | 40 | 20
+Accrued expenses and other liabilities | 288 | 273
+Operating lease liabilities | (34) | (69)
+Unearned fees | 496 | 280
+Net cash provided by operating activities | 2,313 | 3,430
+Cash flows from investing activities:
+Purchases of property and equipment | (25) | (25)
+Purchases of marketable securities | (4,938) | (4,072)
+Sales of marketable securities | 1,584 | 909
+Maturities of marketable securities | 2,027 | 3,162
+Other investing activities, net | - | (2)
+Net cash used in investing activities | (1,352) | (28)
+[/TABLE]
+
+27 
+
+Condensed Consolidated Statements of Cash Flows Continued 
+
+Unaudited (in millions) 
+
+[TABLE]
+Year Ended December 31
+2021 1 | 2022
+Cash flows from financing activities:
+Taxes paid related to net share settlement of equity awards | $(177) | $(607)
+Proceeds from exercise of stock options | 138 | 40
+Proceeds from the issuance of common stock under employee stock purchase plan | 51 | 48
+Repurchases of common stock | - | (1,500)
+Principal repayment of long-term debt | (1,995) | -
+Prepayment penalty on long-term debt | (213) | -
+Proceeds from issuance of convertible senior notes, net of issuance costs | 1,979 | -
+Purchases of capped calls related to convertible senior notes | (100) | -
+Change in funds payable and amounts payable to customers | 1,625 | 1,330
+Net cash provided by (used in) financing activities | 1,308 | (689)
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash | (210) | (337)
+Net increase in cash, cash equivalents, and restricted cash | 2,059 | 2,376
+Cash, cash equivalents, and restricted cash, beginning of year | 7,668 | 9,727
+Cash, cash equivalents, and restricted cash, end of year | $9,727 | $12,103
+[/TABLE]
+
+1
+ The condensed consolidated statements of cash
+flows for the year ended December 31, 2021 has been revised to correct for errors identified by management during the preparation of the financial statements for the three months ended March 31, 2022. The errors understated cash flows
+from operating activities by $123.0 million and overstated the cash flows from financing activities by $123.0 million for the year ended December 31, 2021. Management has determined that these errors did not result in the previously
+issued financial statements being materially misstated. These errors primarily related to the timing of tax payments from the net settlement of equity awards at the initial public offering in December 2020. In particular, in 2020, the Company
+reported $1.7 billion of cash used in financing activities to cover taxes paid related to the net share settlement of its equity awards that vested upon the initial public offering. However, approximately $123.0 million of this amount
+was actually remitted to taxing authorities in foreign jurisdictions during 2021. This had no impact on the Companys consolidated financial statements outside of the presentation in the consolidated statements of cash flow and did not affect
+the consolidated balance sheets, consolidated statements of operations, or consolidated statements of stockholders equity. 
+
+28 
+
+Key Business Metrics 
+
+[TABLE]
+Three Months Ended December 31 | Year Ended December 31
+2021 | 2022 | 2021 | 2022
+Nights and Experiences Booked | 73.4M | 88.2M | 300.6M | 393.7M
+Gross Booking Value | $11.3B | $13.5B | $46.9B | $63.2B
+[/TABLE]
+
+We track certain key business metrics to measure our performance, identify trends, formulate financial projections, and make
+strategic decisions. Our key business metrics include GBV and Nights and Experiences Booked. GBV represents the dollar value of bookings on our platform in a period and is inclusive of Host earnings, service fees, cleaning fees, and taxes,
+net of cancellations and alterations that occurred during that period. Nights and Experiences Booked on our platform in a period represents the sum of the total number of nights booked for stays and the total number of seats booked for
+experiences, net of cancellations and alterations that occurred in that period. We are not aware of any uniform standards for calculating these key metrics, which may hinder comparability with other companies that may calculate similarly titled
+metrics in a different way. 
+
+29 
+
+Reconciliations of 
+Non-GAAP
+ Financial Measures 
+
+The following is a reconciliation of Adjusted EBITDA to the most comparable GAAP measure, net income (loss). 
+
+Adjusted EBITDA Reconciliation 
+
+(in millions, except percentages) 
+
+[TABLE]
+Three Months Ended
+Mar 31 2019 | Jun 30 2019 | Sept 30 2019 | Dec 31 2019 | Mar 31 2021 | Jun 30 2021 | Sept 30 2021 | Dec 31 2021 | Mar 31 2022 | Jun 30 2022 | Sept 30 2022 | Dec 31 2022
+Revenue | 839 | 1,214 | 1,646 | 1,107 | 887 | 1,335 | 2,238 | 1,532 | 1,509 | 2,104 | 2,884 | 1,902
+Net income (loss) | (292 | (297 | 266 | (351 | (1,172 | (68 | 833 | 55 | (19 | 379 | 1,214 | 319
+Adjusted to exclude the following:
+Provision for income taxes | 13 | 226 | 14 | 10 | 6 | 12 | 16 | 18 | 11 | 4 | 56 | 25
+Other (income) expense, net | (7 | (6 | (29 | 28 | 300 | 2 | (2 | 4 | 2 | (2 | (13 | (12
+Interest expense | 2 | 2 | 3 | 3 | 422 | 6 | 7 | 3 | 6 | 7 | 6 | 5
+Interest income | (22 | (25 | (21 | (18 | (3 | (3 | (3 | (4 | (5 | (20 | (58 | (103
+Depreciation and amortization | 21 | 24 | 31 | 38 | 38 | 36 | 34 | 30 | 29 | 26 | 13 | 13
+Stock-based compensation expense (1) | 14 | 18 | 40 | 25 | 229 | 233 | 211 | 226 | 195 | 247 | 234 | 254
+Acquisition-related impacts | - | - | - | - | 8 | (1 | 4 | - | 11 | (22 | 1 | (2
+Net changes in lodging tax reserves | 23 | 16 | 9 | (11 | 1 | - | 2 | - | (1 | 3 | 4 | 7
+Restructuring charges | - | - | - | - | 112 | 1 | (1 | 1 | - | 89 | - | -
+Adjusted EBITDA | (248 | (42 | 313 | (276 | (59 | 218 | 1,101 | 333 | 229 | 711 | 1,457 | 506
+Net income (loss) margin | (35 | )% | (25 | )% | 16 | (32 | )% | (132 | )% | (5 | )% | 37 | 4 | (1 | )% | 18 | 42 | 17
+Adjusted EBITDA margin | (30 | )% | (4 | )% | 19 | (25 | )% | (7 | )% | 16 | 49 | 22 | 15 | 34 | 51 | 27
+[/TABLE]
+
+1
+ Excludes stock-based compensation related to restructuring, which is included in
+restructuring charges in the table above. 
+
+30 
+
+The following is a reconciliation of Free Cash Flow to the most comparable GAAP measure, net cash provided by (used
+in) operating activities. 
+
+Free Cash Flow Reconciliation 
+
+(in millions,
+except percentages) 
+
+[TABLE]
+Three Months Ended
+Mar 31 2019 | Jun 30 2019 | Sept 30 2019 | Dec 31 2019 | Mar 31 2021 | Jun 30 2021 | Sept 30 2021 | Dec 31 2021 | Mar 31 2022 | Jun 30 2022 | Sept 30 2022 | Dec 31 2022
+Revenue | $839 | $1,214 | $1,646 | $1,107 | $887 | $1,335 | $2,238 | $1,532 | $1,509 | $2,104 | $2,884 | $1,902
+TTM Revenue | $3,848 | $4,158 | $4,539 | $4,805 | $3,423 | $4,424 | $5,319 | $5,992 | $6,614 | $7,383 | $8,029 | $8,399
+Net cash provided by (used in) operating activities | $314 | $152 | $(42) | $(191) | $606 | $790 | $535 | $382 | $1,202 | $800 | $965 | $463
+Purchases of property and equipment | (37) | (31) | (32) | (26) | (7) | (8) | (6) | (4) | (6) | (5) | (6) | (8)
+Free Cash Flow | $277 | $121 | $(74) | $(217) | $599 | $782 | $529 | $378 | $1,196 | $795 | $959 | $455
+Net cash provided by (used in) operating activities margin | 37% | 12% | (3)% | (17)% | 68% | 59% | 24% | 25% | 80% | 38% | 33% | 24%
+Free Cash Flow margin | 33% | 10% | (4)% | (20)% | 67% | 59% | 24% | 25% | 79% | 38% | 33% | 24%
+TTM Net cash provided by operating activities | $233 | $2,313 | $2,908 | $2,918 | $3,349 | $3,430
+TTM Free Cash Flow | $107 | $2,288 | $2,885 | $2,897 | $3,328 | $3,405
+TTM Net cash provided by operating activities margin | 5% | 39% | 44% | 40% | 42% | 41%
+TTM Free Cash Flow margin | 2% | 38% | 44% | 39% | 41% | 41%
+Other cash flow components:
+Net cash provided by (used in) investing activities | $42 | $(110) | $18 | $(297) | $(1,172) | $326 | $(176) | $(330) | $(197) | $368 | $(56) | $(143)
+Net cash provided by (used in) financing activities | $1,480 | $625 | $(1,425) | $165 | $1,456 | $2,328 | $(2,328) | $(148) | $2,204 | $1,446 | $(3,574) | $(765)
+[/TABLE]
+
+31 
+
+The following is a reconciliation of operating expense line items less stock-based compensation and
+acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value of contingent consideration arrangements. 
+
+Reconciliation of 
+Non-GAAP
+ Operating Expenses 
+
+(in millions) 
+
+[TABLE]
+Three Months Ended December 31 | Year Ended December 31
+2021 | 2022 | 2021 | 2022
+Operations and support | $225 | $260 | $847 | $1,041
+Less: Stock-based compensation | (12) | (17) | (49) | (63)
+Operations and support excluding stock-based compensation | $213 | $243 | $798 | $978
+Product development | $368 | $397 | $1,425 | $1,501
+Less: Stock-based compensation | (126) | (149) | (545) | (548)
+Product development excluding stock-based compensation | $242 | $248 | $880 | $953
+Sales and marketing | $351 | $409 | $1,186 | $1,516
+Less: Stock-based compensation | (27) | (36) | (100) | (114)
+Less: Acquisition-related impacts | (1) | 2 | (11) | 12
+Sales and marketing excluding stock-based compensation and acquisition-related impacts | $323 | $375 | $1,075 | $1,414
+General and administrative | $217 | $256 | $835 | $950
+Less: Stock-based compensation | (61) | (52) | (205) | (205)
+General and administrative excluding stock-based compensation | $156 | $204 | $630 | $745
+Restructuring charges | $1 | $- | $113 | $89
+Less: Stock-based compensation | - | - | - | -
+Restructuring charges excluding stock-based compensation | $1 | $- | $113 | $89
+[/TABLE]
+
+32 
+
+Glossary 
+
+[TABLE]
+Active Booker | An active booker is defined as a unique guest who has booked a stay or experience in a given period.
+Active Listing | We consider a listing of a home or an experience to be an active listing if it is viewable on Airbnb and has been previously booked at least once on Airbnb (excluding Hotel Tonight).
+Adjusted EBITDA | Adjusted EBITDA is defined as net income or loss adjusted for (i) provision for (benefit from) income taxes; (ii) interest income, interest expense, and other income (expense), net; (iii) depreciation and
+amortization; (iv) stock- based compensation expense; (v) acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value of contingent consideration arrangements; (vi) net changes to the reserves for
+lodging taxes for which management believes it is probable that we may be held jointly liable with Hosts for collecting and remitting such taxes; and (vii) restructuring charges.
+Adjusted EBITDA Margin | Adjusted EBITDA Margin is defined as Adjusted EBITDA divided by revenue.
+Free Cash Flow | Free Cash Flow represents net cash provided by (used in) operating activities less purchases of property and equipment.
+Free Cash Flow Margin | Free Cash Flow Margin is defined as Free Cash Flow divided by revenue.
+Gross Booking Value | Gross Booking Value (GBV) represents the dollar value of bookings on our platform in a period and is inclusive of Host earnings, service fees, cleaning fees, and taxes, net of cancellations and alterations that occurred
+in that period.
+Nights and Experiences Booked | Nights and Experiences Booked on our platform in a period represents the sum of the total number of nights booked for stays and the total number of seats booked for experiences, net of cancellations and alterations that occurred in
+that period.
+Revenue | Revenue consists of service fees, net of incentives and refunds, charged to our customers.
+[/TABLE]
+
+33

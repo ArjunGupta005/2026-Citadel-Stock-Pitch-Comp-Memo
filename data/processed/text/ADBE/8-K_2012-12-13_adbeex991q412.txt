@@ -1,0 +1,293 @@
+EX-99.1
+
+2
+
+adbeex991q412.htm
+
+EX-99.1
+
+ADBE EX 99.1 Q412
+
+Exhibit 99.1
+Investor Relations Contact
+Mike Saviage
+Adobe Systems Incorporated
+408-536-4416
+ir@adobe.com
+
+Public Relations Contact
+Jodi Sorensen
+Adobe Systems Incorporated
+408-536-2084
+jsorensen@adobe.com
+FOR IMMEDIATE RELEASE
+Adobe Reports Record Quarterly and Annual Revenue
+Company Drives Strong Adobe Creative Cloud and Adobe Marketing Cloud Adoption in Fiscal 2012 
+SAN JOSE, Calif. - Dec. 13, 2012
+
+-
+ Adobe Systems Incorporated (Nasdaq:ADBE) today reported financial results for its fourth quarter and fiscal year ended Nov. 30, 2012.
+Adobe achieved revenue in Q4 FY2012 of $1.153 billion, exceeding its targeted range of $1.075 billion to $1.125 billion. During the quarter, the Company continued to accelerate adoption of Adobe® Creative Cloud™ as it migrates to a subscription model. Adobe also achieved record Adobe Marketing Cloud and Document Services revenue during the fourth quarter.
+For fiscal year 2012, Adobe achieved record revenue of $4.4 billion.
+Fourth Quarter Financial Highlights 
+
+[TABLE]
+• | Diluted earnings per share were $0.44 on a GAAP-basis, and $0.61 on a non-GAAP basis.
+[/TABLE]
+
+[TABLE]
+• | Operating income was $307.8 million and net income was $222.3 million on a GAAP basis. Operating income was $414.7 million and net income was $307.9 million on a non-GAAP basis.
+[/TABLE]
+
+[TABLE]
+• | Cash flow from operations was $473.7 million.
+[/TABLE]
+
+[TABLE]
+• | Deferred revenue grew by $59.3 million to a record $619.6 million.
+[/TABLE]
+
+[TABLE]
+• | Adobe added approximately 10,000 Creative Cloud subscriptions per week during the quarter, versus the addition of 8,000 subscriptions per week in the third quarter.
+[/TABLE]
+
+[TABLE]
+• | In Document Services, which includes the Adobe Acrobat® product family, Adobe also achieved record revenue of $210.2 million during the quarter.
+[/TABLE]
+
+[TABLE]
+• | Adobe Marketing Cloud achieved record quarterly revenue of $220.4 million, which represents 32 percent year-over-year growth.
+[/TABLE]
+
+A reconciliation between GAAP and non-GAAP results is provided at the end of this press release.
+Fiscal Year 2012 Financial Highlights 
+
+[TABLE]
+• | Adobe achieved record revenue of $4.404 billion. Annual GAAP diluted earnings per share for fiscal 2012 were $1.66, and annual non-GAAP diluted earnings per share were $2.35.
+[/TABLE]
+
+[TABLE]
+• | Annual operating income was $1.180 billion and net income was $833 million on a GAAP basis. Annual operating income was $1.597 billion and net income was $1.183 billion on a non-GAAP basis.
+[/TABLE]
+
+[TABLE]
+• | Adobe generated $1.5 billion in cash flow during the year.
+[/TABLE]
+
+[TABLE]
+• | Creative Cloud paid subscriptions grew to 326,000 as of the end of the year, with exiting annualized recurring revenue of $153 million for the Creative business.
+[/TABLE]
+
+[TABLE]
+• | Document Services achieved record annual revenue of $786 million.
+[/TABLE]
+
+[TABLE]
+• | Adobe Marketing Cloud achieved a record $777 million in reported annual revenue, representing 35 percent year-over-year growth.
+[/TABLE]
+
+[TABLE]
+• | The company repurchased 11.5 million shares during the year, returning approximately $372 million of cash to stockholders.
+[/TABLE]
+
+Executive Quotes
+“We beat our Creative Cloud subscription goals and established Adobe Marketing Cloud as the leader in the exploding category of Digital Marketing during fiscal 2012,” said Shantanu Narayen, president and chief executive officer, Adobe. “In fiscal 2013 we intend to accelerate our pace of innovation, and drive integration between Creative Cloud and Adobe Marketing Cloud.”
+ “We're driving migration to a subscription model in our Creative business faster than we predicted a year ago, and we are confident fiscal 2013 will be the pivotal year for the transition,” said Mark Garrett, executive vice president and chief financial officer, Adobe. “This will yield a stronger, more predictable recurring revenue model with higher long-term revenue growth.”
+Adobe to Webcast Earnings Conference Call
+Adobe will webcast its fourth quarter and fiscal year 2012 earnings conference call today at 2:00 p.m. Pacific Time from its investor relations website: 
+www.adobe.com/ADBE
+. The company will discuss financial targets for the first quarter of fiscal 2013 as well as fiscal year 2013 on its Q4 and FY2012 earnings call. A copy of Adobe management's prepared remarks, including financial targets and conference call slides, has been posted to Adobe's investor relations website in advance of the conference call for reference.
+A reconciliation between GAAP and non-GAAP financial targets is also provided on the website.
+Forward-Looking Statements Disclosure
+This press release contains forward-looking statements, including those related to the transition of our business as we migrate to a subscription model, increases in recurring revenue, long-term revenue growth and our ability to continue to innovate and execute against our strategy in our key growth areas and drive integration between those areas, which involve risks and uncertainties that could cause actual results to differ materially. Factors that might cause or contribute to such differences include, but are not limited to: failure to develop, market and distribute products and services that meet customer requirements, introduction of new products and business models by competitors, failure to successfully manage transitions to new business models and markets, including our increased emphasis on a cloud and subscription strategy, fluctuations in subscription renewal or upgrade rates, continued uncertainty in economic conditions and the financial markets, difficulty in predicting revenue from new businesses and the potential impact on our financial results from changes in our business models, and failure to realize the anticipated benefits of past or future acquisitions.
+For a discussion of these and other risks and uncertainties, please refer to Adobe's Annual Report on Form 10-K for the fiscal year ended December 2, 2011 and its Quarterly Reports on Form 10-Q for the fiscal quarters ended March 2, 2012, June 1, 2012 and Aug. 31, 2012.
+The financial information set forth in this press release reflects estimates based on information available at this time. These amounts could differ from actual reported amounts stated in Adobe's Annual Report on Form 10-K for our year ended Nov. 30, 2012, which Adobe expects to file in Jan. 2013.
+Adobe assumes no obligation to, and does not currently intend to, update these forward-looking statements.
+About Adobe Systems Incorporated
+Adobe is changing the world through digital experiences. For more information, visit 
+www.adobe.com
+.
+###
+© 2012 Adobe Systems Incorporated. All rights reserved. Adobe, the Adobe logo, Creative Cloud and Acrobat are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. All other trademarks are the property of their respective owners.
+2
+Condensed Consolidated Statements of Income 
+(In thousands, except per share data; unaudited)
+
+[TABLE]
+Three Months Ended | Year Ended
+November 30, 2012 | December 2, 2011 | November 30, 2012 | December 2, 2011
+Revenue:
+Products | 852,843 | 931,895 | 3,342,843 | 3,416,483
+Subscription | 194,537 | 128,437 | 673,206 | 458,634
+Services and support | 106,048 | 91,829 | 387,628 | 341,141
+Total revenue | 1,153,428 | 1,152,161 | 4,403,677 | 4,216,258
+Cost of revenue:
+Products | 28,687 | 34,048 | 121,663 | 125,640
+Subscription | 59,308 | 51,334 | 219,102 | 194,033
+Services and support | 36,983 | 30,997 | 143,017 | 118,200
+Total cost of revenue | 124,978 | 116,379 | 483,782 | 437,873
+Gross profit | 1,028,450 | 1,035,782 | 3,919,895 | 3,778,385
+Operating expenses:
+Research and development | 195,047 | 195,403 | 742,823 | 738,053
+Sales and marketing | 402,181 | 368,330 | 1,516,159 | 1,385,822
+General and administrative | 111,449 | 119,586 | 434,982 | 414,605
+Restructuring and other related charges | (275 | 94,502 | (2,917 | 97,773
+Amortization of purchased intangibles | 12,283 | 11,830 | 48,657 | 42,833
+Total operating expenses | 720,685 | 789,651 | 2,739,704 | 2,679,086
+Operating income | 307,765 | 246,131 | 1,180,191 | 1,099,299
+Non-operating income (expense):
+Interest and other income (expense), net | (718 | (1,351 | (3,414 | (2,974
+Interest expense | (16,767 | (16,774 | (67,487 | (66,952
+Investment gains (losses), net | 351 | 5,174 | 9,504 | 5,857
+Total non-operating income (expense), net | (17,134 | (12,951 | (61,397 | (64,069
+Income before income taxes | 290,631 | 233,180 | 1,118,794 | 1,035,230
+Provision for income taxes | 68,298 | 59,461 | 286,019 | 202,383
+Net income | 222,333 | 173,719 | 832,775 | 832,847
+Basic net income per share | 0.45 | 0.35 | 1.68 | 1.67
+Shares used to compute basic net income per share | 494,906 | 491,523 | 494,731 | 497,469
+Diluted net income per share | 0.44 | 0.35 | 1.66 | 1.65
+Shares used to compute diluted net income per share | 502,154 | 496,288 | 502,721 | 503,921
+[/TABLE]
+
+3
+Condensed Consolidated Balance Sheets 
+(In thousands, except par value; unaudited)
+
+[TABLE]
+November 30, 2012 | December 2, 2011
+ASSETS
+Current assets:
+Cash and cash equivalents | 1,425,052 | 989,500
+Short-term investments | 2,113,301 | 1,922,192
+Trade receivables, net of allowances for doubtful accounts of $12,643 and $15,080, respectively | 617,233 | 634,373
+Deferred income taxes | 59,537 | 91,963
+Prepaid expenses and other current assets | 116,237 | 133,423
+Total current assets | 4,331,360 | 3,771,451
+Property and equipment, net | 664,302 | 527,828
+Goodwill | 4,133,259 | 3,849,217
+Purchased and other intangibles, net | 545,036 | 545,526
+Investment in lease receivable | 207,239 | 207,239
+Other assets | 93,327 | 89,922
+Total assets | 9,974,523 | 8,991,183
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Trade payables | 49,759 | 86,660
+Accrued expenses | 590,140 | 554,941
+Capital lease obligations | 11,217 | 9,212
+Accrued restructuring | 9,287 | 80,930
+Income taxes payable | 49,886 | 42,634
+Deferred revenue | 561,463 | 476,402
+Total current liabilities | 1,271,752 | 1,250,779
+Long-term liabilities:
+Debt and capital lease obligations | 1,496,938 | 1,505,096
+Deferred revenue | 58,102 | 55,303
+Accrued restructuring | 12,263 | 7,449
+Income taxes payable | 155,096 | 156,958
+Deferred income taxes | 265,106 | 181,602
+Other liabilities | 50,084 | 50,883
+Total liabilities | 3,309,341 | 3,208,070
+Stockholders' equity:
+Preferred stock, $0.0001 par value; 2,000 shares authorized | — | —
+Common stock, $0.0001 par value | 61 | 61
+Additional paid-in-capital | 3,038,665 | 2,753,896
+Retained earnings | 7,003,003 | 6,528,735
+Accumulated other comprehensive income | 30,712 | 29,950
+Treasury stock, at cost (106,702 and 109,294 shares, respectively), net of reissuances | (3,407,259 | (3,529,529
+Total stockholders' equity | 6,665,182 | 5,783,113
+Total liabilities and stockholders' equity | 9,974,523 | 8,991,183
+[/TABLE]
+
+4
+Condensed Consolidated Statements of Cash Flows
+(In thousands; unaudited)
+
+[TABLE]
+Three Months Ended
+November 30, 2012 | December 2, 2011
+Cash flows from operating activities:
+Net income | 222,333 | 173,719
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion | 78,621 | 73,290
+Stock-based compensation expense | 73,535 | 72,527
+Unrealized investment gains | (281 | (5,811
+Changes in deferred revenue | 59,232 | 47,399
+Changes in other operating assets and liabilities | 40,219 | 135,629
+Net cash provided by operating activities | 473,659 | 496,753
+Cash flows from investing activities:
+Purchases, sales and maturities of short-term investments, net | (33,250 | 18,826
+Purchases of property and equipment | (81,789 | (74,897
+Purchases of long-term investments, intangibles and other assets, net of sales | (14,436 | (51,684
+Acquisitions, net of cash | — | (151,925
+Net cash used for investing activities | (129,475 | (259,680
+Cash flows from financing activities:
+Purchases of treasury stock | (100,000 | —
+Reissuance of treasury stock | 19,089 | 1,191
+Repayment of debt and capital lease obligations | (2,985 | (2,243
+Excess tax benefits from stock-based compensation | 3,477 | 853
+Net cash used for financing activities | (80,419 | (199
+Effect of exchange rate changes on cash and cash equivalents | (1,093 | (16,586
+Net increase in cash and cash equivalents | 262,672 | 220,288
+Cash and cash equivalents at beginning of period | 1,162,380 | 769,212
+Cash and cash equivalents at end of period | 1,425,052 | 989,500
+[/TABLE]
+
+5
+Non-GAAP Results
+(In thousands, except per share data)
+The following tables show Adobe's GAAP results reconciled to non-GAAP results included in this release.
+
+[TABLE]
+Three Months Ended | Year Ended
+November 30, 2012 | December 2, 2011 | August 31, 2012 | November 30, 2012 | December 2, 2011
+Operating income:
+GAAP operating income | 307,765 | 246,131 | 278,304 | 1,180,191 | 1,099,299
+Stock-based and deferred compensation expense | 76,248 | 75,450 | 80,682 | 300,277 | 286,048
+Restructuring and other related charges | (275 | 94,502 | 2,374 | (2,917 | 97,773
+Amortization of purchased intangibles | 30,912 | 28,444 | 30,410 | 119,890 | 104,005
+Non-GAAP operating income | 414,650 | 444,527 | 391,770 | 1,597,441 | 1,587,125
+Net income:
+GAAP net income | 222,333 | 173,719 | 201,357 | 832,775 | 832,847
+Stock-based and deferred compensation expense | 76,248 | 75,450 | 80,682 | 300,277 | 286,048
+Restructuring and other related charges | (275 | 94,502 | 2,374 | (2,917 | 97,773
+Amortization of purchased intangibles | 30,912 | 28,444 | 30,410 | 119,890 | 104,005
+Investment (gains) losses | (351 | (5,174 | (944 | (9,504 | (5,857
+Income tax adjustments | (20,962 | (34,347 | (22,685 | (57,290 | (131,400
+Non-GAAP net income | 307,905 | 332,594 | 291,194 | 1,183,231 | 1,183,416
+Diluted net income per share:
+GAAP diluted net income per share | 0.44 | 0.35 | 0.40 | 1.66 | 1.65
+Stock-based and deferred compensation expense | 0.15 | 0.15 | 0.16 | 0.60 | 0.57
+Restructuring and other related charges | — | 0.19 | — | (0.01 | 0.19
+Amortization of purchased intangibles | 0.06 | 0.06 | 0.06 | 0.24 | 0.21
+Investment (gains) losses | — | (0.01 | — | (0.02 | (0.01
+Income tax adjustments | (0.04 | (0.07 | (0.04 | (0.12 | (0.26
+Non-GAAP diluted net income per share | 0.61 | 0.67 | 0.58 | 2.35 | 2.35
+Shares used in computing diluted net income per share | 502,154 | 496,288 | 499,757 | 502,721 | 503,921
+[/TABLE]
+
+6
+Non-GAAP Results (continued)
+(In thousands, except percentages)
+
+[TABLE]
+Three Months Ended | Year Ended
+November 30, 2012 | December 2, 2011 | August 31, 2012 | November 30, 2012 | December 2, 2011
+Operating expenses:
+GAAP operating expenses | 720,685 | 789,651 | 682,655 | 2,739,704 | 2,679,086
+Stock-based and deferred compensation expense | (70,658 | (71,435 | (75,762 | (280,746 | (270,268
+Restructuring and other related charges | 275 | (94,502 | (2,374 | 2,917 | (97,773
+Amortization of purchased intangibles | (12,283 | (11,830 | (12,331 | (48,657 | (42,833
+Non-GAAP operating expenses | 638,019 | 611,884 | 592,188 | 2,413,218 | 2,268,212
+[/TABLE]
+
+[TABLE]
+Three Months Ended
+November 30, 2012
+Effective income tax rate:
+GAAP effective income tax rate | 23.5
+Stock-based and deferred compensation expense | (0.7
+Amortization of purchased intangibles | (0.3
+Non-GAAP effective income tax rate | 22.5
+[/TABLE]
+
+Adobe continues to provide all information required in accordance with GAAP, but believes evaluating its ongoing operating results may not be as useful if an investor is limited to reviewing only GAAP financial measures. Accordingly, Adobe uses non-GAAP financial information to evaluate its ongoing operations and for internal planning and forecasting purposes. Adobe's management does not itself, nor does it suggest that investors should, consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Adobe presents such non-GAAP financial measures in reporting its financial results to provide investors with an additional tool to evaluate Adobe's operating results in a manner that focuses on what Adobe believes to be its ongoing business operations. Adobe's management believes it is useful for itself and investors to review, as applicable, both GAAP information that includes the stock-based and deferred compensation expenses, restructuring charges, amortization of purchased intangibles, investment gains and losses and the related tax impact of all of these items, income tax adjustments, the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes, and the non-GAAP measures that exclude such information in order to assess the performance of Adobe's business and for planning and forecasting in subsequent periods. Whenever Adobe uses such a non-GAAP financial measure, it provides a reconciliation of the non-GAAP financial measure to the most closely applicable GAAP financial measure. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measure as detailed above.
+7

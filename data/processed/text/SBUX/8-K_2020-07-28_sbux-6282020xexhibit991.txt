@@ -1,0 +1,682 @@
+EX-99.1
+
+2
+
+sbux-6282020xexhibit991.htm
+
+EX-99.1
+
+Document
+Exhibit 99.1
+Starbucks Reports Q3 Fiscal 2020 Results
+Q3 Consolidated Net Revenues of $4.2 Billion, Down 38% from Prior Year Due to Adverse Impact of COVID-19 
+Q3 GAAP EPS of -$0.58; Non-GAAP EPS of -$0.46 Reflecting Material Sales Deleverage and Retail Partner Support
+COVID-19 Impacts Expected to Moderate Meaningfully in Q4 as Recovery Continues
+SEATTLE; July 28, 2020 – Starbucks Corporation (NASDAQ: SBUX) today reported financial results for its 13-week fiscal third quarter ended June 28, 2020. GAAP results in fiscal 2020 and fiscal 2019 include items that are excluded from non-GAAP results. Please refer to the reconciliation of GAAP measures to non-GAAP measures at the end of this release for more information.
+“Since the beginning of the COVID-19 outbreak in January, we have taken a principled approach to navigate the crisis, true to our mission and values. Every step of the way, we have thoughtfully addressed the needs of Starbucks stakeholders and are particularly proud of the industry-leading investments we have made to support our partners while creating a safe, familiar and convenient experience for our customers. Starbucks partners have risen to the occasion, and our near-term focus is to recover sales safely and responsibly by offering our customers the comfort and care that differentiate the 
+Starbucks Experience
+,” said Kevin Johnson, president and ceo.
+“We are pleased to share that the vast majority of Starbucks stores around the world have reopened and our global business is steadily recovering, demonstrating the relevance of the Starbucks brand and the trust we have built with our customers. As we continue to drive the recovery, we are also building resilience for the future by accelerating the transformation of our business in ways that will elevate the customer and partner experience and drive long-term growth. We firmly believe that we are well positioned to regain the positive business momentum we had before the pandemic began and look forward to reigniting our 'Growth at Scale' agenda,” concluded Johnson.
+Q3 Fiscal 2020 Highlights
+•
+Global comparable store sales declined 40%, driven by a 51% decrease in comparable transactions, partially offset by a 23% increase in average ticket
+◦
+Americas comparable store sales declined 41%, driven by a 53% decrease in comparable transactions, partially offset by a 27% increase in average ticket; U.S. comparable store sales were down 40%, with comparable transactions down 52%, partially offset by a 25% increase in average ticket
+◦
+International comparable store sales were down 37%, driven by a 44% decline in comparable transactions, slightly offset by a 13% increase in average ticket; China comparable store sales were down 19%, with comparable transactions down 27%, slightly offset by a 10% increase in average ticket; International and China comparable store sales are inclusive of a benefit from value-added tax exemptions of approximately 2% and 4%, respectively 
+•
+The company opened 130 net new stores in Q3, yielding 5% year-over-year unit growth, ending the period with 32,180 stores globally, of which 51% and 49% were company-operated and licensed, respectively
+◦
+Stores in the U.S. and China comprised 61% of the company’s global portfolio at the end of Q3, with 15,243 and 4,447 stores, respectively
+•
+Consolidated net revenues of $4.2 billion declined 38% from the prior year primarily due to lost sales related to the COVID-19 outbreak
+◦
+Lost sales of approximately $3.1 billion relative to the company’s expectations before the outbreak included the effects of temporary store closures, modified operations, reduced hours and reduced customer traffic
+(1)
+•
+GAAP operating margin of -16.7%, down from 16.4% in the prior year primarily due to the COVID-19 outbreak, mainly sales deleverage, material investments in retail partner support and other items; GAAP operating margin was also adversely impacted by restructuring activities primarily associated with the U.S. store portfolio optimization
+◦
+Non-GAAP operating margin of -12.6%, down from 18.3% in the prior year
+•
+GAAP loss per share of $0.58, down from earnings per share of $1.12 in the prior year primarily due to unfavorable impacts related to the COVID-19 outbreak totaling approximately -$1.20 per share
+(1) (2)
+◦
+Non-GAAP loss per share of $0.46, down from earnings per share of $0.78 in the prior year
+•
+Starbucks® Rewards loyalty program 90-day active members in the U.S. declined to 16.3 million, down 5% 
+2
+year-over-year due to reduced customer frequency primarily attributable to temporary store closures and other impacts related to the COVID-19 outbreak
+(1) 
+In this release, we estimate the impact of COVID-19 by comparing actual results to our previous forecasts. These forecasts were created prior to the spread of the virus and were based on information available at the time and on a variety of assumptions which we believe were reasonable, some or all of which may prove not to be accurate. 
+(2) 
+ In this release, the EPS impact of COVID-19 represents an approximation based on the estimated impact of the pandemic on operating results. It does not incorporate any impacts of COVID-19 on non-operating items, such as interest income, interest expense, income taxes and outstanding shares.
+Q3 Americas Segment Results
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Jun 28, 2020 | Jun 30, 2019
+Comparable Store Sales Growth (1) | (41)% | 7%
+Change in Transactions | (53)% | 3%
+Change in Ticket | 27% | 4%
+Store Count | 18,235 | 17,853 | 2%
+Revenues | $2,805.5 | $4,681.1 | (40)%
+Operating Income/(Loss) | ($404.9) | $1,018.7 | (140)%
+Operating Margin | (14.4)% | 21.8% | (3,620) bps
+(1) Includes only Starbucks ® company-operated stores open 13 months or longer. Comparable store sales exclude the effects of fluctuations in foreign currency exchange rates and Siren Retail stores. Stores that are temporarily closed or operating at reduced hours due to the COVID-19 outbreak remain in comparable store sales while stores identified for permanent closure have been removed.
+[/TABLE]
+
+Net revenues for the Americas segment of $2.8 billion in Q3 FY20 were 40% lower relative to Q3 FY19, primarily due to a 41% decrease in comparable store sales as well as lower product sales to and royalty revenues from our licensees as a result of lost sales related to the COVID-19 outbreak. These decreases were slightly offset by 382 net new store openings, or 2% store growth, over the past 12 months.
+The Americas segment reported an operating loss of $404.9 million in Q3 FY20, compared to operating income of $1.0 billion in Q3 FY19. Operating margin of -14.4% contracted 3,620 basis points, primarily due to the impact of the COVID-19 outbreak, mainly sales deleverage and additional costs incurred, including catastrophe wages, enhanced pay programs and benefits in support of retail store partners as well as store safety items, partially offset by temporary government subsidies. Higher expenses relating to our U.S. store portfolio optimization also contributed to the operating loss in the quarter.
+3
+Q3 International Segment Results
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Jun 28, 2020 | Jun 30, 2019
+Comparable Store Sales Growth (1) | (37)% | 5%
+Change in Transactions | (44)% | 1%
+Change in Ticket | 13% | 3%
+Store Count | 13,945 | 12,773 | 9%
+Revenues | $949.6 | $1,585.3 | (40)%
+Operating Income/(Loss) | ($86.0) | $270.2 | (132)%
+Operating Margin | (9.1)% | 17.0% | (2,610) bps
+(1) Includes only Starbucks® company-operated stores open 13 months or longer. Comparable store sales exclude the effects of fluctuations in foreign currency exchange rates and Siren Retail stores. Stores that are temporarily closed or operating at reduced hours due to the COVID-19 outbreak remain in comparable store sales while stores identified for permanent closure have been removed. Comparable store sales include a 2% benefit related to a temporary value-added tax exemption in China.
+[/TABLE]
+
+Net revenues for the International segment of $949.6 million in Q3 FY20 were 40% lower relative to Q3 FY19, primarily due to a 37% decrease in comparable store sales as well as lower product sales to our international licensees as a result of lost sales related to the COVID-19 outbreak and temporary royalty relief granted to international licensees. Also contributing to the decrease was the 2% revenue-dilutive impact of converting Thailand to a fully licensed market in FY19. These decreases were partially offset by 1,172 net new store openings, or 9% store growth, over the past 12 months.
+The International segment reported an operating loss of $86.0 million in Q3 FY20 compared to operating income of $270.2 million in Q3 FY19. Operating margin contracted 2,610 basis points to -9.1%,
+
+primarily due to the impact of the COVID-19 outbreak, mainly sales deleverage, royalty relief granted to international licensees and additional costs incurred including catastrophe wages, partially offset by temporary government subsidies and rent concessions. 
+Q3 Channel Development Segment Results
+
+[TABLE]
+Quarter Ended | Change (%)
+($ in millions) | Jun 28, 2020 | Jun 30, 2019
+Revenues | $447.3 | $533.3 | (16)%
+Operating Income | $124.2 | $181.9 | (32)%
+Operating Margin | 27.8% | 34.1% | (630) bps
+[/TABLE]
+
+Net revenues for the Channel Development segment of $447.3 million in Q3 FY20 were 16% lower relative to Q3 FY19, primarily driven by an approximately 21% unfavorable impact of Global Coffee Alliance transition-related activities, inclusive of lapping higher inventory sales in the prior year as Nestlé prepared to fulfill customer orders. Given Channel Development’s at-home coffee offerings in grocery stores, at mass merchants and online, the COVID-19 outbreak did not materially disrupt the segment's overall revenue in Q3 FY20.
+Operating income decreased 32% to $124.2 million in Q3 FY20, down from $181.9 million in Q3 FY19. Operating margin contracted 630 basis points to 27.8%, primarily driven by certain transition items related to the Global Coffee Alliance, partially offset by a business mix shift as we lapped higher inventory sales in the prior year as Nestlé prepared to fulfill customer orders.
+4
+Global Store Status
+Since the peak of widespread store closures in response to the COVID-19 outbreak across our global markets in April, the vast majority of Starbucks company-operated stores in both the Americas and International segments had reopened by the end of Q3 FY20, most with modified store hours and limited seating. Today, approximately 97% of our global company-operated store portfolio is open, led by 96% in the U.S. and 99% in China, as well as 99% in Japan and 97% in Canada. Currently, approximately 87% of our global licensed store portfolio is open, with remaining temporary closures predominantly in airport, college and university locations within the U.S. and Canadian licensed store portfolios. 
+Fiscal 2020 Guidance
+The company provides the following fiscal 2020 guidance for Q4 and the full year, including updates to certain targets previously discussed in its Form 8-K dated June 10, 2020. The company continues to expect the adverse impacts of the COVID-19 outbreak to moderate meaningfully in Q4 FY20.
+•
+Global comparable store sales declines of 12% to 17% for each of Q4 and full year
+•
+Americas and U.S. comparable store sales declines of 12% to 17% for each of Q4 and full year
+▪
+(
+previously declines of 10% to 20% for each of Q4 and full year
+)
+•
+International comparable store sales declines of 10% to 15% for Q4 and 20% to 25% for full year inclusive of a benefit from value-added tax exemption of approximately 3% and 1%, respectively
+▪
+(
+previously declines of 10% to 20% for Q4 and 20% to 30% for full year
+)
+◦
+China comparable store sales roughly flat to -5% for Q4 and a decline of 15% to 20% for full year, inclusive of a benefit from value-added tax exemption of approximately 4% and 2%, respectively 
+▪
+(
+previously roughly flat by the end of Q4 and a decline of 10% to 20% for full year
+)
+•
+Americas approximately 300 net new stores
+•
+China at least 500 net new stores
+•
+Consolidated revenue decline of 10% to 15% for Q4
+◦
+Channel Development revenue decline of 5% to 6% for full year
+•
+Interest expense of approximately $435 million to $445 million
+•
+GAAP and non-GAAP effective tax rates in the range of mid- to high-20%s
+•
+GAAP EPS in the range of $0.06 to $0.21 for Q4 and $0.50 to $0.65 for full year 
+▪
+(
+previously $0.11 to $0.36 for Q4 and $0.33 to $0.73 for full year
+)
+◦
+Non-GAAP EPS in the range of $0.18 to $0.33 for Q4 and $0.83 to $0.98 for full year 
+▪
+(
+previously $0.15 to $0.40 for Q4 and $0.55 to $0.95 for full year
+)
+•
+Capital expenditures of approximately $1.5 billion
+All guidance for the metrics noted above is for Q4 FY20 and fiscal year 2020, and growth metrics are relative to Q4 FY19 and fiscal year 2019. Please note, the guidance provided above is dependent on our current expectations which may be impacted by evolving, external conditions and local safety guidelines.
+Please refer to the reconciliation of GAAP measures to non-GAAP measures at the end of this release.
+The company will provide additional information regarding its business outlook during its regularly scheduled
+quarterly earnings conference call today; this information will also be available following the call on the company’s website at 
+http://investor.starbucks.com
+.
+5
+Company Updates
+1.
+Beginning in May, the company outlined that it would accelerate the transformation of the Americas store portfolio by expanding convenience-led formats with curbside delivery and Starbucks® Pickup locations. The company plans to launch curbside pickup in several hundred existing locations in the near future and add over 50 Starbucks Pickup locations in the next 12 to 18 months. Both formats naturally allow for mobile ordering and physical distancing to meet evolving customer preferences that have accelerated because of COVID-19. 
+2.
+In May, the company executed a $3 billion bond issuance, taking advantage of the favorable interest rate environment to secure additional liquidity to cover medium-term operating cash needs while also prefunding fiscal 2021 bond maturities.
+3.
+In June, the company announced the U.S. launch of the Impossible™ Breakfast Sandwich featuring a plant-based sausage patty. This new menu offering joins its plant-based milk alternatives. As part of the company’s aspiration to be resource-positive and to meet increasing customer demand, Starbucks will continue to introduce plant-based choices as it expands its environmentally friendly menu.
+4.
+In July, the company announced plans to update its industry-leading Starbucks® Rewards loyalty program by giving members more payment options and ways to earn Stars through the Starbucks app. Beginning this fall in company-operated stores in the U.S. and Canada, new and current Starbucks Rewards members will be able to pay with cash, credit/debit cards or select mobile wallets and earn Stars toward free items, without having to preload a Starbucks card within the app. 
+5.
+The Board of Directors declared a cash dividend of $0.41 per share, payable on August 21, 2020, to shareholders of record as of August 7, 2020.
+Conference Call
+Starbucks will hold a conference call today at 2:00 p.m. Pacific Time, which will be hosted by Kevin Johnson, president and ceo, and Patrick Grismer, cfo. The call will be webcast and can be accessed at 
+http://investor.starbucks.com
+. A replay of the webcast will be available until end of day Friday, August 28, 2020.
+About Starbucks
+Since 1971, Starbucks Coffee Company has been committed to ethically sourcing and roasting high-quality 
+arabica
+ coffee. Today, with more than 32,000 stores around the globe, the company is the premier roaster and retailer of specialty coffee in the world. Through our unwavering commitment to excellence and our guiding principles, we bring the unique 
+Starbucks Experience
+ to life for every customer through every cup. To share in the experience, please visit us in our stores or online at 
+stories.starbucks.com
+ or 
+www.starbucks.com
+. 
+Forward-Looking Statements 
+Certain statements contained herein and in our investor conference call related to these results are “forward-looking” statements within the meaning of the applicable securities laws and regulations. Generally, these statements can be identified by the use of words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecast,” “intend,” “may,” “outlook,” “plan,” “potential,” “predict,” “project,” “remain,” “should,” “will,” “would,” and similar expressions intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. These statements include statements relating to: the estimated financial impact related to the outbreak of coronavirus disease (COVID-19) including the outlook, guidance and projections for revenues, earnings per share, operating income, operating margins, comparable store sales, net new stores, capital expenditures, interest expense, quarterly and fiscal 2020 guidance; the nature and extent of the impact of COVID-19 on our business, operations and financial results; the anticipated timing and effects of recovery of our business; our plans for streamlining our operations, including store openings, closures and changes in store formats and models; our ability to continue steady business improvement and improve customer and partner experiences; and our ability to emerge from 
+6
+this global crisis and drive long-term growth. These forward-looking statements do not represent historical data, are based on currently available operating, financial and competitive information and are subject to a number of significant risks and uncertainties. Actual future results and trends may differ materially depending on a variety of factors, including, but not limited to: further spread of COVID-19; regulatory measures or voluntary actions that may be put in place to limit the spread of COVID-19, including restrictions on business operations or social distancing requirements, and the duration and efficacy of such restrictions; the potential for a resurgence of COVID-19 infections in a given geographic region after it has hit its “peak”; fluctuations in U.S. and international economies and currencies; our ability to preserve, grow and leverage our brands; the ability of our business partners and third-party providers to fulfill their responsibilities and commitments; potential negative effects of incidents involving food or beverage-borne illnesses, tampering, adulteration, contamination or mislabeling; potential negative effects of material breaches of our information technology systems to the extent we experience a material breach; material failures of our information technology systems; costs associated with, and the successful execution of, the company’s initiatives and plans, including the integration of the East China business and the successful expansion of our Global Coffee Alliance with Nestlé; our ability to obtain financing on acceptable terms; the acceptance of the company’s products by our customers, evolving consumer preferences and tastes and the availability of consumer financing; changes in the availability and cost of labor; the impact of competition; inherent risks of operating a global business; the prices and availability of coffee, dairy and other raw materials; the effect of legal proceedings; and the effects of changes in tax laws and related guidance and regulations that may be implemented and other risks detailed in the company filings with the Securities and Exchange Commission, including the “Risk Factors” sections of Starbucks Annual Report on Form 10-K for the fiscal year ended September 29, 2019 and Starbucks Quarterly Report on Form 10-Q for the fiscal quarter ended March 29, 2020. The company assumes no obligation to update any of these forward-looking statements.
+Non-GAAP Financial Measures
+Certain non-GAAP measures included in our press release and in our investor conference call related to these results were not reconciled to the comparable GAAP financial measures because the GAAP measures are not accessible on a forward-looking basis. The company is unable to reconcile these forward-looking non-GAAP financial measures to the most directly comparable GAAP measures without unreasonable efforts because the company is currently unable to predict with a reasonable degree of certainty the type and extent of certain items that would be expected to impact GAAP measures for these periods but would not impact the non-GAAP measures. Such items may include acquisitions, divestitures, restructuring and other items. The unavailable information could have a significant impact on the company’s GAAP financial results.
+Contacts:
+
+[TABLE]
+Starbucks Contact, Investor Relations: | Starbucks Contact, Media:
+Durga Doraisamy | Reggie Borges
+206-318-7118 | 206-318-7100
+investorrelations@starbucks.com | press@starbucks.com
+[/TABLE]
+
+7
+STARBUCKS CORPORATION 
+CONSOLIDATED STATEMENTS OF EARNINGS
+
+(unaudited, in millions, except per share data)
+
+[TABLE]
+Quarter Ended | Quarter Ended
+Jun 28, 2020 | Jun 30, 2019 | % Change | Jun 28, 2020 | Jun 30, 2019
+As a % of total net revenues
+Net revenues:
+Company-operated stores | 3,444.4 | 5,535.0 | (37.8) | 81.6 | 81.1
+Licensed stores | 300.5 | 725.0 | (58.6) | 7.1 | 10.6
+Other | 477.2 | 563.0 | (15.2) | 11.3 | 8.3
+Total net revenues | 4,222.1 | 6,823.0 | (38.1) | 100.0 | 100.0
+Product and distribution costs (1) | 1,484.0 | 2,199.6 | (32.5) | 35.1 | 32.2
+Store operating expenses | 2,537.8 | 2,643.2 | (4.0) | 60.1 | 38.7
+Other operating expenses | 133.6 | 94.4 | 41.5 | 3.2 | 1.4
+Depreciation and amortization expenses | 361.0 | 343.1 | 5.2 | 8.6 | 5.0
+General and administrative expenses | 399.9 | 459.7 | (13.0) | 9.5 | 6.7
+Restructuring and impairments | 78.1 | 37.7 | 107.2 | 1.8 | 0.6
+Total operating expenses | 4,994.4 | 5,777.7 | (13.6) | 118.3 | 84.7
+Income from equity investees | 68.4 | 76.0 | (10.0) | 1.6 | 1.1
+Operating income/(loss) | (703.9) | 1,121.3 | (162.8) | (16.7) | 16.4
+Net gain resulting from divestiture of certain operations | — | 601.8 | nm | — | 8.8
+Interest income and other, net | 12.7 | 40.2 | (68.4) | 0.3 | 0.6
+Interest expense | (120.8) | (86.4) | 39.8 | (2.9) | (1.3)
+Earnings/(loss) before income taxes | (812.0) | 1,676.9 | (148.4) | (19.2) | 24.6
+Income tax expense/(benefit) | (133.9) | 303.7 | nm | (3.2) | 4.5
+Net earnings/(loss) including noncontrolling interests | (678.1) | 1,373.2 | (149.4) | (16.1) | 20.1
+Net earnings/(loss) attributable to noncontrolling interests | 0.3 | 0.4 | (25.0) | — | —
+Net earnings/(loss) attributable to Starbucks | (678.4) | 1,372.8 | (149.4) | (16.1) | 20.1
+Net earnings/(loss) per common share - diluted | (0.58) | 1.12 | (151.8)
+Weighted avg. shares outstanding - diluted | 1,168.5 | 1,223.0
+Cash dividends declared per share | 0.41 | 0.36
+Supplemental Ratios:
+Store operating expenses as a % of company-operated store revenues | 73.7 | 47.8
+Effective tax rate including noncontrolling interests | 16.5 | 18.1
+[/TABLE]
+
+(1)
+The caption "Product and distribution costs" replaced "Cost of sales" in financial statements published in periods prior to our third quarter of fiscal 2020. Besides the name change, there were no other changes in the types of costs reported within the caption.
+8
+
+[TABLE]
+Three Quarters Ended | Three Quarters Ended
+Jun 28, 2020 | Jun 30, 2019 | % Change | Jun 28, 2020 | Jun 30, 2019
+As a % of total net revenues
+Net revenues:
+Company-operated stores | 13,991.0 | 16,064.3 | (12.9) | 80.8 | 81.3
+Licensed stores | 1,782.4 | 2,140.3 | (16.7) | 10.3 | 10.8
+Other | 1,541.5 | 1,557.0 | (1.0) | 8.9 | 7.9
+Total net revenues | 17,314.9 | 19,761.6 | (12.4) | 100.0 | 100.0
+Product and distribution costs | 5,718.2 | 6,387.4 | (10.5) | 33.0 | 32.3
+Store operating expenses | 8,080.7 | 7,784.2 | 3.8 | 46.7 | 39.4
+Other operating expenses | 330.3 | 279.4 | 18.2 | 1.9 | 1.4
+Depreciation and amortization expenses | 1,068.3 | 1,032.5 | 3.5 | 6.2 | 5.2
+General and administrative expenses | 1,240.6 | 1,365.7 | (9.2) | 7.2 | 6.9
+Restructuring and impairments | 83.7 | 123.9 | (32.4) | 0.5 | 0.6
+Total operating expenses | 16,521.8 | 16,973.1 | (2.7) | 95.4 | 85.9
+Income from equity investees | 210.3 | 206.1 | 2.0 | 1.2 | 1.0
+Operating income | 1,003.4 | 2,994.6 | (66.5) | 5.8 | 15.2
+Net gain resulting from divestiture of certain operations | — | 622.8 | nm | — | 3.2
+Interest income and other, net | 30.7 | 80.2 | (61.7) | 0.2 | 0.4
+Interest expense | (312.1) | (235.3) | 32.6 | (1.8) | (1.2)
+Earnings before income taxes | 722.0 | 3,462.3 | (79.1) | 4.2 | 17.5
+Income tax expense | 190.0 | 670.1 | (71.6) | 1.1 | 3.4
+Net earnings including noncontrolling interests | 532.0 | 2,792.2 | (80.9) | 3.1 | 14.1
+Net loss attributable to noncontrolling interests | (3.7) | (4.2) | (11.9) | — | —
+Net earnings attributable to Starbucks | 535.7 | 2,796.4 | (80.8) | 3.1 | 14.2
+Net earnings per common share - diluted | 0.45 | 2.25 | (80.0)
+Weighted avg. shares outstanding - diluted | 1,182.7 | 1,242.4
+Cash dividends declared per share | 1.23 | 1.08
+Supplemental Ratios:
+Store operating expenses as a % of company-operated store revenues | 57.8 | 48.5
+Effective tax rate including noncontrolling interests | 26.3 | 19.4
+[/TABLE]
+
+9
+Segment Results (
+in millions
+)
+Americas
+
+[TABLE]
+Jun 28, 2020 | Jun 30, 2019 | % Change | Jun 28, 2020 | Jun 30, 2019
+Quarter Ended | As a % of Americas total net revenues
+Net revenues:
+Company-operated stores | 2,568.9 | 4,182.2 | (38.6) | 91.6 | 89.3
+Licensed stores | 235.5 | 496.3 | (52.5) | 8.4 | 10.6
+Other | 1.1 | 2.6 | (57.7) | — | 0.1
+Total net revenues | 2,805.5 | 4,681.1 | (40.1) | 100.0 | 100.0
+Product and distribution costs | 805.6 | 1,324.0 | (39.2) | 28.7 | 28.3
+Store operating expenses | 2,054.4 | 2,034.0 | 1.0 | 73.2 | 43.5
+Other operating expenses | 40.7 | 41.7 | (2.4) | 1.5 | 0.9
+Depreciation and amortization expenses | 191.3 | 175.6 | 8.9 | 6.8 | 3.8
+General and administrative expenses | 62.2 | 72.0 | (13.6) | 2.2 | 1.5
+Restructuring and impairments | 56.2 | 15.1 | 272.2 | 2.0 | 0.3
+Total operating expenses | 3,210.4 | 3,662.4 | (12.3) | 114.4 | 78.2
+Operating income/(loss) | (404.9) | 1,018.7 | (139.7) | (14.4) | 21.8
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 80.0 | 48.6
+Three Quarters Ended
+Net revenues:
+Company-operated stores | 10,903.5 | 12,124.0 | (10.1) | 89.8 | 89.1
+Licensed stores | 1,237.0 | 1,474.0 | (16.1) | 10.2 | 10.8
+Other | 5.8 | 9.6 | (39.6) | — | 0.1
+Total net revenues | 12,146.3 | 13,607.6 | (10.7) | 100.0 | 100.0
+Product and distribution costs | 3,442.2 | 3,895.8 | (11.6) | 28.3 | 28.6
+Store operating expenses | 6,427.3 | 5,952.8 | 8.0 | 52.9 | 43.7
+Other operating expenses | 125.1 | 125.6 | (0.4) | 1.0 | 0.9
+Depreciation and amortization expenses | 571.9 | 515.5 | 10.9 | 4.7 | 3.8
+General and administrative expenses | 202.8 | 217.9 | (6.9) | 1.7 | 1.6
+Restructuring and impairments | 61.9 | 56.2 | 10.1 | 0.5 | 0.4
+Total operating expenses | 10,831.2 | 10,763.8 | 0.6 | 89.2 | 79.1
+Operating income | 1,315.1 | 2,843.8 | (53.8) | 10.8 | 20.9
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 58.9 | 49.1
+[/TABLE]
+
+10
+International
+
+[TABLE]
+Jun 28, 2020 | Jun 30, 2019 | % Change | Jun 28, 2020 | Jun 30, 2019
+Quarter Ended | As a % of International total net revenues
+Net revenues:
+Company-operated stores | 875.5 | 1,352.8 | (35.3) | 92.2 | 85.3
+Licensed stores | 65.0 | 228.7 | (71.6) | 6.8 | 14.4
+Other | 9.1 | 3.8 | 139.5 | 1.0 | 0.2
+Total net revenues | 949.6 | 1,585.3 | (40.1) | 100.0 | 100.0
+Product and distribution costs | 337.7 | 476.1 | (29.1) | 35.6 | 30.0
+Store operating expenses | 483.4 | 609.2 | (20.7) | 50.9 | 38.4
+Other operating expenses | 37.5 | 26.7 | 40.4 | 3.9 | 1.7
+Depreciation and amortization expenses | 128.5 | 127.7 | 0.6 | 13.5 | 8.1
+General and administrative expenses | 66.1 | 86.0 | (23.1) | 7.0 | 5.4
+Restructuring and impairments | (0.2) | 16.6 | nm | — | 1.0
+Total operating expenses | 1,053.0 | 1,342.3 | (21.6) | 110.9 | 84.7
+Income from equity investees | 17.4 | 27.2 | (36.0) | 1.8 | 1.7
+Operating income/(loss) | (86.0) | 270.2 | (131.8) | (9.1) | 17.0
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 55.2 | 45.0
+Three Quarters Ended
+Net revenues:
+Company-operated stores | 3,087.5 | 3,940.3 | (21.6) | 84.5 | 85.3
+Licensed stores | 545.4 | 666.3 | (18.1) | 14.9 | 14.4
+Other | 22.4 | 12.0 | 86.7 | 0.6 | 0.3
+Total net revenues | 3,655.3 | 4,618.6 | (20.9) | 100.0 | 100.0
+Product and distribution costs | 1,213.9 | 1,408.9 | (13.8) | 33.2 | 30.5
+Store operating expenses | 1,653.4 | 1,831.4 | (9.7) | 45.2 | 39.7
+Other operating expenses | 105.1 | 84.5 | 24.4 | 2.9 | 1.8
+Depreciation and amortization expenses | 385.2 | 385.0 | 0.1 | 10.5 | 8.3
+General and administrative expenses | 196.9 | 235.5 | (16.4) | 5.4 | 5.1
+Restructuring and impairments | (0.6) | 47.2 | nm | — | 1.0
+Total operating expenses | 3,553.9 | 3,992.5 | (11.0) | 97.2 | 86.4
+Income from equity investees | 73.1 | 75.7 | (3.4) | 2.0 | 1.6
+Operating income | 174.5 | 701.8 | (75.1) | 4.8 | 15.2
+Supplemental Ratio:
+Store operating expenses as a % of company-operated store revenues | 53.6 | 46.5
+[/TABLE]
+
+11
+Channel Development
+
+[TABLE]
+Jun 28, 2020 | Jun 30, 2019 | % Change | Jun 28, 2020 | Jun 30, 2019
+Quarter Ended | As a % of Channel Development net revenues
+Net revenues | 447.3 | 533.3 | (16.1)
+Product and distribution costs | 319.9 | 377.1 | (15.2) | 71.5 | 70.7
+Other operating expenses | 51.4 | 20.2 | 154.5 | 11.5 | 3.8
+Depreciation and amortization expenses | 0.3 | 0.2 | 50.0 | 0.1 | —
+General and administrative expenses | 2.5 | 2.7 | (7.4) | 0.6 | 0.5
+Total operating expenses | 374.1 | 400.2 | (6.5) | 83.6 | 75.0
+Income from equity investees | 51.0 | 48.8 | 4.5 | 11.4 | 9.2
+Operating income | 124.2 | 181.9 | (31.7) | 27.8 | 34.1
+Three Quarters Ended
+Net revenues | 1,461.0 | 1,484.5 | (1.6)
+Product and distribution costs | 1,010.3 | 1,030.9 | (2.0) | 69.2 | 69.4
+Other operating expenses | 89.7 | 55.9 | 60.5 | 6.1 | 3.8
+Depreciation and amortization expenses | 0.9 | 12.6 | (92.9) | 0.1 | 0.8
+General and administrative expenses | 8.0 | 8.9 | (10.1) | 0.5 | 0.6
+Total operating expenses | 1,108.9 | 1,108.3 | 0.1 | 75.9 | 74.7
+Income from equity investees | 137.2 | 130.4 | 5.2 | 9.4 | 8.8
+Operating income | 489.3 | 506.6 | (3.4) | 33.5 | 34.1
+[/TABLE]
+
+12
+Corporate and Other
+
+[TABLE]
+Jun 28, 2020 | Jun 30, 2019 | % Change
+Quarter Ended
+Net revenues | 19.7 | 23.3 | (15.5)
+Product and distribution costs | 20.8 | 22.4 | (7.1)
+Other operating expenses | 4.0 | 5.8 | (31.0)
+Depreciation and amortization expenses | 40.9 | 39.6 | 3.3
+General and administrative expenses | 269.1 | 299.0 | (10.0)
+Restructuring and impairments | 22.1 | 6.0 | 268.3
+Total operating expenses | 356.9 | 372.8 | (4.3)
+Operating loss | (337.2) | (349.5) | (3.5)
+Three Quarters Ended
+Net revenues | 52.3 | 50.9 | 2.8
+Product and distribution costs | 51.8 | 51.8 | —
+Other operating expenses | 10.4 | 13.4 | (22.4)
+Depreciation and amortization expenses | 110.3 | 119.4 | (7.6)
+General and administrative expenses | 832.9 | 903.4 | (7.8)
+Restructuring and impairments | 22.4 | 20.5 | 9.3
+Total operating expenses | 1,027.8 | 1,108.5 | (7.3)
+Operating loss | (975.5) | (1,057.6) | (7.8)
+[/TABLE]
+
+Corporate and Other primarily consists of our unallocated corporate operating expenses and Evolution Fresh. 
+13
+STARBUCKS CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(unaudited, in millions, except per share data)
+
+[TABLE]
+Jun 28, 2020 | Sep 29, 2019
+ASSETS
+Current assets:
+Cash and cash equivalents | 3,965.9 | 2,686.6
+Short-term investments | 229.9 | 70.5
+Accounts receivable, net | 881.1 | 879.2
+Inventories | 1,583.8 | 1,529.4
+Prepaid expenses and other current assets | 920.3 | 488.2
+Total current assets | 7,581.0 | 5,653.9
+Long-term investments | 223.4 | 220.0
+Equity investments | 426.1 | 396.0
+Property, plant and equipment, net | 6,295.6 | 6,431.7
+Operating lease, right-of-use asset | 8,214.0 | —
+Deferred income taxes, net | 1,740.0 | 1,765.8
+Other long-term assets | 550.8 | 479.6
+Other intangible assets | 599.6 | 781.8
+Goodwill | 3,510.1 | 3,490.8
+TOTAL ASSETS | 29,140.6 | 19,219.6
+LIABILITIES AND SHAREHOLDERS' EQUITY/(DEFICIT)
+Current liabilities:
+Accounts payable | 860.8 | 1,189.7
+Accrued liabilities | 1,511.7 | 1,753.7
+Accrued payroll and benefits | 652.1 | 664.6
+Income taxes payable | 90.9 | 1,291.7
+Current portion of operating lease liability | 1,237.1 | —
+Stored value card liability and current portion of deferred revenue | 1,463.3 | 1,269.0
+Short-term debt | 936.5 | —
+Current portion of long-term debt | 1,249.6 | —
+Total current liabilities | 8,002.0 | 6,168.7
+Long-term debt | 14,645.6 | 11,167.0
+Operating lease liability | 7,653.6 | —
+Deferred revenue | 6,642.6 | 6,744.4
+Other long-term liabilities | 821.1 | 1,370.5
+Total liabilities | 37,764.9 | 25,450.6
+Shareholders’ equity/(deficit):
+Common stock ($0.001 par value) — authorized, 2,400.0 shares; issued and outstanding, 1,168.9 and 1,184.6 shares, respectively | 1.2 | 1.2
+Additional paid-in capital | 115.4 | 41.1
+Retained earnings/(deficit) | (8,208.3) | (5,771.2)
+Accumulated other comprehensive loss | (529.9) | (503.3)
+Total shareholders’ equity/(deficit) | (8,621.6) | (6,232.2)
+Noncontrolling interests | (2.7) | 1.2
+Total equity/(deficit) | (8,624.3) | (6,231.0)
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY/(DEFICIT) | 29,140.6 | 19,219.6
+[/TABLE]
+
+14
+STARBUCKS CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited and in millions)
+
+[TABLE]
+Three Quarters Ended
+Jun 28, 2020 | Jun 30, 2019
+OPERATING ACTIVITIES:
+Net earnings including noncontrolling interests | 532.0 | 2,792.2
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization | 1,124.0 | 1,083.6
+Deferred income taxes, net | 20.0 | (1,243.5)
+Income earned from equity method investees | (182.3) | (174.1)
+Distributions received from equity method investees | 165.6 | 163.7
+Net gain resulting from divestiture of certain retail operations | — | (622.8)
+Stock-based compensation | 188.0 | 255.4
+Goodwill impairments | — | 10.5
+Non-cash lease costs | 902.4 | —
+Loss on retirement and impairment of assets | 124.6 | 50.5
+Other | 63.7 | 71.8
+Cash provided by/(used in) changes in operating assets and liabilities:
+Accounts receivable | 13.4 | (70.1)
+Inventories | (51.7) | (140.5)
+Prepaid expenses and other current assets | (492.1) | 831.6
+Income taxes payable | (1,224.5) | 1,045.4
+Accounts payable | (320.3) | (15.1)
+Deferred revenue | 92.0 | (32.4)
+Operating lease liability | (918.2) | —
+Other operating assets and liabilities | 70.5 | (67.4)
+Net cash provided by operating activities | 107.1 | 3,938.8
+INVESTING ACTIVITIES:
+Purchases of investments | (297.4) | (176.3)
+Sales of investments | 133.5 | 281.7
+Maturities and calls of investments | 10.0 | 57.5
+Additions to property, plant and equipment | (1,138.4) | (1,280.7)
+Net proceeds from the divestiture of certain operations | — | 684.2
+Other | (39.4) | (72.9)
+Net cash used in investing activities | (1,331.7) | (506.5)
+FINANCING ACTIVITIES:
+Proceeds from issuance of short-term debt | 1,157.2 | —
+Repayments of short-term debt | (220.7) | —
+Proceeds from issuance of long-term debt | 4,727.6 | 1,996.0
+Repayments of long-term debt | — | (350.0)
+Proceeds from issuance of common stock | 98.9 | 358.5
+Cash dividends paid | (1,444.2) | (1,330.7)
+Repurchase of common stock | (1,698.9) | (7,972.9)
+Minimum tax withholdings on share-based awards | (89.1) | (106.1)
+Other | (37.8) | (17.6)
+Net cash provided by/(used in) financing activities | 2,493.0 | (7,422.8)
+Effect of exchange rate changes on cash and cash equivalents | 10.9 | (2.5)
+Net increase/(decrease) in cash and cash equivalents | 1,279.3 | (3,993.0)
+CASH AND CASH EQUIVALENTS:
+Beginning of period | 2,686.6 | 8,756.3
+End of period | 3,965.9 | 4,763.3
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the period for:
+Interest, net of capitalized interest | 274.3 | 219.9
+Income taxes | 1,691.1 | 126.2
+[/TABLE]
+
+15
+Supplemental Information
+The following supplemental information is provided for historical and comparative purposes. 
+U.S. Supplemental Data
+
+[TABLE]
+Quarter Ended
+($ in millions) | Jun 28, 2020 | Jun 30, 2019 | Change (%)
+Revenues | $2,621.1 | $4,288.1 | (39)%
+Comparable Store Sales Growth (1) | (40)% | 7%
+Change in Transactions | (52)% | 3%
+Change in Ticket | 25% | 3%
+Store Count | 15,243 | 14,883 | 2%
+(1) Includes only Starbucks ® company-operated stores open 13 months or longer. The results from Siren Retail operations are not reflected in comparable store sales. Comparable store sales include stores that were temporarily closed as a result of the COVID-19 outbreak and exclude stores identified for permanent closure.
+[/TABLE]
+
+China Supplemental Data
+
+[TABLE]
+Quarter Ended
+($ in millions) | Jun 28, 2020 | Jun 30, 2019 | Change (%)
+Revenues | $624.4 | $735.2 | (15)%
+Comparable Store Sales Growth (1) | (19)% | 6%
+Change in Transactions | (27)% | 2%
+Change in Ticket | 10% | 4%
+Store Count | 4,447 | 3,924 | 13%
+(1) Includes only Starbucks ® company-operated stores open 13 months or longer. Comparable store sales exclude the effects of fluctuations in foreign currency exchange rates, stores identified for permanent closure and Siren Retail stores. Comparable store sales include stores that were temporarily closed as a result of the COVID-19 outbreak, and for the third quarter of fiscal 2020, include a 4% benefit related to a temporary value-added tax exemption.
+[/TABLE]
+
+16
+Store Data
+
+[TABLE]
+Net stores opened/(closed) and transferred during the period
+Quarter Ended | Three Quarters Ended | Stores open as of
+Jun 28, 2020 | Jun 30, 2019 | Jun 28, 2020 | Jun 30, 2019 | Jun 28, 2020 | Jun 30, 2019
+Americas:
+Company-operated stores | (34) | 81 | 43 | 167 | 10,017 | 9,857
+Licensed stores | (2) | 53 | 125 | 226 | 8,218 | 7,996
+Total Americas | (36) | 134 | 168 | 393 | 18,235 | 17,853
+International:
+Company-operated stores | 117 | (233) | 394 | (5) | 6,254 | 5,646
+Licensed stores | 49 | 541 | 362 | 926 | 7,691 | 7,127
+Total International | 166 | 308 | 756 | 921 | 13,945 | 12,773
+Corporate and Other (1) :
+Licensed stores | — | — | — | (12) | — | —
+Total Corporate and Other | — | — | — | (12) | — | —
+Total Company | 130 | 442 | 924 | 1,302 | 32,180 | 30,626
+(1) Corporate and Other store data includes the closure of 12 Teavana® retail stores in the first quarter of fiscal 2019.
+[/TABLE]
+
+17
+Non-GAAP Disclosure
+In addition to the GAAP results provided in this release, the company provides certain non-GAAP financial measures that are not in accordance with, or alternatives for, generally accepted accounting principles in the United States. Our non-GAAP financial measures of non-GAAP G&A, non-GAAP operating income/(loss), non-GAAP operating income/(loss) growth, non-GAAP operating margin, non-GAAP effective tax rate and non-GAAP earnings/(loss) per share exclude the below-listed items and their related tax impacts, as they do not contribute to a meaningful evaluation of the company
+’
+s future operating performance or comparisons to the company's past operating performance. The GAAP measures most directly comparable to non-GAAP G&A, non-GAAP operating income/(loss), non-GAAP operating income/(loss) growth, non-GAAP operating margin, non-GAAP effective tax rate and non-GAAP earnings/(loss) per share are general and administrative expenses, operating income/(loss), operating income/(loss) growth, operating margin, effective tax rate and diluted net earnings/(loss) per share, respectively.
+
+[TABLE]
+Non-GAAP Exclusion | Rationale
+Gain on sale of certain retail operations | Management excludes the gains related to the sale of our retail operations in Thailand, France and the Netherlands as these items do not reflect future gains or tax impacts for reasons discussed above.
+Restructuring and impairment costs | Management excludes restructuring and impairment costs relating to the write-down of certain company-operated stores and intangible assets. Management excludes these items for reasons discussed above. These expenses are anticipated to be completed within a finite period of time.
+Transaction and integration-related costs | Management excludes transaction and integration costs and amortization of the acquired intangible assets for reasons discussed above. Additionally, the majority of these costs will be recognized over a finite period of time.
+2018 U.S. stock award | Management excludes the incremental stock-based compensation award granted in the third quarter of fiscal 2018 for reasons discussed above.
+Nestlé transaction and integration-related costs | Management excludes the transaction and integration-related costs related to the Global Coffee Alliance with Nestlé (inclusive of incremental costs to grow and develop the alliance) for reasons discussed above.
+[/TABLE]
+
+Non-GAAP G&A, non-GAAP operating income/(loss), non-GAAP operating income/(loss) growth, non-GAAP operating margin, non-GAAP effective tax rate and non-GAAP earnings/(loss) per share may have limitations as analytical tools. These measures should not be considered in isolation or as a substitute for analysis of the company
+’
+s results as reported under GAAP. Other companies may calculate these non-GAAP financial measures differently than the company does, limiting the usefulness of those measures for comparative purposes.
+Certain non-GAAP measures included in this report were not reconciled to the comparable GAAP financial measures because the GAAP measures are not accessible on a forward-looking basis. The company is unable to reconcile these forward-looking non-GAAP financial measures to the most directly comparable GAAP measures without unreasonable efforts because the company is currently unable to predict with a reasonable degree of certainty the type and extent of certain items that would be expected to impact GAAP measures for these periods but would not impact the non-GAAP measures. Such items may include acquisitions, divestitures, restructuring and other items. The unavailable information could have a significant impact on the company’s GAAP financial results.
+18
+STARBUCKS CORPORATION
+RECONCILIATION OF SELECTED GAAP MEASURES TO NON-GAAP MEASURES
+(unaudited)
+
+[TABLE]
+($ in millions) | Quarter Ended
+Consolidated | Jun 28, 2020 | Jun 30, 2019 | Change
+General and administrative expenses, as reported (GAAP) | 399.9 | 459.7 | (13.0)%
+Restructuring and impairment costs (1) | (0.1) | 0.4
+International transaction and integration-related items (2) | (3.3) | (10.5)
+2018 U.S. stock award (3) | — | (14.4)
+Nestlé transaction and integration-related costs (5) | — | (0.8)
+Non-GAAP G&A | 396.5 | 434.4 | (8.7)%
+Non-GAAP G&A as a % of total net revenues (4) | 9.4 | 6.4
+Operating income/(loss), as reported (GAAP) | (703.9) | 1,121.3 | (162.8)%
+Restructuring and impairment costs (1) | 78.2 | 39.6
+International transaction and integration-related items (2) | 60.5 | 69.0
+2018 U.S. stock award (3) | — | 14.4
+Nestlé transaction and integration-related costs (5) | 35.0 | 2.3
+Non-GAAP operating income/(loss) | (530.2) | 1,246.6 | (142.5)%
+Operating margin, as reported (GAAP) | (16.7) | 16.4 | (3,310) bps
+Restructuring and impairment costs (1) | 1.9 | 0.7
+International transaction and integration-related items (2) | 1.4 | 1.0
+2018 U.S. stock award (3) | — | 0.2
+Nestlé transaction and integration-related costs (5) | 0.8 | —
+Non-GAAP operating margin | (12.6) | 18.3 | (3,090) bps
+Diluted net earnings/(loss) per share, as reported (GAAP) | (0.58) | 1.12 | (151.8)%
+Gain on sale of certain retail operations | — | (0.49)
+Restructuring and impairment costs (1) | 0.07 | 0.04
+International transaction and integration-related items (2) | 0.05 | 0.06
+2018 U.S. stock award (3) | — | 0.01
+Nestlé transaction and integration-related costs (5) | 0.03 | —
+Income tax effect on Non-GAAP adjustments (6) | (0.03) | 0.04
+Non-GAAP earnings/(loss) per share | (0.46) | 0.78 | (159.0)%
+[/TABLE]
+
+(1)
+Represents costs associated with our restructuring efforts, primarily severance and asset impairments related to certain company-operated store closures and impairment of an intangible asset.
+(2)
+Includes transaction costs for the acquisition of our East China joint venture; ongoing amortization expense of acquired intangible assets associated with the acquisition of East China and Starbucks Japan; and the related post-acquisition integration costs, such as incremental information technology and compensation-related costs.
+(3)
+Represents incremental stock-based compensation award for U.S. partners (employees).
+(4)
+Non-GAAP G&A as a percentage of total net revenues for the third quarter of fiscal 2020 was 9.4%. Non-GAAP G&A as a percentage of total net revenues for fiscal years 2019 and 2018 was 6.5% and 6.4%, respectively. Refer to the Starbucks Investor Relations website for additional information regarding historical non-GAAP information. 
+(5)
+Represents costs associated with the Global Coffee Alliance with Nestlé.
+(6)
+Adjustments were determined based on the nature of the underlying items and their relevant jurisdictional tax rates.
+19
+Q3 QTD FY20 NON-GAAP DISCLOSURE DETAILS
+(Pretax $ in millions and USD)
+
+[TABLE]
+Q3 QTD FY20 | Americas | International | Channel Development | Corporate and Other | Consolidated
+Statement of Earnings Line Item | Restructuring, Impairment and Optimization Costs | International Transaction and Integration Costs | Restructuring, Impairment and Optimization Costs | Nestlé Transaction and Integration-Related Costs | International Transaction and Integration Costs | Restructuring, Impairment & Optimization Costs | Total Non-GAAP Adjustment
+Net revenue
+Production and distribution costs | —
+Store operating expenses | 4.3 | 4.3
+Other operating expenses | 35.0 | 35.0
+Depreciation and amortization expenses | 52.9 | 52.9
+General and administrative expenses | 3.0 | 0.3 | 0.1 | 3.4
+Restructuring and impairments | 56.2 | (0.2) | 22.1 | 78.1
+Income from equity investees | —
+Total impact to operating loss | (56.2) | (60.2) | 0.2 | (35.0) | (0.3) | (22.2) | (173.7)
+[/TABLE]
+
+#
+20
+
+[TABLE]
+Quarter Ended | Year Ended
+Consolidated | Sep 27, 2020 | Sep 27, 2020
+(Projected) | (Projected)
+Diluted net earnings per share (GAAP) | $ 0.06 - 0.21 | $ 0.50 - 0.65
+Restructuring and impairment costs (1) | 0.11 | 0.18
+International transaction and integration-related items (2) | 0.05 | 0.20
+Nestlé transaction and integration-related costs | — | 0.04
+Income tax effect on Non-GAAP adjustments (3) | (0.04) | (0.09)
+Non-GAAP earnings per share | $ 0.18 - 0.33 | $ 0.83 - 0.98
+[/TABLE]
+
+(1)
+Represents costs associated with our restructuring efforts in the U.S. and Canada company-operated business and impairment of an intangible asset.
+(2)
+Includes transaction costs for the acquisition of our East China joint venture; ongoing amortization expense of acquired intangible assets associated with the acquisition of East China and Starbucks Japan; and the related post-acquisition integration costs, such as incremental information technology and compensation-related costs.
+(3)
+Adjustments were determined based on the nature of the underlying items and their relevant jurisdictional tax rates.
+#

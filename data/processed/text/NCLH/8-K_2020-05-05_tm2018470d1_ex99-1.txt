@@ -1,0 +1,468 @@
+EX-99.1
+
+2
+
+tm2018470d1_ex99-1.htm
+
+EXHIBIT 99.1
+
+EXHIBIT 99.1
+
+Recent Developments
+
+Together with its consolidated subsidiaries,
+Norwegian Cruise Line Holdings Ltd. (“NCLH”) is referred to in this exhibit as the “Company,” “our,”
+ “us” and “we”. Our direct subsidiary, 
+NCL Corporation Ltd., is referred
+to in this exhibit as “NCLC”.
+
+COVID-19
+
+The
+spread of the novel coronavirus (“COVID-19”) and the recent developments surrounding the global pandemic are having
+significant negative impacts on our business. In particular:
+
+[TABLE]
+● | In March 2020, t he Company implemented a voluntary suspension of all cruise voyages across its three brands, which has subsequently been extended through June 30, 2020. On March 14, 2020, concurrent with our and the broader cruise industry’s suspension, the U.S. Centers for Disease Control and Prevention (“CDC”) issued a No Sail Order through April 13, 2020. On April 9, 2020, the CDC modified its existing No Sail Order to extend it until the earliest of (a) the expiration of the Secretary of Health and Human Services’ declaration that COVID-19 constitutes a public health emergency, (b) the date the Director of the CDC rescinds or modifies the No Sail Order or (c) 100 days after the order appears on the Federal Register, which would be July 24, 2020. In addition, the duration of any voluntary suspensions we have implemented and resumption of operations outside of the United States will be dependent, in part, on various travel restrictions and travel bans issued by various countries around the world, as well as the availability of ports around the world .
+● | All 28 ships in the Company’s fleet are in safe haven in port or at anchor and all passengers were disembarked by March 28, 2020.
+● | The Company currently has unencumbered assets comprising:
+[/TABLE]
+
+[TABLE]
+(i) | two vessels with
+an aggregate appraised value of approximately $740 million;
+[/TABLE]
+
+[TABLE]
+(ii) | two islands, which
+are important destinations for our cruise operations. The aggregate appraised real estate market value is approximately $260 million.
+We believe using this appraisal method does not appropriately reflect the value of the islands to our operations. The aggregate
+appraised limited-scope business enterprise investment value is approximately $710 million, based on a future cash-flow valuation
+of the operations of these islands; and
+[/TABLE]
+
+[TABLE]
+(iii) | all (A) registered and applied-for
+trademarks and domain names owned by NCLC, (B) rights in NCLC’s customer data with respect to U.S. and U.K. residents, (C)
+rights in Seven Seas’, Oceania Cruises’ and Prestige Holdings’ customer data with respect to residents in any
+jurisdiction (together with (B), “Customer Data”), and (D) all intellectual property owned, and all other material
+registered intellectual property controlled by, Seven Seas, Oceania Cruises, or Prestige Holdings as of the issue date of the
+Secured Notes. The Company anticipates assigning all intellectual property referenced in clauses (A) and (B) that it owns
+as of the issue date of the Secured Notes to two newly formed, wholly-owned subsidiaries of the NCLC (each such subsidiary, an
+ “IP HoldCo”) (which will be allocated to each IP Holdco based on jurisdictions), and NCLC and each IP HoldCo will
+enter into a license agreement whereby each such IP HoldCo will license such transferred intellectual property to NCLC on the
+following terms (the “IP Licenses”): grant of a perpetual, worldwide, irrevocable (except in the case of non-payment
+of royalties), nonsublicenseable without U.S. Bank National Association’s prior written consent (except to NCLC subsidiaries),
+royalty-bearing (other than with respect Customer Data, which will be royalty-free), non-exclusive license. The registered and
+applied-for trademarks and domain names owned by NCLC, and those owned or controlled by Seven Seas and Prestige Holdings, have
+an aggregate appraised value of approximately $2 billion.
+[/TABLE]
+
+[TABLE]
+Additionally,
+ we have ten vessels which are financed by export credit agency (“ECA”) facilities. Collectively, these vessels
+ have an aggregate appraised value of approximately $8.8 billion and secure approximately $4.4 billion of aggregate indebtedness. 1
+● | On
+ May 5, 2020, NCLH updated Note 2 of its consolidated financial statements
+ (“Financial Statements”) in its Annual Report on Form 10-K for the year ended December 31, 2019 (the “2019
+ Form 10-K”) to add a “Liquidity and Management’s Plan” discussion and updated Note 18 of the
+ Financial Statements in the 2019 Form 10-K to add a discussion on litigation matters and investigations by governmental
+ agencies since December 31, 2019 in connection with events surrounding COVID-19. In addition, NCLH’s
+ independent registered public accounting firm reissued its report covering the Financial Statements included in the 2019 Form
+ 10-K to include a paragraph noting management’s conclusion regarding substantial doubt about the Company’s
+ ability to continue as a going concern. See below for a further discussion regarding this
+ determination.
+[/TABLE]
+
+Significant
+events affecting travel, including COVID-19, typically have an impact on demand for cruise vacations, with the full extent of the
+impact generally determined by the length of time the event influences travel decisions. 
+We believe the ongoing effects
+of COVID-19 on our operations and global bookings have had, and will continue to have, a significant impact on our financial results
+and liquidity, and such negative impact may continue well beyond the containment of such an outbreak
+.
+In particular:
+
+[TABLE]
+● | As of April 24, 2020, advanced bookings for the remainder of 2020 were meaningfully lower than the prior year, with pricing down mid-single digits. Booking trends indicate demand for cruise vacations in the medium and longer term, with the booked position for 2021 slightly lower compared to same time last year at pricing that is down mid-single digits versus prior year.
+● | Our operations may be
+ suspended beyond our announced suspension through June 30, 2020 depending on the status of the CDC No Sail Order, the development
+ of the COVID-19 outbreak and any additional voluntary suspensions we may determine appropriate. As a result, current booking data
+ for 2020 may not be informative. In addition, because of our updated cancellation policies, bookings may not be representative
+ of actual cruise revenues.
+[/TABLE]
+
+[TABLE]
+1 | The valuations of the islands, vessels and intellectual property set forth in this exhibit exclude known and unknown impacts
+from COVID-19, if any, and the valuations of the vessels were prepared based on the ongoing cruise market as of December 31, 2019.
+[/TABLE]
+
+[TABLE]
+2
+[/TABLE]
+
+In
+March 2020, Moody’s downgraded the long-term issuer and senior unsecured debt ratings of NCLC
+ to Ba2 from Ba1, including
+its corporate family rating and senior secured bank facility, and to B1 from Ba2 on its senior unsecured rating. In April 2020,
+S&P Global downgraded the issuer credit rating of NCLC to BB- from BB+.
+
+As previously disclosed, b
+eginning
+on March 12, 2020, NCLC borrowed the full amount of $1.55 billion under its $875 million revolving credit facility, dated as of
+January 2, 2019 and maturing on January 2, 2024, with JPMorgan Chase Bank, N.A. (“JPM”), as administrative agent and
+as collateral agent, and certain other lenders party thereto (the “Fourth Amended and Restated Credit Agreement”),
+and its $675 million revolving credit facility, dated as of March 5, 2020 and maturing on March 4, 2021, with JPM, as administrative
+agent and as collateral agent, and certain other lenders party thereto (the “Norwegian Epic Credit Agreement”).
+
+The Company also has agreements with its credit card processors that govern approximately $1.6 billion at December 31, 2019 in
+advance ticket sales that have been received by the Company relating to future voyages. These agreements allow the credit card
+processors to require under certain circumstances, including the existence of a material adverse change, excessive chargebacks
+and other triggering events, that the Company maintain a reserve which could be satisfied by posting collateral. The Company is
+in discussions regarding the nature of collateral, if any, relating to these agreements.
+
+We
+have nine newbuilds on order, scheduled to be delivered through 2027. We expect that the effects of COVID-19 on the shipyards where
+our ships are under construction (or will be constructed) will result in delays in ship deliveries, which may be prolonged. We
+have 
+committed export credit facilities that are available to fund newbuilds originally scheduled to be delivered from 2022
+through 2027
+. The export credit financing for the ships on order are expected to fund approximately
+80% of each contract price, subject to certain conditions.
+
+We have taken several measures to
+improve our liquidity through refinancing existing debt amortization, including under our agreements with ECAs and related governments and to extend the maturities and refinancing amortization under other
+agreements. As previously disclosed, we have obtained, or are in the process of seeking, lender consents to refinance
+amortization payments and waive financial covenants during the specified period under our ECA backed facilities on the basis
+of debt holiday principles published by the relevant ECAs. Beginning on April 20, 2020, NCLC amended the export-credit backed
+facilities that finance Norwegian Bliss, Norwegian Breakaway, Norwegian Encore, Norwegian Escape, Norwegian Getaway and
+Norwegian Joy to incorporate the terms of a 12-month debt holiday initiative offered to the cruise industry by Euler Hermes
+Aktiengesellschaft (“Hermes”), the official ECA of Germany. The debt holiday was initiated to provide interim
+debt service and financial covenant relief for borrowers during the current global COVID-19 pandemic with respect to their
+Hermes guaranteed financings. Across these facilities, the amendments with Hermes provide approximately $385 million of
+incremental liquidity to the Company through March 31, 2021. We are in the process of seeking consents to amend our
+export-credit backed facilities to incorporate the terms of a 12-month debt holiday initiative offered to the cruise industry
+by Servizi Assicurativi del Commercio Estero (“SACE”), the official ECA of Italy, to refinance the amortization
+payments on such facilities, but we cannot guarantee the outcome of that process. Beginning on April 28, 2020, NCLC amended
+the credit facilities secured by Pride of America and Norwegian Epic to extend the maturities. Subject to the Company raising
+at least $1 billion in financing by June 30, 2020, the credit facility secured by Norwegian Epic will be further extended and
+approximately $75 million of the amortization for the credit facility secured by Norwegian Jewel will be deferred. In
+addition, we are finalizing an amendment to our Term Loan A, which amendment will defer approximately $70 million of
+amortization. The deferred amortization of approximately $145 million will be repaid 25% per year beginning May 2021 with the
+remaining balance due at the respective maturities. These amendments provide approximately $1 billion of incremental
+liquidity to the Company. 
+
+[TABLE]
+3
+[/TABLE]
+
+We
+are taking significant measures to mitigate the financial and operational impacts of COVID-19 as well as additional actions
+to improve our liquidity through cost reduction and cash conservation measures. In particular, we have identified
+approximately $515 million of capital expenditure reductions, comprised of approximately $345 million of reduction
+opportunities from planned 2020 non-newbuild capital expenditures and are in negotiations to further reduce our capital
+expenditures for newbuild related payments by 
+approximately $170 million (which reduction does not take into account
+the impact on timing of payments in connection with newbuilds as a result of the potential delays in ship deliveries
+discussed above). If successful, the Company does not expect any newbuild-related payments to have an impact on its liquidity
+until April 2021. 
+We have also identified various projects and
+initiatives to reduce our ship operating costs and selling, general and administrative expenses, which we expect will result
+in reduced cash outflows and cost savings. We are undertaking meaningful reductions in ship operating expense including food,
+fuel, insurance, port charges and reduced crew manning of vessels during the suspension, resulting in lower crew payroll
+expense. The majority of the vessels in the Company’s fleet are currently transitioning to cold layup
+2
+,
+to further reduce operating expenses during the suspension. Some other initiatives already implemented include the
+significant reduction or deferral of marketing expenditures in the first half of 2020, the implementation of a company-wide
+hiring freeze, the introduction of a temporary shortened work week and reduced work hours with a commensurate 20% salary
+reduction for shoreside team members, a pause in our 401(k) matching contributions and corporate travel freezes for shoreside
+employees. Further, as part of the Company’s ongoing strategy to improve its ability to sustain the long-term health of
+the business and to preserve financial flexibility during the COVID-19 crisis, on April 29, 2020, the Company informed its
+workforce that approximately 20% of the Company’s shoreside employees will be furloughed. The furlough period will
+generally begin on May 1, 2020 and is expected to continue through July 31, 2020, however, we may change this date to be
+earlier or later based on continued business needs. While on furlough, employees will not receive salary or hourly wages, but
+will continue to receive health benefit coverage if they currently participate in a Company sponsored plan. Shoreside
+employees who have not been furloughed will have a temporary shortened work week and reduced work hours with a commensurate
+20% salary reduction through at least June 22, 2020
+.
+
+[TABLE]
+2 | Warm layup involves a reduced level of crew staffing while a ship is at port awaiting the restart of operations. Cold layup
+involves a further reduction of the level of crew staffing from warm layup while a ship is in a prolonged layup.
+[/TABLE]
+
+[TABLE]
+4
+[/TABLE]
+
+There
+can be no assurance that the accuracy of the assumptions used to estimate our liquidity requirements will be correct, and our
+ability to be predictive is uncertain due to the unknown magnitude and duration of the COVID-19 pandemic, which has resulted
+in travel bans, limited access to ports and the cessation of our cruising operations for the first time in our history.
+Further, there can be no assurance that we will be successful in the deferral of additional debt amortization and newbuild
+related payments. Taken together, the aforementioned cash conservation measures and the potential deferral of near-term debt
+amortization and newbuild related payments,
+3
+
+the Company now estimates its liquidity requirements to be on average in the range of, approximately $110 million to $150
+million per month during the suspension of operations or approximately $5.4 million of cash expenditures per month per warm
+ship layup and $3.9 million per month per cold ship layup.
+4
+
+This includes ongoing ship operating expenses, administrative operating costs, interest expense and expected necessary
+capital expenditures. This excludes cash refunds of customer deposits, which are estimated to be, based on behavior to date,
+approximately 50% of the Company’s balance of advance ticket sales during the suspension of cruise voyages, as well as
+incoming cash from new bookings or payments on existing bookings. 
+This also excludes expenses and costs associated
+with restarting operations. This assumes deferral of principal payments on debt and newbuild capital expenditures but
+includes incremental interest expense for such deferrals. In particular:
+
+[TABLE]
+● | Ongoing
+ ship and administrative operating costs - During the temporary suspension of our cruise voyages, and depending on certain
+ operational circumstances, some of our ships will be in warm ship layup where the ship will be manned by a reduced crew and
+ other ships will be in a cold ship layup where the ship manning will be further reduced. In addition, we expect to
+ incur ongoing selling and administrative expenses, and incremental COVID-19 related costs associated with new health and
+ sanitization protocols for our ships and defending lawsuits, although we have substantially reduced our advertising spend
+ during the suspension of voyages. We anticipate estimated ongoing ship operating expense and administrative
+ operating costs to range from approximately $70 million to $110 million per month during the suspension of
+ operations. In addition, we expect interest expense, taxes and maintenance capital expenditures to be
+ approximately $40 million per month during the suspension of operations. As
+ outlined above, assuming the current deferral discussions are successful, we do not expect any newbuild-related payments to
+ have an impact on our liquidity until April 2021. At March 31, 2020, the Company’s cash and cash equivalents were $1.4
+ billion.
+[/TABLE]
+
+[TABLE]
+3 | Assumes $698 million of debt amortization payments through March 31, 2021 are granted a 12-month deferral. $386 million of
+these debt amortization payments related to Hermes-backed financing have already been finalized. Also assumes approximately $170
+million of newbuild related payments due over the next 12 months are also granted a 12-month deferral.
+[/TABLE]
+
+[TABLE]
+4 | Based on hypothetical scenario of entire fleet in cold layup or entire fleet in warm layup.
+[/TABLE]
+
+[TABLE]
+5
+[/TABLE]
+
+[TABLE]
+● | Cash refunds of customer deposits - During the temporary suspension of our cruise voyages, we expect to be required to pay cash refunds of advanced ticket sales with respect to a portion of our cancelled cruises. All three brands have instituted programs for guests on cancelled sailings as a result of the Company’s voyage suspension which include offering value-add future cruise credits typically for 125% of the cruise fare paid in lieu of providing cash refunds. As of March 31, 2020, the Company had $1.8 billion of advanced ticket sales. This includes approximately $850 million for previously announced voyage cancellations through June 30, 2020 where guests have the option of either a future cruise credit or a cash refund and approximately $350 million for voyages scheduled for the remainder of 2020. Depending on the length of the suspension and level of guest acceptance of future cruise credits, we may be required to provide cash refunds for a substantial portion of the balance, as guests on cancelled sailings were automatically awarded future cruise credits and have the opportunity to contact us to request a cash refund rather than future cruise credits. As of April 24, 2020, approximately half of the guests who have had their voyages cancelled and who have contacted us have requested cash refunds. There can be no assurance that the percentage of passengers that accept future cruise certificates over cash refunds will remain in this range as the number of cancelled voyages increases. Guests who have accepted future cruise credits may utilize those credits until December 31, 2022. The use of such credits may prevent us from future cash collections as staterooms booked by guests with such credits will not be available for sale, resulting in less cash collected from bookings to new guests; however, we may benefit from the onboard revenue from these guests. Norwegian continues to take future bookings for 2020, 2021 and 2022, and receive new customer deposits and final payments on these bookings which will offset a portion of the outflow from expected cash refunds.
+[/TABLE]
+
+[TABLE]
+● | Debt amortization and interest - As of March 31, 2020, the current portion of our long-term debt was $320 million, which takes into account the principal amortization deferrals that have been finalized. Beginning on or around March 12, 2020, NCLC borrowed the full amount of $1.55 billion under the Fourth Amended and Restated Credit Agreement and the Norwegian Epic Credit Agreement . Based on the year ended December 31, 2019, our approximately $255 million per year interest expense, adjusted for losses on extinguishment and modification of debt, will be increased by the additional interest accrued under the Fourth Amended and Restated Credit Agreement and the Norwegian Epic Credit Agreement . At March 31, 2020, the Company’s cash and cash equivalents were $1.4 billion and the Company believes it was in compliance with all debt covenants. As set forth above, approximately $385 million of payments related to guaranteed financing by Hermes has been refinanced through April 2021 and is repayable over four years beginning after the 12 month debt holiday. Beginning on April 28, 2020, NCLC amended the credit facilities that finance Pride of America, Norwegian Epic and Norwegian Jewel to extend the maturity of, or defer amortization with respect to, certain of the debt outstanding under the agreements. Subject to the Company raising at least $1 billion in financing, the credit facility secured by Norwegian Epic will be further extended and approximately $75 million of the amortization for the credit facility secured by Norwegian Jewel will be deferred. In addition, we are finalizing an amendment to our Term Loan A, which amendment will defer approximately $70 million of amortization. The deferred amortization of approximately $145 million will be repaid 25% per year beginning May 2021 with the remaining balance due at the respective maturities. These amendments provide approximately $1 billion of incremental liquidity to the Company.
+[/TABLE]
+
+[TABLE]
+6
+[/TABLE]
+
+The Company is also currently evaluating
+different strategies to enhance its liquidity position as a result of the significant financial and operational impacts due to
+the outbreak of the COVID-19.
+
+On
+or around March 6, 2020, our brands launched new cancellation policies to permit our guests to cancel cruises which are not part
+of the Company’s temporary suspension of voyages up to 48 hours prior to embarkation and receive a refund in the form of
+a credit to be applied toward a future cruise. These programs are currently in place for cruises booked through specific time periods
+specified by brand, and for cruises scheduled to embark through either September 30 or December 31, 2020, depending on the brand.
+The future cruise credit is valid for any sailing through December 31, 2022, and we may extend this offer.
+
+The
+Company is consulting with Dr. Scott Gottlieb, former Commissioner of the U.S. Food and Drug Administration and an experienced
+public health and medical policy expert, as an advisor to provide independent public health counsel as the Company develops the
+next level of health and safety standards. New health and safety measures will further enhance the Company’s already rigorous
+protocols as it prepares for the resumption of cruise voyage operations. Dr. Gottlieb is currently a resident fellow at the American
+Enterprise Institute (AEI), and serves as an investor and a member of public company boards.
+
+This
+is the first time we have completely suspended our cruise voyages, and as a result of these unprecedented circumstances, we are
+not able to predict the full impact of such a suspension on our Company. In addition, the magnitude and duration of the global
+pandemic is uncertain. Consequently, we cannot estimate the impact on our business, financial condition or near- or longer-term
+financial or operational results with certainty, but we expect to report a net loss on both a U.S. GAAP and adjusted basis for
+the quarter ended March 31, 2020 and the year ending December 31, 2020.
+
+The
+factors described above, in particular the suspension of cruise voyages and decline in advanced bookings, as well as debt maturities
+and other obligations over the next year,
+ have raised substantial doubt about the Company’s ability to continue as
+a going concern, as the Company does not have sufficient liquidity to meet its obligations over the next twelve months, assuming
+no additional financing or other proactive measures. As detailed above, the Company has taken, and anticipates taking, additional
+actions to increase liquidity, extend debt maturities, delay obligations and reduce operating costs. In addition, the Company has
+been evaluating a number of financing transactions that, if successful, would provide net proceeds which are anticipated to be
+sufficient to provide the liquidity necessary to satisfy its obligations over the next twelve months, including the maintenance
+of minimum levels of liquidity required by certain of our debt agreements. There can be no assurance, however, that the Company
+will be able to complete such transactions and raise sufficient additional capital or take other actions that will provide it with
+sufficient liquidity to satisfy its obligations over the next twelve months or maintain minimum levels of liquidity as required
+by certain of our debt agreements.
+
+[TABLE]
+7
+[/TABLE]
+
+Preliminary First Quarter 2020 Financial Results
+
+Our financial statements for the three months
+ended March 31, 2020 are not yet complete. Accordingly, we are presenting preliminary estimates of certain financial information
+that we expect to report for the three months ended March 31, 2020. The following information is based on our internal management
+accounts and reporting as of and for the three months ended March 31, 2020, as compared to our reviewed results for the three months
+ended March 31, 2019. Given the timing of these estimates, we have not completed our customary financial closing and review procedures,
+including, but not limited to, the completion of impairment tests for property, plant and equipment, goodwill and intangible assets
+as well as full income tax calculations. As of December 31, 2019, there was $523.0 million, $462.1 million and $403.8 million of
+goodwill for the Oceania Cruises, Regent Seven Seas Cruises and Norwegian Cruise Line reporting units, respectively. Based on the
+results of the “step 1 tests,” as of December 31, 2019, we determined there was no impairment of goodwill because the
+fair value of the Regent Seven Seas Cruises and Norwegian Cruise Line reporting units substantially exceeded their carrying values.
+The fair value of the Oceania Cruises reporting unit exceeded the carrying value by 24%. As of December 31, 2019, the value of
+our tradenames was approximately $817 million. As of December 31, 2019, our tests supported the carrying values of these assets;
+however, as a result of the COVID-19 pandemic, we determined that a triggering event occurred in the first quarter of 2020, which
+requires us to test our tradenames and goodwill for impairment. As of the date of this filing, the impairment assessment is not
+yet completed; however, we have included a provisional write-off amount ranging from $1.5 billion to $1.7 billion for tradenames
+and goodwill based on the initial analysis. As this analysis is not completed, these amounts may change. Additionally, the impairment
+of our goodwill and tradenames is expected to change our income tax provision once completed.
+
+The preliminary financial information
+included in this exhibit has been prepared by, and is the responsibility of, the Company’s management. The preliminary
+estimated results of operations are subject to revision as we prepare our financial statements and disclosure for the three
+months ended March 31, 2020, and such revisions may be significant. In connection with our quarterly closing and review
+process for the first quarter of 2020, we may identify items that would require us to make adjustments to the preliminary
+estimated results of operations set forth above. Accordingly, the final results and other disclosures for the three months
+ended March 31, 2020 may differ materially from this preliminary estimated data. This preliminary estimated financial data
+should not be viewed as a substitute for financial statements prepared in accordance with U.S. GAAP. The Company expects to
+file its Quarterly Report on Form 10-Q for the quarter ended March 31, 2020 no later than May 15, 2020.
+PricewaterhouseCoopers LLP has not audited, reviewed, compiled, or applied agreed-upon procedures with respect to the
+preliminary estimated financial data for the three months ended March 31, 2020. Accordingly, PricewaterhouseCoopers LLP does
+not express an opinion or any other form of assurance with respect thereto.
+
+Based on the foregoing, our total revenues
+are currently expected to be in the range of approximately $1.2 billion to $1.3 billion for the three months ended March 31, 2020,
+compared to $1.4 billion for the three months ended March 31, 2019. Total cruise operating expenses are expected to be in the range
+of $1.0 billion to $1.1 billion for the three months ended March 31, 2020, compared to $826.7 million for the three months ended
+March 31, 2019. We expect to incur a net loss ranging from $1.8 billion to $1.9 billion as compared to net income of $118 million
+for the three months ended March 31, 2019. We currently expect Adjusted EBITDA to be in the range of $5 million to $25 million
+for the three months ended March 31, 2020, compared to $361 million for the three months ended March 31, 2019.
+
+[TABLE]
+8
+[/TABLE]
+
+EBITDA and Adjusted EBITDA were calculated
+as follows (in thousands):
+
+[TABLE]
+Three Months Ended
+March 31, 2020 (Preliminary) | March 31, 2019
+Low Range | High Range
+Net income (loss) | (1,800,000 | (1,927,000 | 118,157
+Interest expense, net | 69,000 | 69,000 | 73,503
+Income tax benefit | (6,000 | (6,000 | (33,798
+Depreciation and amortization expense | 173,000 | 200,000 | 169,741
+EBITDA | (1,564,000 | (1,664,000 | 327,603
+Other (income) expense, net (1) | (5,000 | (5,000 | 434
+Non-GAAP Adjustments:
+Non-cash deferred compensation (2) | 1,000 | 1,000 | 534
+Non-cash share-based compensation (3) | 33,000 | 33,000 | 26,999
+Redeployment of Norwegian Joy (4) | — | — | 5,016
+Impairment losses (5) | 1,540,000 | 1,660,000
+Adjusted EBITDA | 5,000 | 25,000 | 360,586
+[/TABLE]
+
+[TABLE]
+(1) | Primarily consists of gains and losses, net for proceeds from insurance, a litigation settlement and foreign currency exchanges.
+[/TABLE]
+
+[TABLE]
+(2) | Non-cash deferred compensation expenses related to the crew pension plan and other crew expenses, which are included in payroll
+and related expense.
+[/TABLE]
+
+[TABLE]
+(3) | Non-cash share-based compensation expenses related to equity awards, which are included in marketing, general and administrative
+expense and payroll and related expense.
+[/TABLE]
+
+[TABLE]
+(4) | Expenses related to the redeployment of Norwegian Joy from Asia to the U.S. and the closing of the Shanghai office, which are
+included in other cruise operating expense and marketing, general and administrative expense.
+[/TABLE]
+
+[TABLE]
+(5) | Impairment losses consist of impairment charges of our goodwill and tradenames and the amounts are preliminary.
+[/TABLE]
+
+Terminology
+
+Adjusted EBITDA
+. EBITDA adjusted for
+other income, net and other supplemental adjustments.
+
+EBITDA
+. Earnings before interest, taxes,
+and depreciation and amortization.
+
+Non-GAAP Financial Measures
+
+We use certain non-GAAP financial measures,
+such as Adjusted EBITDA, to enable us to analyze our performance. See “Terminology” for the definitions of these non-GAAP
+financial measures. We believe that Adjusted EBITDA is appropriate as a supplemental financial measure as it is used by management
+to assess operating performance. We also believe that Adjusted EBITDA is a useful measure in determining our performance as it
+reflects certain operating drivers of our business, such as sales growth, operating costs, marketing, general and administrative
+expense and other operating income and expense. Adjusted EBITDA is not a defined term under GAAP nor is it intended to be a measure
+of liquidity or cash flows from operations or a measure comparable to net income, as it does not take into account certain requirements
+such as capital expenditures and related depreciation, principal and interest payments and tax payments and it includes other supplemental
+adjustments.
+
+[TABLE]
+9
+[/TABLE]
+
+Other Recent Developments
+
+On
+March 12, 2020, a class action complaint, Eric Douglas v. Norwegian Cruise Lines, Frank J. Del Rio and Mark A. Kempa, Case No.
+1:20-CV-21107 (“Douglas Class Action”), was filed in the United States District Court for the Southern District of
+Florida, naming the Company, Frank J. Del Rio, the Company’s President and Chief Executive Officer, and Mark A. Kempa, the
+Company’s Executive Vice President and Chief Financial Officer, as defendants. Subsequently, two similar class action complaints
+were also filed in the United States District Court for the Southern District of Florida naming the same defendants. These complaints
+assert claims, purportedly brought on behalf of a class of shareholders, under Sections 10(b) and 20(a) of the Securities Exchange
+Act of 1934, and Rule 10b-5 promulgated thereunder, and allege that the Company made false and misleading statements to the market
+and customers about COVID-19 and its impact on its business. Each of the complaints seek unspecified damages and an award of costs
+and expenses, including reasonable attorneys’ fees, on behalf of a purported class of purchasers of our ordinary shares between
+February 20, 2020 and either March 11, 2020 or March 12, 2020. We believe that the allegations contained in the complaints are
+without merit and intend to defend the complaints vigorously. We cannot predict at this point the length of time that these actions
+will be ongoing or the liability, if any, which may arise therefrom. If these suits are successful, they could result in substantial
+monetary damages against the Company.
+
+In
+addition, in March 2020 the Florida Attorney General announced an investigation related to the Company’s marketing to customers
+during the COVID-19 outbreak. 
+Following the announcement of the investigation by the Florida Attorney General, we received
+notifications from other attorneys general and governmental agencies that they are conducting similar investigations
+.
+The Company is cooperating with these ongoing investigations, the outcomes of which cannot be predicted at this time.
+
+We
+may be the subject of additional lawsuits and investigations stemming from COVID-19. We cannot predict the number or outcome of
+any such proceedings and the impact that they or the matters described above will have on our financial results, but any such impact
+may be material. 
+
+On
+August 27, 2019, two lawsuits were filed against Norwegian Cruise Line Holdings Ltd. in the United States District Court for the
+Southern District of Florida under Title III of the Cuban Liberty and Solidarity (Libertad) Act of 1996, also known as the Helms-Burton
+Act. The complaint filed by Havana Docks Corporation alleges it holds an interest in the Havana Cruise Port Terminal and the complaint
+filed by Javier Garcia-Bengochea alleges that he holds an interest in the Port of Santiago, Cuba, both of which were expropriated
+by the Cuban Government. The complaints further allege that the Company “trafficked” in those properties by embarking
+and disembarking passengers at these facilities. The plaintiffs seek all available statutory remedies, including the value of the
+expropriated property, plus interest, treble damages, attorneys’ fees and costs. On January 7, 2020, the United States District
+Court for the Southern District of Florida dismissed the claim by Havana Docks Corporation. On April 14, 2020, the district court
+granted Havana Docks Corporation’s motion to reconsider and vacated its order dismissing the claim, allowing Havana Docks
+Corporation to file an amended complaint on April 16, 2020. On April 24, 2020, we filed a motion seeking permission to appeal the
+district court’s order. We believe we have meritorious defenses to the claims and intend to vigorously defend these matters.
+If these suits are successful, they could result in substantial monetary damages, which may include treble damages, against the
+Company.
+
+[TABLE]
+10
+[/TABLE]
