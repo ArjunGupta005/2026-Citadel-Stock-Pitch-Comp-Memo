@@ -52,7 +52,6 @@ The process was pre-registered to keep the idea selection honest:
 | Path | Contents |
 |---|---|
 | `MarginCallers.pdf` / `.xlsx` | Final submitted memo and model |
-| `memo/` | Plain-text version of the memo |
 | `final/` | HTML source of the final memo, QA report and rendered page check |
 | `00`–`04_*.md` | Locked framework, PM questions, scorecard, research log and restart criteria |
 | `candidates/<TICKER>/` | Per-name investigation notes and catalyst maps |
